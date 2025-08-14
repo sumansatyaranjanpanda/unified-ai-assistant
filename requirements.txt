@@ -17,16 +17,16 @@ tensorflow==2.15.0
 
 # GenAI / OpenAI - FIXED VERSIONS
 openai==1.35.0
-langchain==0.1.14
-langchain-community==0.0.33
+langchain==0.2.11
+langchain-community==0.2.10
 langchain-openai==0.1.8
-langchain-core>=0.1.43,<0.2.0
+langchain-core==0.2.23
 langchainhub==0.1.15
 
 # Vector Stores / RAG
 faiss-cpu==1.8.0
 chromadb==0.4.24
-tiktoken>=0.7.0,<1.0.0
+tiktoken==0.7.0
 
 # File Parsing
 PyPDF2==3.0.1
