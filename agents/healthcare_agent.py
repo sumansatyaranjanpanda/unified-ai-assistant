@@ -97,7 +97,7 @@ def run_healthcare_agent():
         elif mode == "DL (free-text)":
             st.markdown("### Predict Disease from Symptoms (DL Model)")
            
-            ## Voice input placeholder (will implement browser-based later)
+            # Voice input placeholder (will implement browser-based later)
             st.info("🎙️ Voice input temporarily disabled for deployment. Browser-based voice coming soon!")
 
             text_input = st.text_area("Type your symptoms here:")    
