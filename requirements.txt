@@ -1,19 +1,19 @@
 # Core
-python-dotenv==1.0.1
-streamlit==1.35.0
-pydantic==2.6.4
-tqdm==4.66.4
+python-dotenv
+streamlit
+pydantic
+tqdm
 
 # ML/DL/NLP
-scikit-learn==1.4.2
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.9.0
-nltk==3.8.1
-spacy==3.7.4
-transformers==4.39.3
-sentence-transformers==2.5.1
-tensorflow==2.15.0
+scikit-learn
+pandas
+numpy
+matplotlib
+nltk
+spacy
+transformers
+sentence-transformers
+tensorflow
 
 # GenAI / OpenAI - LET DEPENDENCY RESOLVER PICK COMPATIBLE VERSIONS
 langchain-openai
@@ -25,30 +25,26 @@ openai
 tiktoken
 
 # Vector Stores / RAG
-faiss-cpu==1.8.0
-chromadb==0.4.24
+faiss-cpu
+chromadb
 
 # File Parsing
-PyPDF2==3.0.1
-unstructured==0.14.2
-python-docx==1.1.0
-pdfminer.six==20231228
+PyPDF2
+unstructured
+python-docx
+pdfminer.six
 
-# Agentic AI
-duckduckgo-search==5.1.0
-beautifulsoup4==4.12.3
-html2text==2024.2.26
-requests==2.32.3
+
 
 # Logging and Utility
-loguru==0.7.2
-termcolor==2.4.0
-rich==13.7.1
+loguru
+termcolor
+rich
 
 # Deployment
-gunicorn==22.0.0
-uvicorn==0.29.0
+gunicorn
+uvicorn
 
 # Add these for compatibility
-typing-extensions==4.8.0
-protobuf==4.25.0
+typing-extensions
+protobuf
