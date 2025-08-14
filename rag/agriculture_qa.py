@@ -8,17 +8,8 @@ from langchain.chat_models import ChatOpenAI
 load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
-from langchain_openai import ChatOpenAI
-import traceback
-
-try:
-    llm = ChatOpenAI(
-        model="gpt-4o",  # or "gpt-4o-mini" for cheaper
-        temperature=0.7  # must be float, not string
-    )
-except Exception as e:
-    print("ChatOpenAI init failed:\n", traceback.format_exc())
-    raise
+llm=ChatOpenAI(
+    model_name="gpt-3.5-turbo")
 
 # Compute project root (one level up from this file)
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))

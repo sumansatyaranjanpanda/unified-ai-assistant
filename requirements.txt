@@ -18,7 +18,7 @@ tensorflow==2.15.0
 # GenAI / OpenAI
 openai==1.25.0
 langchain==0.1.14
-langchain-community==0.0.33
+langchain-community==0.0.20
 langchain-openai==0.0.8
 langchain-core>=0.1.43,<0.2.0
 langchainhub==0.1.15
