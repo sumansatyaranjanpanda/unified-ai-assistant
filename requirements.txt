@@ -15,11 +15,11 @@ transformers==4.39.3
 sentence-transformers==2.5.1
 tensorflow==2.15.0
 
-# GenAI / OpenAI
-openai==1.25.0
+# GenAI / OpenAI - FIXED VERSIONS
+openai==1.35.0
 langchain==0.1.14
 langchain-community==0.0.33
-langchain-openai==0.0.8
+langchain-openai==0.1.8
 langchain-core>=0.1.43,<0.2.0
 langchainhub==0.1.15
 
@@ -53,7 +53,6 @@ uvicorn==0.29.0
 # SpeechRecognition==3.10.4
 # pyaudio==0.2.14
 # openai-whisper==20231117
-#
 
 # Add these for compatibility
 typing-extensions==4.8.0
