@@ -21,3 +21,4 @@ logs/*.log
 
 # OS files
 Thumbs.dbstreamlit/secrets.toml 
+streamlit/secrets.toml 
