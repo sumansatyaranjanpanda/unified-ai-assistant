@@ -20,4 +20,4 @@ logs/*.log
 .idea/
 
 # OS files
-Thumbs.db
+Thumbs.dbstreamlit/secrets.toml 
