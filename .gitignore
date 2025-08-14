@@ -6,8 +6,6 @@ __pycache__/
 .env
 embeddings/glove.6B.100d.txt
 
-# Streamlit secrets
-.streamlit/secrets.toml
 
 # Model files (if too large for GitHub)
 models/*.h5
