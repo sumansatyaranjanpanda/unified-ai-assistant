@@ -13,7 +13,9 @@ nltk
 spacy
 transformers
 sentence-transformers
-tensorflow
+tensorflow>=2.14
+keras>=3.0.0
+
 
 # GenAI / OpenAI - LET DEPENDENCY RESOLVER PICK COMPATIBLE VERSIONS
 langchain-openai
