@@ -9,7 +9,7 @@ load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 llm=ChatOpenAI(
-    model_name="gpt-3.5-turbo")
+    model_name="gpt-3.5-turbo",temperature=0)
 
 # Compute project root (one level up from this file)
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
