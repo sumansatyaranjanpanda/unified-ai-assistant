@@ -11,7 +11,11 @@ A **scalable GenAI assistant** that seamlessly integrates **Machine Learning**, 
 ## 🎬 Demo & Screenshots
 
 ### 🎥 Video Demo
-*[Add your video demo here]*
+
+https://github.com/user-attachments/assets/5f37ac81-4632-43e6-b8ee-b7bf73e691a7
+
+
+
 
 
 ### 📸 Screenshots
