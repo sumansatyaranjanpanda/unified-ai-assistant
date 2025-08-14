@@ -15,18 +15,18 @@ transformers==4.39.3
 sentence-transformers==2.5.1
 tensorflow==2.15.0
 
-# GenAI / OpenAI - CONSERVATIVE COMPATIBLE VERSIONS
-openai==1.12.0
-langchain==0.1.20
-langchain-community==0.0.38
-langchain-openai==0.1.6
-langchain-core==0.1.52
-langchainhub==0.1.15
+# GenAI / OpenAI - LET DEPENDENCY RESOLVER PICK COMPATIBLE VERSIONS
+langchain-openai
+langchain
+langchain-community
+langchain-core
+langchainhub
+openai
+tiktoken
 
 # Vector Stores / RAG
 faiss-cpu==1.8.0
 chromadb==0.4.24
-tiktoken==0.6.0
 
 # File Parsing
 PyPDF2==3.0.1
