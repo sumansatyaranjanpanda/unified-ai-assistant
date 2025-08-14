@@ -19,14 +19,20 @@ A **scalable GenAI assistant** that seamlessly integrates **Machine Learning**, 
 
 #### Healthcare Domain - Disease Prediction
 
+<img width="1920" height="1080" alt="Screenshot 2025-08-14 232346" src="https://github.com/user-attachments/assets/3a718529-128b-416d-a16c-b97e59edcaaf" />
 
-#### Agriculture Domain - Smart Farming Assistant  
-*[Add screenshot of agriculture interface]*
+ML model-Random forest
+<img width="1876" height="1027" alt="Screenshot 2025-08-14 232718" src="https://github.com/user-attachments/assets/3a381223-9685-499c-9361-c27a0f020fab" />
+<img width="1879" height="1053" alt="Screenshot 2025-08-14 232707" src="https://github.com/user-attachments/assets/cd9ad666-b4ba-4399-b520-7bf1f93175c5" />
+<img width="1885" height="1049" alt="Screenshot 2025-08-14 232630" src="https://github.com/user-attachments/assets/23b0d765-6c9e-42e5-9b97-3ce44a63ff02" />
+GENERATIVE AI-LANGCHAIN 
+<img width="1881" height="1009" alt="Screenshot 2025-08-14 232552" src="https://github.com/user-attachments/assets/39baccaa-c56d-4e2b-9951-2cf889ada04b" />
+DL Model-Bi-directional-LSTM and Glove Embedding
+<img width="1873" height="1032" alt="Screenshot 2025-08-14 232526" src="https://github.com/user-attachments/assets/8fdab601-607c-4c80-9b00-516c90e88245" />
+<img width="1903" height="1073" alt="Screenshot 2025-08-14 232509" src="https://github.com/user-attachments/assets/6fecc846-1f79-4216-92d3-4c8f60ced105" />
+<img width="1892" height="1035" alt="Screenshot 2025-08-14 232419" src="https://github.com/user-attachments/assets/0fcd7230-e7d9-4146-a2ab-40ee5a0a55cc" />
+<img width="1889" height="1060" alt="Screenshot 2025-08-14 232400" src="https://github.com/user-attachments/assets/3765077c-d3e2-4ef6-99c9-63477a856e64" />
 
-#### Finance Domain - Personal Finance Advisor
-*[Add screenshot of finance interface]*
-
----
 
 ## ✨ Key Features
 
@@ -187,13 +193,7 @@ Visit `http://localhost:8501` to access the application! 🎉
 
 ---
 
-## 🌐 Live Demo
 
-**🔗 [Try the Live App](https://your-app-name.streamlit.app)**
-
-> The application is deployed on Streamlit Cloud with full functionality
-
----
 
 ## 🔥 Key Highlights
 
@@ -299,10 +299,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **[Your Name]**
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@domain.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: [your-linkedin](linkedin.com/in/suman-ai-ml-genai)
+- 📧 Email: satyaranjanpandasuman@gmail.com
+- 🐙 GitHub: github.com/sumansatyaranjanpanda
 
 ---
 
@@ -316,14 +315,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📈 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/your-repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/your-repo-name)
-
----
 
 <div align="center">
 
