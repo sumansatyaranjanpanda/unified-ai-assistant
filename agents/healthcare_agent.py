@@ -13,9 +13,6 @@ from langchain.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
-import streamlit as st
-from speech_recognition import Recognizer, Microphone
-
 # Load environment variables
 load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
@@ -96,31 +93,14 @@ def run_healthcare_agent():
             else:
                 st.info("Predict a disease first to get doctor recommendations.")
             
-            
-
-       
         # If using DL model
         elif mode == "DL (free-text)":
             st.markdown("### Predict Disease from Symptoms (DL Model)")
            
-            # inside DL mode block, before text_area
-            if st.button("🎙️ Speak your symptoms"):
-                r = Recognizer()
-                with Microphone() as mic:
-                    try:
-                        st.info("Listening... please speak clearly")
-                        audio = r.listen(mic, timeout=5)
-                        text_input = r.recognize_google(audio)
-                        st.session_state["text_input_dl"] = text_input
-                        st.success(f"Transcribed: {text_input}")
-                    except Exception as e:
-                        st.error("Voice input failed. Please try typing instead.")
-                        st.exception(e)
-                        text_input = ""    
+            # Voice input placeholder (will implement browser-based later)
+            st.info("🎙️ Voice input temporarily disabled for deployment. Browser-based voice coming soon!")
 
-            text_input = st.text_area("Or type your symptoms here:",value=st.session_state.get("text_input_dl", ""))    
-
-            
+            text_input = st.text_area("Type your symptoms here:")    
 
             if st.button("Predict Disease"):
                 if not text_input:
@@ -156,11 +136,6 @@ def run_healthcare_agent():
                         except Exception as e:
                             st.error("Sorry, couldn't fetch doctor recommendations.")
                             st.exception(e)
-
-                
-
-            
-                
 
     with tab2:
         st.markdown("### Ask anything about diseases, treatments, or symptoms")

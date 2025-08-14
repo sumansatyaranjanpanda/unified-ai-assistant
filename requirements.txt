@@ -11,7 +11,6 @@ numpy==1.26.4
 matplotlib==3.9.0
 nltk==3.8.1
 spacy==3.7.4
-torch==2.2.2
 transformers==4.39.3
 sentence-transformers==2.5.1
 tensorflow==2.15.0
@@ -46,10 +45,15 @@ loguru==0.7.2
 termcolor==2.4.0
 rich==13.7.1
 
-# Deployment (Optional but helpful)
+# Deployment
 gunicorn==22.0.0
 uvicorn==0.29.0
 
-SpeechRecognition==3.10.4
-pyaudio==0.2.14
-openai-whisper==20231117
+# REMOVED: Problematic audio dependencies for Streamlit Cloud
+# SpeechRecognition==3.10.4
+# pyaudio==0.2.14
+# openai-whisper==20231117
+
+# Add these for compatibility
+typing-extensions==4.8.0
+protobuf==4.25.0
