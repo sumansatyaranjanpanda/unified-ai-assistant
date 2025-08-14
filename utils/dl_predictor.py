@@ -8,7 +8,7 @@ from tensorflow.keras.models import load_model
 
 # 1️⃣ Paths to your artifacts
 MODEL_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "models"))
-LSTM_MODEL_PATH = os.path.join(MODEL_DIR, "lstm_model")
+LSTM_MODEL_PATH = os.path.join(MODEL_DIR, "lstm_model.h5")
 TOKENIZER_PATH   = os.path.join(MODEL_DIR, "tokenizer.pkl")
 LABELENC_PATH    = os.path.join(MODEL_DIR, "le_disease.pkl")
 

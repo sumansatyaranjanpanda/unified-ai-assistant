@@ -147,11 +147,12 @@ model.summary()
 # 1️⃣1️⃣ Callbacks
 # ========================
 checkpoint = ModelCheckpoint(
-    os.path.join(MODEL_DIR, "lstm_model"),
+    os.path.join(MODEL_DIR, "lstm_model.h5"),
     monitor="val_accuracy",
     save_best_only=True,
     verbose=1
 )
+
 earlystop = EarlyStopping(monitor="val_accuracy", patience=3, restore_best_weights=True)
 
 # ========================
