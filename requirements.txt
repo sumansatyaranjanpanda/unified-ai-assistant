@@ -53,6 +53,7 @@ uvicorn==0.29.0
 # SpeechRecognition==3.10.4
 # pyaudio==0.2.14
 # openai-whisper==20231117
+#
 
 # Add these for compatibility
 typing-extensions==4.8.0

@@ -41,7 +41,7 @@ random.seed(RANDOM_STATE)
 tf.random.set_seed(RANDOM_STATE)
 
 # ========================
-# 3️⃣ Download GloVe if not present
+## 3️⃣ Download GloVe if not present
 # ========================
 def download_glove():
     if not os.path.exists(GLOVE_PATH):

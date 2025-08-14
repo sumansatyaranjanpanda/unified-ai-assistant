@@ -10,7 +10,7 @@ sys.path.insert(0, current_dir)
 
 # Import and run your existing main app
 try:
-    # Import your main app file
+    ## Import your main app file
     import app.main
 except ImportError as e:
     import streamlit as st
