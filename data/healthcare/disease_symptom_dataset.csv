@@ -1,0 +1,3001 @@
+description,disease
+"nausea, body aches",Malaria
+"loss of appetite, headache, fever and tiredness, itchy blister rash",Chickenpox
+"sneezing and itchy eyes, runny nose, nasal congestion, skin hives",Allergy
+"vomiting, diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"fever and tiredness, headache, itchy blister rash",Chickenpox
+"nausea, sweating, high fever with chills",Malaria
+"lower abdominal pain, painful urination, frequent urge to urinate",UTI
+"high fever with chills, sweating",Malaria
+"flaky patches, rash",Fungal Infection
+"painful urination, frequent urge to urinate, cloudy urine",UTI
+"heartburn after meals, difficulty swallowing, chest pain",GERD
+"sore throat, cough",Common Cold
+"acid reflux, difficulty swallowing, heartburn after meals",GERD
+"itchy blister rash, fever and tiredness, headache",Chickenpox
+"nausea, body aches",Malaria
+"headache, loss of appetite",Typhoid
+"frequent urge to urinate, painful urination, cloudy urine",UTI
+"chest pain, acid reflux",GERD
+"weakness and fatigue, fever for 5 days, loss of appetite",Typhoid
+"fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"cloudy urine, painful urination",UTI
+"dehydration, vomiting, diarrhea",Gastroenteritis
+"throbbing headache, nausea, visual disturbances, sensitivity to light",Migraine
+"high fever with chills, sweating, body aches",Malaria
+"high fever with chills, body aches, sweating",Malaria
+"runny nose, sneezing and itchy eyes, skin hives",Allergy
+"sensitivity to light, visual disturbances",Migraine
+"difficulty swallowing, chest pain, heartburn after meals, acid reflux",GERD
+"abdominal cramps, dehydration, diarrhea",Gastroenteritis
+"runny nose, nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"loss of appetite, itchy blister rash",Chickenpox
+"sweating, high fever with chills",Malaria
+"skin hives, runny nose, nasal congestion",Allergy
+"sneezing and itchy eyes, nasal congestion, runny nose, skin hives",Allergy
+"sweating, body aches",Malaria
+"high fever with chills, sweating, nausea, body aches",Malaria
+"headache, weakness and fatigue",Typhoid
+"loss of appetite, fever for 2 days, headache, weakness and fatigue",Typhoid
+"sneezing and runny nose, sore throat, cough, nasal congestion",Common Cold
+"sweating, body aches",Malaria
+"frequent urge to urinate, cloudy urine, lower abdominal pain",UTI
+"loss of appetite, fever for 2 days, weakness and fatigue, headache",Typhoid
+"fever and tiredness, loss of appetite, itchy blister rash, headache",Chickenpox
+"loss of appetite, fever and tiredness",Chickenpox
+"acid reflux, difficulty swallowing, heartburn after meals, chest pain",GERD
+"sneezing and runny nose, sore throat, cough",Common Cold
+"throbbing headache, visual disturbances, nausea, sensitivity to light",Migraine
+"lower abdominal pain, painful urination, frequent urge to urinate",UTI
+"fever and tiredness, loss of appetite, headache",Chickenpox
+"nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"flaky patches, rash, burning sensation",Fungal Infection
+"weakness and fatigue, headache, fever for 4 days, loss of appetite",Typhoid
+"fever and tiredness, headache, loss of appetite, itchy blister rash",Chickenpox
+"heartburn after meals, acid reflux, difficulty swallowing",GERD
+"nasal congestion, runny nose, sneezing and itchy eyes, skin hives",Allergy
+"fever for 4 days, weakness and fatigue, loss of appetite, headache",Typhoid
+"weakness and fatigue, loss of appetite, headache, fever for 4 days",Typhoid
+"itchy blister rash, headache, loss of appetite, fever and tiredness",Chickenpox
+"sneezing and itchy eyes, runny nose, nasal congestion, skin hives",Allergy
+"nasal congestion, skin hives, runny nose",Allergy
+"chest pain, acid reflux, heartburn after meals, difficulty swallowing",GERD
+"vomiting, dehydration, abdominal cramps",Gastroenteritis
+"vomiting, abdominal cramps, dehydration",Gastroenteritis
+"burning sensation, rash, itchy skin with redness, flaky patches",Fungal Infection
+"throbbing headache, nausea, sensitivity to light",Migraine
+"nasal congestion, sneezing and itchy eyes",Allergy
+"dehydration, vomiting, diarrhea, abdominal cramps",Gastroenteritis
+"chest pain, difficulty swallowing",GERD
+"loss of appetite, headache, fever and tiredness, itchy blister rash",Chickenpox
+"fever and tiredness, itchy blister rash",Chickenpox
+"visual disturbances, throbbing headache, nausea, sensitivity to light",Migraine
+"nasal congestion, runny nose",Allergy
+"sneezing and runny nose, cough",Common Cold
+"rash, burning sensation",Fungal Infection
+"sneezing and runny nose, sore throat",Common Cold
+"body aches, high fever with chills, sweating, nausea",Malaria
+"nausea, visual disturbances, sensitivity to light, throbbing headache",Migraine
+"sneezing and itchy eyes, nasal congestion, skin hives",Allergy
+"dehydration, diarrhea",Gastroenteritis
+"sensitivity to light, visual disturbances, nausea",Migraine
+"sensitivity to light, nausea, visual disturbances",Migraine
+"sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"frequent urge to urinate, painful urination, cloudy urine, lower abdominal pain",UTI
+"nausea, high fever with chills",Malaria
+"difficulty swallowing, acid reflux, chest pain, heartburn after meals",GERD
+"fever for 1 days, loss of appetite, weakness and fatigue",Typhoid
+"headache, fever for 4 days, loss of appetite",Typhoid
+"throbbing headache, sensitivity to light, visual disturbances",Migraine
+"itchy skin with redness, flaky patches",Fungal Infection
+"sore throat, nasal congestion, cough",Common Cold
+"itchy blister rash, fever and tiredness, loss of appetite, headache",Chickenpox
+"fever and tiredness, loss of appetite, itchy blister rash, headache",Chickenpox
+"acid reflux, chest pain, heartburn after meals",GERD
+"loss of appetite, fever for 4 days, headache",Typhoid
+"fever and tiredness, itchy blister rash",Chickenpox
+"loss of appetite, weakness and fatigue",Typhoid
+"weakness and fatigue, headache",Typhoid
+"chest pain, difficulty swallowing, heartburn after meals",GERD
+"cough, sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"runny nose, skin hives, nasal congestion, sneezing and itchy eyes",Allergy
+"difficulty swallowing, acid reflux",GERD
+"painful urination, frequent urge to urinate, cloudy urine, lower abdominal pain",UTI
+"nausea, high fever with chills, sweating, body aches",Malaria
+"diarrhea, vomiting, abdominal cramps",Gastroenteritis
+"itchy skin with redness, burning sensation",Fungal Infection
+"throbbing headache, visual disturbances",Migraine
+"painful urination, lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"high fever with chills, body aches",Malaria
+"throbbing headache, nausea, visual disturbances",Migraine
+"sensitivity to light, throbbing headache, visual disturbances",Migraine
+"nausea, sweating, high fever with chills",Malaria
+"diarrhea, abdominal cramps",Gastroenteritis
+"vomiting, dehydration",Gastroenteritis
+"dehydration, vomiting, abdominal cramps",Gastroenteritis
+"sensitivity to light, visual disturbances",Migraine
+"burning sensation, rash, flaky patches",Fungal Infection
+"loss of appetite, fever and tiredness",Chickenpox
+"loss of appetite, itchy blister rash, headache, fever and tiredness",Chickenpox
+"rash, itchy skin with redness, flaky patches, burning sensation",Fungal Infection
+"sensitivity to light, nausea, throbbing headache",Migraine
+"vomiting, dehydration",Gastroenteritis
+"nasal congestion, sore throat, cough",Common Cold
+"vomiting, abdominal cramps, dehydration",Gastroenteritis
+"vomiting, abdominal cramps",Gastroenteritis
+"sore throat, cough, nasal congestion, sneezing and runny nose",Common Cold
+"nasal congestion, runny nose",Allergy
+"headache, loss of appetite, weakness and fatigue",Typhoid
+"heartburn after meals, chest pain, acid reflux, difficulty swallowing",GERD
+"runny nose, skin hives, nasal congestion, sneezing and itchy eyes",Allergy
+"heartburn after meals, chest pain, difficulty swallowing",GERD
+"loss of appetite, headache, fever for 2 days",Typhoid
+"sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"rash, itchy skin with redness, flaky patches, burning sensation",Fungal Infection
+"lower abdominal pain, cloudy urine, painful urination",UTI
+"diarrhea, dehydration, abdominal cramps, vomiting",Gastroenteritis
+"headache, itchy blister rash",Chickenpox
+"sensitivity to light, nausea, visual disturbances",Migraine
+"abdominal cramps, dehydration, vomiting",Gastroenteritis
+"acid reflux, difficulty swallowing, heartburn after meals",GERD
+"difficulty swallowing, chest pain, acid reflux, heartburn after meals",GERD
+"sensitivity to light, nausea",Migraine
+"skin hives, runny nose, sneezing and itchy eyes",Allergy
+"cloudy urine, lower abdominal pain, frequent urge to urinate",UTI
+"visual disturbances, sensitivity to light, throbbing headache",Migraine
+"difficulty swallowing, heartburn after meals, acid reflux",GERD
+"heartburn after meals, chest pain",GERD
+"nasal congestion, skin hives, sneezing and itchy eyes",Allergy
+"nasal congestion, sneezing and itchy eyes",Allergy
+"dehydration, abdominal cramps, vomiting",Gastroenteritis
+"abdominal cramps, vomiting",Gastroenteritis
+"throbbing headache, sensitivity to light",Migraine
+"sneezing and runny nose, cough",Common Cold
+"nausea, sensitivity to light, visual disturbances, throbbing headache",Migraine
+"rash, flaky patches, itchy skin with redness",Fungal Infection
+"painful urination, cloudy urine, frequent urge to urinate",UTI
+"abdominal cramps, diarrhea",Gastroenteritis
+"headache, loss of appetite, itchy blister rash, fever and tiredness",Chickenpox
+"loss of appetite, headache, weakness and fatigue, fever for 4 days",Typhoid
+"nausea, sweating, high fever with chills",Malaria
+"throbbing headache, nausea",Migraine
+"nasal congestion, runny nose, sneezing and itchy eyes",Allergy
+"skin hives, nasal congestion, runny nose",Allergy
+"heartburn after meals, chest pain, acid reflux, difficulty swallowing",GERD
+"cloudy urine, lower abdominal pain",UTI
+"acid reflux, difficulty swallowing",GERD
+"painful urination, lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"abdominal cramps, dehydration, vomiting, diarrhea",Gastroenteritis
+"visual disturbances, sensitivity to light",Migraine
+"loss of appetite, fever for 3 days",Typhoid
+"frequent urge to urinate, lower abdominal pain, cloudy urine",UTI
+"itchy blister rash, loss of appetite, fever and tiredness, headache",Chickenpox
+"fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"weakness and fatigue, headache, loss of appetite",Typhoid
+"weakness and fatigue, fever for 3 days, loss of appetite, headache",Typhoid
+"headache, weakness and fatigue, loss of appetite, fever for 5 days",Typhoid
+"chest pain, difficulty swallowing",GERD
+"loss of appetite, fever for 1 days, headache",Typhoid
+"nausea, sensitivity to light, throbbing headache",Migraine
+"abdominal cramps, dehydration, vomiting",Gastroenteritis
+"loss of appetite, itchy blister rash, headache, fever and tiredness",Chickenpox
+"nasal congestion, cough",Common Cold
+"cloudy urine, painful urination, frequent urge to urinate, lower abdominal pain",UTI
+"nasal congestion, runny nose, sneezing and itchy eyes",Allergy
+"burning sensation, flaky patches, rash",Fungal Infection
+"sneezing and itchy eyes, skin hives",Allergy
+"loss of appetite, weakness and fatigue",Typhoid
+"nausea, body aches",Malaria
+"sensitivity to light, visual disturbances",Migraine
+"nausea, sensitivity to light, visual disturbances, throbbing headache",Migraine
+"cough, sore throat, nasal congestion",Common Cold
+"nausea, throbbing headache",Migraine
+"sensitivity to light, visual disturbances",Migraine
+"loss of appetite, headache, weakness and fatigue, fever for 3 days",Typhoid
+"loss of appetite, headache, weakness and fatigue, fever for 4 days",Typhoid
+"lower abdominal pain, painful urination, cloudy urine",UTI
+"runny nose, sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"chest pain, acid reflux, difficulty swallowing",GERD
+"nausea, sweating",Malaria
+"skin hives, sneezing and itchy eyes, nasal congestion, runny nose",Allergy
+"visual disturbances, nausea, sensitivity to light, throbbing headache",Migraine
+"loss of appetite, fever and tiredness, headache, itchy blister rash",Chickenpox
+"sore throat, nasal congestion, sneezing and runny nose",Common Cold
+"rash, itchy skin with redness",Fungal Infection
+"loss of appetite, fever and tiredness, itchy blister rash",Chickenpox
+"loss of appetite, itchy blister rash, headache, fever and tiredness",Chickenpox
+"difficulty swallowing, chest pain",GERD
+"weakness and fatigue, headache, fever for 4 days",Typhoid
+"heartburn after meals, chest pain, acid reflux",GERD
+"cloudy urine, frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"runny nose, sneezing and itchy eyes",Allergy
+"sweating, body aches",Malaria
+"sneezing and itchy eyes, nasal congestion, skin hives, runny nose",Allergy
+"burning sensation, itchy skin with redness",Fungal Infection
+"nausea, sweating, body aches",Malaria
+"painful urination, frequent urge to urinate, cloudy urine",UTI
+"dehydration, diarrhea, abdominal cramps, vomiting",Gastroenteritis
+"loss of appetite, fever for 5 days",Typhoid
+"nasal congestion, cough",Common Cold
+"cloudy urine, lower abdominal pain",UTI
+"nausea, body aches, high fever with chills, sweating",Malaria
+"diarrhea, dehydration, vomiting, abdominal cramps",Gastroenteritis
+"nasal congestion, runny nose, sneezing and itchy eyes, skin hives",Allergy
+"difficulty swallowing, heartburn after meals",GERD
+"frequent urge to urinate, cloudy urine, lower abdominal pain",UTI
+"visual disturbances, sensitivity to light, nausea",Migraine
+"nasal congestion, cough, sore throat",Common Cold
+"visual disturbances, throbbing headache, nausea, sensitivity to light",Migraine
+"diarrhea, dehydration",Gastroenteritis
+"fever and tiredness, itchy blister rash",Chickenpox
+"sneezing and runny nose, nasal congestion",Common Cold
+"itchy blister rash, headache, fever and tiredness",Chickenpox
+"sensitivity to light, nausea, visual disturbances",Migraine
+"loss of appetite, itchy blister rash, headache, fever and tiredness",Chickenpox
+"nausea, visual disturbances, throbbing headache",Migraine
+"high fever with chills, nausea",Malaria
+"diarrhea, abdominal cramps",Gastroenteritis
+"sore throat, cough, nasal congestion, sneezing and runny nose",Common Cold
+"sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"throbbing headache, visual disturbances, sensitivity to light",Migraine
+"visual disturbances, sensitivity to light, nausea, throbbing headache",Migraine
+"flaky patches, burning sensation, rash",Fungal Infection
+"visual disturbances, throbbing headache, nausea",Migraine
+"fever and tiredness, itchy blister rash",Chickenpox
+"loss of appetite, itchy blister rash, fever and tiredness",Chickenpox
+"sore throat, sneezing and runny nose, cough",Common Cold
+"headache, loss of appetite, weakness and fatigue",Typhoid
+"diarrhea, vomiting, abdominal cramps, dehydration",Gastroenteritis
+"headache, weakness and fatigue, loss of appetite, fever for 3 days",Typhoid
+"fever for 4 days, weakness and fatigue, loss of appetite",Typhoid
+"burning sensation, rash",Fungal Infection
+"loss of appetite, weakness and fatigue, headache, fever for 5 days",Typhoid
+"dehydration, abdominal cramps, vomiting",Gastroenteritis
+"chest pain, difficulty swallowing, acid reflux",GERD
+"high fever with chills, nausea, sweating",Malaria
+"dehydration, vomiting, diarrhea",Gastroenteritis
+"loss of appetite, headache",Chickenpox
+"lower abdominal pain, frequent urge to urinate",UTI
+"burning sensation, itchy skin with redness",Fungal Infection
+"vomiting, diarrhea",Gastroenteritis
+"heartburn after meals, difficulty swallowing, chest pain",GERD
+"cough, sneezing and runny nose, nasal congestion",Common Cold
+"loss of appetite, fever and tiredness",Chickenpox
+"burning sensation, itchy skin with redness",Fungal Infection
+"itchy skin with redness, rash, flaky patches, burning sensation",Fungal Infection
+"lower abdominal pain, cloudy urine, painful urination, frequent urge to urinate",UTI
+"high fever with chills, nausea",Malaria
+"nasal congestion, sneezing and runny nose, sore throat, cough",Common Cold
+"throbbing headache, nausea, sensitivity to light",Migraine
+"acid reflux, chest pain, heartburn after meals",GERD
+"diarrhea, vomiting, dehydration, abdominal cramps",Gastroenteritis
+"itchy skin with redness, burning sensation",Fungal Infection
+"itchy skin with redness, flaky patches, burning sensation, rash",Fungal Infection
+"heartburn after meals, chest pain",GERD
+"sweating, high fever with chills, nausea",Malaria
+"cough, sneezing and runny nose, nasal congestion, sore throat",Common Cold
+"itchy blister rash, fever and tiredness, headache",Chickenpox
+"cough, sore throat, nasal congestion",Common Cold
+"body aches, sweating, high fever with chills, nausea",Malaria
+"abdominal cramps, dehydration",Gastroenteritis
+"sneezing and runny nose, sore throat",Common Cold
+"nasal congestion, sore throat, cough, sneezing and runny nose",Common Cold
+"painful urination, cloudy urine",UTI
+"lower abdominal pain, cloudy urine, painful urination",UTI
+"dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"loss of appetite, headache, fever and tiredness, itchy blister rash",Chickenpox
+"rash, burning sensation",Fungal Infection
+"fever and tiredness, loss of appetite",Chickenpox
+"sweating, high fever with chills",Malaria
+"cloudy urine, painful urination",UTI
+"acid reflux, chest pain, difficulty swallowing",GERD
+"sore throat, sneezing and runny nose, nasal congestion, cough",Common Cold
+"headache, itchy blister rash, loss of appetite",Chickenpox
+"itchy blister rash, headache",Chickenpox
+"chest pain, heartburn after meals",GERD
+"loss of appetite, fever and tiredness",Chickenpox
+"sweating, high fever with chills, nausea",Malaria
+"body aches, nausea, high fever with chills, sweating",Malaria
+"heartburn after meals, difficulty swallowing",GERD
+"dehydration, vomiting, diarrhea, abdominal cramps",Gastroenteritis
+"itchy blister rash, headache, fever and tiredness",Chickenpox
+"dehydration, abdominal cramps, vomiting, diarrhea",Gastroenteritis
+"cough, sneezing and runny nose",Common Cold
+"cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"nasal congestion, skin hives, sneezing and itchy eyes, runny nose",Allergy
+"nasal congestion, sore throat, cough, sneezing and runny nose",Common Cold
+"cough, nasal congestion, sore throat",Common Cold
+"vomiting, diarrhea, dehydration",Gastroenteritis
+"chest pain, difficulty swallowing, acid reflux, heartburn after meals",GERD
+"heartburn after meals, difficulty swallowing, acid reflux, chest pain",GERD
+"itchy blister rash, fever and tiredness, loss of appetite, headache",Chickenpox
+"flaky patches, rash, itchy skin with redness, burning sensation",Fungal Infection
+"cloudy urine, lower abdominal pain",UTI
+"high fever with chills, body aches",Malaria
+"frequent urge to urinate, painful urination, lower abdominal pain, cloudy urine",UTI
+"diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"sweating, nausea",Malaria
+"visual disturbances, throbbing headache",Migraine
+"headache, fever and tiredness, loss of appetite",Chickenpox
+"flaky patches, rash, burning sensation",Fungal Infection
+"loss of appetite, weakness and fatigue, fever for 5 days",Typhoid
+"fever for 2 days, headache",Typhoid
+"high fever with chills, body aches, nausea",Malaria
+"vomiting, diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"skin hives, nasal congestion",Allergy
+"loss of appetite, itchy blister rash, fever and tiredness",Chickenpox
+"runny nose, sneezing and itchy eyes",Allergy
+"diarrhea, dehydration",Gastroenteritis
+"loss of appetite, headache",Typhoid
+"nasal congestion, skin hives, sneezing and itchy eyes",Allergy
+"body aches, high fever with chills, nausea",Malaria
+"high fever with chills, body aches, sweating",Malaria
+"nausea, body aches, sweating",Malaria
+"abdominal cramps, vomiting",Gastroenteritis
+"nausea, sweating, high fever with chills, body aches",Malaria
+"sneezing and itchy eyes, skin hives, nasal congestion, runny nose",Allergy
+"acid reflux, difficulty swallowing, heartburn after meals",GERD
+"sweating, body aches",Malaria
+"sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"acid reflux, difficulty swallowing, chest pain",GERD
+"nausea, sweating, high fever with chills, body aches",Malaria
+"nausea, throbbing headache",Migraine
+"headache, weakness and fatigue, fever for 5 days, loss of appetite",Typhoid
+"difficulty swallowing, heartburn after meals",GERD
+"dehydration, abdominal cramps",Gastroenteritis
+"nausea, throbbing headache, sensitivity to light, visual disturbances",Migraine
+"itchy blister rash, fever and tiredness, headache, loss of appetite",Chickenpox
+"rash, burning sensation, flaky patches",Fungal Infection
+"lower abdominal pain, cloudy urine, painful urination, frequent urge to urinate",UTI
+"nausea, visual disturbances, throbbing headache",Migraine
+"painful urination, frequent urge to urinate",UTI
+"sneezing and runny nose, cough, sore throat, nasal congestion",Common Cold
+"lower abdominal pain, cloudy urine",UTI
+"sore throat, cough, sneezing and runny nose",Common Cold
+"vomiting, abdominal cramps, diarrhea",Gastroenteritis
+"itchy skin with redness, flaky patches, rash, burning sensation",Fungal Infection
+"body aches, high fever with chills, sweating",Malaria
+"heartburn after meals, chest pain, acid reflux",GERD
+"nasal congestion, runny nose, skin hives",Allergy
+"loss of appetite, headache, weakness and fatigue, fever for 2 days",Typhoid
+"sore throat, nasal congestion, sneezing and runny nose, cough",Common Cold
+"sweating, nausea, high fever with chills, body aches",Malaria
+"sneezing and itchy eyes, runny nose",Allergy
+"itchy blister rash, headache",Chickenpox
+"cloudy urine, lower abdominal pain, frequent urge to urinate, painful urination",UTI
+"vomiting, dehydration, abdominal cramps, diarrhea",Gastroenteritis
+"weakness and fatigue, fever for 4 days, headache, loss of appetite",Typhoid
+"acid reflux, heartburn after meals, difficulty swallowing",GERD
+"cloudy urine, lower abdominal pain, frequent urge to urinate",UTI
+"itchy skin with redness, burning sensation, rash, flaky patches",Fungal Infection
+"visual disturbances, throbbing headache, sensitivity to light",Migraine
+"nasal congestion, runny nose, skin hives",Allergy
+"headache, fever for 2 days, weakness and fatigue, loss of appetite",Typhoid
+"nasal congestion, runny nose",Allergy
+"headache, loss of appetite, itchy blister rash",Chickenpox
+"chest pain, heartburn after meals",GERD
+"sneezing and runny nose, sore throat, cough",Common Cold
+"abdominal cramps, vomiting, dehydration",Gastroenteritis
+"cough, sore throat, nasal congestion",Common Cold
+"diarrhea, dehydration",Gastroenteritis
+"itchy skin with redness, flaky patches, rash, burning sensation",Fungal Infection
+"sneezing and itchy eyes, nasal congestion",Allergy
+"skin hives, sneezing and itchy eyes",Allergy
+"high fever with chills, body aches, nausea, sweating",Malaria
+"throbbing headache, nausea, sensitivity to light",Migraine
+"nausea, high fever with chills",Malaria
+"cough, nasal congestion, sore throat, sneezing and runny nose",Common Cold
+"headache, fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"vomiting, abdominal cramps",Gastroenteritis
+"painful urination, cloudy urine, lower abdominal pain",UTI
+"body aches, nausea, high fever with chills, sweating",Malaria
+"sore throat, sneezing and runny nose, cough",Common Cold
+"throbbing headache, sensitivity to light, visual disturbances",Migraine
+"chest pain, difficulty swallowing, acid reflux",GERD
+"lower abdominal pain, cloudy urine, frequent urge to urinate, painful urination",UTI
+"skin hives, runny nose, nasal congestion, sneezing and itchy eyes",Allergy
+"diarrhea, dehydration, abdominal cramps, vomiting",Gastroenteritis
+"burning sensation, flaky patches",Fungal Infection
+"abdominal cramps, dehydration, diarrhea",Gastroenteritis
+"nasal congestion, runny nose",Allergy
+"loss of appetite, headache, itchy blister rash",Chickenpox
+"loss of appetite, itchy blister rash, headache, fever and tiredness",Chickenpox
+"headache, loss of appetite, weakness and fatigue",Typhoid
+"nausea, sweating",Malaria
+"sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"sore throat, cough, nasal congestion, sneezing and runny nose",Common Cold
+"high fever with chills, body aches, sweating",Malaria
+"high fever with chills, body aches, sweating, nausea",Malaria
+"fever for 3 days, loss of appetite",Typhoid
+"loss of appetite, fever for 2 days",Typhoid
+"difficulty swallowing, acid reflux, chest pain, heartburn after meals",GERD
+"flaky patches, burning sensation, rash, itchy skin with redness",Fungal Infection
+"lower abdominal pain, frequent urge to urinate, cloudy urine, painful urination",UTI
+"nausea, body aches, sweating, high fever with chills",Malaria
+"sneezing and runny nose, cough, sore throat, nasal congestion",Common Cold
+"throbbing headache, sensitivity to light",Migraine
+"nausea, sensitivity to light",Migraine
+"cough, sneezing and runny nose, nasal congestion, sore throat",Common Cold
+"frequent urge to urinate, cloudy urine",UTI
+"throbbing headache, sensitivity to light",Migraine
+"burning sensation, flaky patches, rash",Fungal Infection
+"nasal congestion, sneezing and runny nose, sore throat, cough",Common Cold
+"sneezing and itchy eyes, nasal congestion, skin hives",Allergy
+"dehydration, abdominal cramps, vomiting",Gastroenteritis
+"headache, itchy blister rash, fever and tiredness",Chickenpox
+"loss of appetite, weakness and fatigue",Typhoid
+"frequent urge to urinate, lower abdominal pain",UTI
+"painful urination, frequent urge to urinate, cloudy urine, lower abdominal pain",UTI
+"itchy blister rash, loss of appetite, fever and tiredness, headache",Chickenpox
+"nausea, throbbing headache, visual disturbances, sensitivity to light",Migraine
+"fever and tiredness, headache, itchy blister rash, loss of appetite",Chickenpox
+"sneezing and runny nose, sore throat, cough",Common Cold
+"headache, loss of appetite",Chickenpox
+"sneezing and itchy eyes, runny nose, skin hives, nasal congestion",Allergy
+"itchy blister rash, loss of appetite, headache, fever and tiredness",Chickenpox
+"acid reflux, chest pain, difficulty swallowing",GERD
+"fever and tiredness, itchy blister rash",Chickenpox
+"itchy blister rash, headache, loss of appetite, fever and tiredness",Chickenpox
+"sneezing and itchy eyes, nasal congestion, runny nose",Allergy
+"sneezing and itchy eyes, nasal congestion, runny nose",Allergy
+"heartburn after meals, difficulty swallowing, chest pain",GERD
+"loss of appetite, itchy blister rash",Chickenpox
+"fever and tiredness, headache, loss of appetite, itchy blister rash",Chickenpox
+"cough, nasal congestion, sore throat",Common Cold
+"abdominal cramps, vomiting",Gastroenteritis
+"painful urination, frequent urge to urinate, lower abdominal pain",UTI
+"painful urination, frequent urge to urinate, lower abdominal pain",UTI
+"weakness and fatigue, headache, loss of appetite",Typhoid
+"visual disturbances, throbbing headache, sensitivity to light, nausea",Migraine
+"frequent urge to urinate, painful urination, lower abdominal pain, cloudy urine",UTI
+"painful urination, cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"loss of appetite, fever and tiredness, headache",Chickenpox
+"sneezing and runny nose, sore throat, cough, nasal congestion",Common Cold
+"sneezing and itchy eyes, skin hives, runny nose, nasal congestion",Allergy
+"body aches, high fever with chills, nausea",Malaria
+"painful urination, lower abdominal pain",UTI
+"headache, itchy blister rash, fever and tiredness",Chickenpox
+"heartburn after meals, acid reflux, chest pain",GERD
+"itchy blister rash, fever and tiredness",Chickenpox
+"sensitivity to light, visual disturbances, nausea, throbbing headache",Migraine
+"throbbing headache, nausea",Migraine
+"painful urination, frequent urge to urinate",UTI
+"weakness and fatigue, loss of appetite",Typhoid
+"sneezing and runny nose, sore throat, nasal congestion, cough",Common Cold
+"heartburn after meals, difficulty swallowing, acid reflux",GERD
+"cloudy urine, painful urination, lower abdominal pain, frequent urge to urinate",UTI
+"sore throat, sneezing and runny nose, cough, nasal congestion",Common Cold
+"diarrhea, abdominal cramps, vomiting",Gastroenteritis
+"weakness and fatigue, fever for 1 days",Typhoid
+"nasal congestion, runny nose",Allergy
+"loss of appetite, itchy blister rash",Chickenpox
+"itchy skin with redness, flaky patches, burning sensation",Fungal Infection
+"abdominal cramps, vomiting, dehydration",Gastroenteritis
+"cloudy urine, painful urination",UTI
+"painful urination, lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"cloudy urine, frequent urge to urinate, painful urination",UTI
+"headache, fever and tiredness",Chickenpox
+"weakness and fatigue, loss of appetite, fever for 5 days, headache",Typhoid
+"sensitivity to light, throbbing headache, nausea, visual disturbances",Migraine
+"nausea, sensitivity to light, throbbing headache, visual disturbances",Migraine
+"flaky patches, itchy skin with redness, rash",Fungal Infection
+"high fever with chills, body aches",Malaria
+"fever and tiredness, loss of appetite, headache",Chickenpox
+"visual disturbances, throbbing headache, sensitivity to light, nausea",Migraine
+"nausea, high fever with chills",Malaria
+"sweating, high fever with chills, body aches",Malaria
+"chest pain, acid reflux, heartburn after meals",GERD
+"runny nose, sneezing and itchy eyes",Allergy
+"loss of appetite, weakness and fatigue, headache, fever for 5 days",Typhoid
+"skin hives, runny nose",Allergy
+"painful urination, cloudy urine, lower abdominal pain, frequent urge to urinate",UTI
+"diarrhea, dehydration, vomiting, abdominal cramps",Gastroenteritis
+"lower abdominal pain, cloudy urine, painful urination",UTI
+"heartburn after meals, chest pain",GERD
+"lower abdominal pain, painful urination, cloudy urine",UTI
+"flaky patches, itchy skin with redness, rash",Fungal Infection
+"chest pain, difficulty swallowing",GERD
+"flaky patches, itchy skin with redness, rash, burning sensation",Fungal Infection
+"skin hives, runny nose",Allergy
+"weakness and fatigue, loss of appetite, fever for 4 days, headache",Typhoid
+"rash, flaky patches, burning sensation",Fungal Infection
+"fever and tiredness, itchy blister rash",Chickenpox
+"chest pain, acid reflux, difficulty swallowing, heartburn after meals",GERD
+"nausea, sensitivity to light, visual disturbances, throbbing headache",Migraine
+"vomiting, dehydration, diarrhea",Gastroenteritis
+"skin hives, sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"headache, fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"itchy skin with redness, rash, flaky patches",Fungal Infection
+"nausea, sensitivity to light",Migraine
+"loss of appetite, headache, itchy blister rash, fever and tiredness",Chickenpox
+"sneezing and runny nose, sore throat",Common Cold
+"nausea, throbbing headache",Migraine
+"lower abdominal pain, cloudy urine, painful urination, frequent urge to urinate",UTI
+"headache, loss of appetite",Typhoid
+"burning sensation, rash",Fungal Infection
+"weakness and fatigue, headache, fever for 5 days, loss of appetite",Typhoid
+"cough, sneezing and runny nose",Common Cold
+"difficulty swallowing, heartburn after meals, acid reflux, chest pain",GERD
+"skin hives, runny nose, sneezing and itchy eyes",Allergy
+"sensitivity to light, nausea, throbbing headache",Migraine
+"lower abdominal pain, frequent urge to urinate, cloudy urine, painful urination",UTI
+"sneezing and itchy eyes, skin hives, runny nose",Allergy
+"sore throat, sneezing and runny nose, nasal congestion, cough",Common Cold
+"skin hives, sneezing and itchy eyes, nasal congestion",Allergy
+"throbbing headache, visual disturbances, sensitivity to light, nausea",Migraine
+"cough, sneezing and runny nose",Common Cold
+"skin hives, runny nose, sneezing and itchy eyes, nasal congestion",Allergy
+"runny nose, sneezing and itchy eyes, nasal congestion",Allergy
+"diarrhea, dehydration, vomiting",Gastroenteritis
+"frequent urge to urinate, lower abdominal pain, painful urination, cloudy urine",UTI
+"dehydration, diarrhea, vomiting, abdominal cramps",Gastroenteritis
+"loss of appetite, headache, fever for 1 days, weakness and fatigue",Typhoid
+"dehydration, abdominal cramps",Gastroenteritis
+"itchy skin with redness, burning sensation",Fungal Infection
+"diarrhea, vomiting, abdominal cramps, dehydration",Gastroenteritis
+"burning sensation, itchy skin with redness, rash",Fungal Infection
+"throbbing headache, sensitivity to light, nausea, visual disturbances",Migraine
+"headache, weakness and fatigue, loss of appetite, fever for 3 days",Typhoid
+"difficulty swallowing, acid reflux",GERD
+"body aches, nausea, high fever with chills",Malaria
+"abdominal cramps, vomiting, dehydration, diarrhea",Gastroenteritis
+"high fever with chills, sweating, body aches, nausea",Malaria
+"frequent urge to urinate, lower abdominal pain, painful urination, cloudy urine",UTI
+"body aches, nausea, high fever with chills, sweating",Malaria
+"lower abdominal pain, frequent urge to urinate, painful urination, cloudy urine",UTI
+"itchy skin with redness, rash",Fungal Infection
+"sneezing and runny nose, sore throat, cough, nasal congestion",Common Cold
+"diarrhea, abdominal cramps",Gastroenteritis
+"cloudy urine, lower abdominal pain, painful urination",UTI
+"abdominal cramps, diarrhea, vomiting",Gastroenteritis
+"skin hives, nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"abdominal cramps, dehydration",Gastroenteritis
+"acid reflux, heartburn after meals, difficulty swallowing",GERD
+"frequent urge to urinate, painful urination, cloudy urine",UTI
+"nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"heartburn after meals, difficulty swallowing",GERD
+"sore throat, cough",Common Cold
+"sneezing and itchy eyes, nasal congestion, runny nose, skin hives",Allergy
+"loss of appetite, fever for 3 days, headache",Typhoid
+"acid reflux, chest pain, heartburn after meals, difficulty swallowing",GERD
+"runny nose, sneezing and itchy eyes, nasal congestion, skin hives",Allergy
+"sensitivity to light, nausea",Migraine
+"lower abdominal pain, painful urination, cloudy urine",UTI
+"itchy skin with redness, rash",Fungal Infection
+"sneezing and itchy eyes, skin hives, nasal congestion, runny nose",Allergy
+"lower abdominal pain, painful urination",UTI
+"itchy blister rash, fever and tiredness",Chickenpox
+"difficulty swallowing, acid reflux",GERD
+"diarrhea, vomiting",Gastroenteritis
+"sore throat, nasal congestion",Common Cold
+"throbbing headache, nausea, sensitivity to light, visual disturbances",Migraine
+"burning sensation, flaky patches, rash",Fungal Infection
+"cough, sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"weakness and fatigue, loss of appetite, headache, fever for 2 days",Typhoid
+"high fever with chills, sweating, body aches, nausea",Malaria
+"cloudy urine, painful urination",UTI
+"body aches, sweating, nausea",Malaria
+"sensitivity to light, nausea, throbbing headache, visual disturbances",Migraine
+"cloudy urine, lower abdominal pain, frequent urge to urinate",UTI
+"high fever with chills, sweating, body aches, nausea",Malaria
+"frequent urge to urinate, painful urination",UTI
+"high fever with chills, nausea, sweating",Malaria
+"high fever with chills, sweating, nausea, body aches",Malaria
+"runny nose, sneezing and itchy eyes",Allergy
+"nasal congestion, cough",Common Cold
+"throbbing headache, visual disturbances, sensitivity to light",Migraine
+"nausea, high fever with chills, sweating",Malaria
+"rash, flaky patches, itchy skin with redness, burning sensation",Fungal Infection
+"flaky patches, itchy skin with redness, burning sensation, rash",Fungal Infection
+"visual disturbances, nausea, sensitivity to light, throbbing headache",Migraine
+"throbbing headache, visual disturbances",Migraine
+"sweating, high fever with chills",Malaria
+"lower abdominal pain, painful urination, frequent urge to urinate",UTI
+"abdominal cramps, dehydration, diarrhea",Gastroenteritis
+"headache, fever for 3 days",Typhoid
+"high fever with chills, body aches, sweating, nausea",Malaria
+"chest pain, acid reflux, heartburn after meals",GERD
+"frequent urge to urinate, cloudy urine, lower abdominal pain, painful urination",UTI
+"cloudy urine, lower abdominal pain",UTI
+"loss of appetite, fever and tiredness",Chickenpox
+"nausea, sweating",Malaria
+"dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"loss of appetite, fever for 2 days, weakness and fatigue",Typhoid
+"diarrhea, abdominal cramps",Gastroenteritis
+"headache, loss of appetite",Typhoid
+"nausea, high fever with chills, sweating",Malaria
+"difficulty swallowing, chest pain, acid reflux",GERD
+"sneezing and itchy eyes, nasal congestion, skin hives, runny nose",Allergy
+"sore throat, sneezing and runny nose, cough, nasal congestion",Common Cold
+"cloudy urine, lower abdominal pain, frequent urge to urinate",UTI
+"flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"painful urination, cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"fever for 3 days, loss of appetite, weakness and fatigue",Typhoid
+"skin hives, sneezing and itchy eyes, nasal congestion",Allergy
+"flaky patches, itchy skin with redness",Fungal Infection
+"sensitivity to light, nausea",Migraine
+"sensitivity to light, visual disturbances, throbbing headache",Migraine
+"vomiting, dehydration, abdominal cramps, diarrhea",Gastroenteritis
+"nausea, body aches, sweating, high fever with chills",Malaria
+"skin hives, sneezing and itchy eyes",Allergy
+"abdominal cramps, dehydration, vomiting",Gastroenteritis
+"sneezing and runny nose, cough, sore throat",Common Cold
+"weakness and fatigue, fever for 4 days, headache, loss of appetite",Typhoid
+"abdominal cramps, diarrhea, dehydration",Gastroenteritis
+"fever for 3 days, headache",Typhoid
+"acid reflux, chest pain",GERD
+"itchy blister rash, headache, loss of appetite, fever and tiredness",Chickenpox
+"abdominal cramps, diarrhea, vomiting, dehydration",Gastroenteritis
+"fever and tiredness, loss of appetite",Chickenpox
+"visual disturbances, sensitivity to light",Migraine
+"nausea, high fever with chills, body aches",Malaria
+"lower abdominal pain, painful urination",UTI
+"nausea, sensitivity to light, throbbing headache",Migraine
+"high fever with chills, body aches, nausea, sweating",Malaria
+"body aches, nausea",Malaria
+"high fever with chills, sweating, body aches",Malaria
+"body aches, sweating, nausea",Malaria
+"painful urination, cloudy urine, lower abdominal pain, frequent urge to urinate",UTI
+"difficulty swallowing, chest pain, heartburn after meals, acid reflux",GERD
+"runny nose, skin hives, sneezing and itchy eyes, nasal congestion",Allergy
+"sore throat, nasal congestion, cough",Common Cold
+"burning sensation, itchy skin with redness",Fungal Infection
+"throbbing headache, visual disturbances, nausea",Migraine
+"loss of appetite, fever and tiredness, itchy blister rash, headache",Chickenpox
+"visual disturbances, sensitivity to light, throbbing headache",Migraine
+"skin hives, sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"rash, flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"painful urination, frequent urge to urinate, lower abdominal pain",UTI
+"headache, loss of appetite, fever and tiredness",Chickenpox
+"skin hives, runny nose, nasal congestion, sneezing and itchy eyes",Allergy
+"sneezing and itchy eyes, skin hives, nasal congestion, runny nose",Allergy
+"dehydration, vomiting, diarrhea, abdominal cramps",Gastroenteritis
+"flaky patches, burning sensation",Fungal Infection
+"fever and tiredness, itchy blister rash, headache, loss of appetite",Chickenpox
+"skin hives, runny nose",Allergy
+"painful urination, cloudy urine, lower abdominal pain, frequent urge to urinate",UTI
+"fever and tiredness, headache, itchy blister rash, loss of appetite",Chickenpox
+"visual disturbances, nausea, sensitivity to light",Migraine
+"runny nose, nasal congestion",Allergy
+"flaky patches, itchy skin with redness, burning sensation",Fungal Infection
+"vomiting, dehydration, abdominal cramps, diarrhea",Gastroenteritis
+"flaky patches, itchy skin with redness, burning sensation",Fungal Infection
+"itchy blister rash, fever and tiredness, loss of appetite, headache",Chickenpox
+"cloudy urine, lower abdominal pain",UTI
+"fever for 3 days, loss of appetite",Typhoid
+"chest pain, heartburn after meals",GERD
+"itchy blister rash, headache, loss of appetite",Chickenpox
+"headache, itchy blister rash",Chickenpox
+"body aches, high fever with chills",Malaria
+"cough, nasal congestion, sore throat",Common Cold
+"visual disturbances, sensitivity to light, throbbing headache, nausea",Migraine
+"fever and tiredness, itchy blister rash",Chickenpox
+"nausea, throbbing headache",Migraine
+"acid reflux, heartburn after meals",GERD
+"frequent urge to urinate, cloudy urine",UTI
+"burning sensation, itchy skin with redness, flaky patches, rash",Fungal Infection
+"diarrhea, dehydration, abdominal cramps, vomiting",Gastroenteritis
+"abdominal cramps, vomiting, diarrhea",Gastroenteritis
+"sneezing and itchy eyes, nasal congestion, runny nose, skin hives",Allergy
+"headache, loss of appetite, itchy blister rash, fever and tiredness",Chickenpox
+"weakness and fatigue, fever for 2 days",Typhoid
+"throbbing headache, nausea, sensitivity to light",Migraine
+"loss of appetite, fever for 5 days",Typhoid
+"frequent urge to urinate, painful urination",UTI
+"frequent urge to urinate, cloudy urine, painful urination",UTI
+"lower abdominal pain, painful urination, cloudy urine",UTI
+"sensitivity to light, nausea",Migraine
+"body aches, nausea, sweating, high fever with chills",Malaria
+"chest pain, acid reflux",GERD
+"skin hives, runny nose, sneezing and itchy eyes, nasal congestion",Allergy
+"abdominal cramps, dehydration, vomiting",Gastroenteritis
+"skin hives, sneezing and itchy eyes",Allergy
+"loss of appetite, headache",Typhoid
+"sore throat, nasal congestion, sneezing and runny nose, cough",Common Cold
+"fever for 1 days, loss of appetite",Typhoid
+"nasal congestion, sneezing and runny nose, cough",Common Cold
+"sensitivity to light, visual disturbances, nausea, throbbing headache",Migraine
+"sneezing and runny nose, sore throat, cough, nasal congestion",Common Cold
+"loss of appetite, fever and tiredness",Chickenpox
+"weakness and fatigue, loss of appetite, headache, fever for 3 days",Typhoid
+"acid reflux, chest pain, heartburn after meals, difficulty swallowing",GERD
+"nasal congestion, skin hives, runny nose",Allergy
+"sore throat, sneezing and runny nose",Common Cold
+"dehydration, diarrhea, abdominal cramps, vomiting",Gastroenteritis
+"sneezing and itchy eyes, nasal congestion",Allergy
+"cloudy urine, frequent urge to urinate, painful urination, lower abdominal pain",UTI
+"nasal congestion, cough, sore throat, sneezing and runny nose",Common Cold
+"burning sensation, flaky patches",Fungal Infection
+"lower abdominal pain, frequent urge to urinate",UTI
+"skin hives, runny nose",Allergy
+"nasal congestion, cough, sneezing and runny nose",Common Cold
+"rash, itchy skin with redness",Fungal Infection
+"sneezing and runny nose, cough",Common Cold
+"runny nose, skin hives, sneezing and itchy eyes, nasal congestion",Allergy
+"sneezing and runny nose, cough",Common Cold
+"cough, sneezing and runny nose, nasal congestion",Common Cold
+"weakness and fatigue, loss of appetite, headache, fever for 4 days",Typhoid
+"throbbing headache, nausea, visual disturbances, sensitivity to light",Migraine
+"nasal congestion, runny nose, skin hives",Allergy
+"sweating, body aches, high fever with chills",Malaria
+"chest pain, difficulty swallowing",GERD
+"sensitivity to light, throbbing headache, nausea, visual disturbances",Migraine
+"sensitivity to light, nausea, visual disturbances, throbbing headache",Migraine
+"fever and tiredness, headache, loss of appetite",Chickenpox
+"sweating, body aches",Malaria
+"sensitivity to light, visual disturbances, throbbing headache",Migraine
+"sneezing and runny nose, nasal congestion, sore throat, cough",Common Cold
+"skin hives, nasal congestion",Allergy
+"burning sensation, itchy skin with redness, flaky patches",Fungal Infection
+"nasal congestion, sneezing and runny nose, cough, sore throat",Common Cold
+"throbbing headache, visual disturbances, sensitivity to light",Migraine
+"weakness and fatigue, headache, loss of appetite, fever for 4 days",Typhoid
+"vomiting, dehydration, diarrhea",Gastroenteritis
+"difficulty swallowing, heartburn after meals, acid reflux, chest pain",GERD
+"sneezing and runny nose, cough",Common Cold
+"cloudy urine, frequent urge to urinate, painful urination, lower abdominal pain",UTI
+"nausea, sweating",Malaria
+"skin hives, nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"skin hives, sneezing and itchy eyes",Allergy
+"body aches, sweating, high fever with chills",Malaria
+"chest pain, difficulty swallowing, heartburn after meals",GERD
+"throbbing headache, sensitivity to light, nausea, visual disturbances",Migraine
+"frequent urge to urinate, painful urination, lower abdominal pain, cloudy urine",UTI
+"difficulty swallowing, chest pain, heartburn after meals",GERD
+"fever for 4 days, loss of appetite",Typhoid
+"throbbing headache, visual disturbances, nausea",Migraine
+"vomiting, dehydration, diarrhea",Gastroenteritis
+"painful urination, lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"itchy skin with redness, burning sensation, rash",Fungal Infection
+"throbbing headache, visual disturbances, sensitivity to light, nausea",Migraine
+"itchy skin with redness, rash",Fungal Infection
+"difficulty swallowing, acid reflux, heartburn after meals",GERD
+"body aches, sweating, nausea",Malaria
+"dehydration, abdominal cramps",Gastroenteritis
+"heartburn after meals, difficulty swallowing, chest pain, acid reflux",GERD
+"sore throat, sneezing and runny nose, nasal congestion",Common Cold
+"sneezing and runny nose, cough, nasal congestion, sore throat",Common Cold
+"heartburn after meals, chest pain",GERD
+"runny nose, nasal congestion, skin hives",Allergy
+"nausea, sweating, body aches",Malaria
+"itchy skin with redness, burning sensation",Fungal Infection
+"sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"sweating, nausea, high fever with chills, body aches",Malaria
+"vomiting, dehydration, diarrhea",Gastroenteritis
+"sore throat, sneezing and runny nose, nasal congestion",Common Cold
+"headache, fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"visual disturbances, nausea, sensitivity to light, throbbing headache",Migraine
+"nasal congestion, sneezing and itchy eyes, skin hives, runny nose",Allergy
+"body aches, nausea, high fever with chills",Malaria
+"cloudy urine, painful urination, frequent urge to urinate",UTI
+"cough, nasal congestion, sneezing and runny nose",Common Cold
+"sneezing and runny nose, cough, nasal congestion, sore throat",Common Cold
+"nasal congestion, skin hives, runny nose",Allergy
+"nasal congestion, runny nose",Allergy
+"sensitivity to light, visual disturbances, throbbing headache",Migraine
+"weakness and fatigue, fever for 5 days, headache",Typhoid
+"fever and tiredness, headache, itchy blister rash, loss of appetite",Chickenpox
+"visual disturbances, sensitivity to light",Migraine
+"flaky patches, burning sensation, rash, itchy skin with redness",Fungal Infection
+"diarrhea, dehydration",Gastroenteritis
+"difficulty swallowing, acid reflux, heartburn after meals, chest pain",GERD
+"sneezing and itchy eyes, runny nose, skin hives",Allergy
+"sneezing and runny nose, nasal congestion",Common Cold
+"flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"fever for 5 days, weakness and fatigue, headache, loss of appetite",Typhoid
+"nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"cough, nasal congestion, sneezing and runny nose, sore throat",Common Cold
+"sore throat, sneezing and runny nose",Common Cold
+"nasal congestion, runny nose, skin hives, sneezing and itchy eyes",Allergy
+"nausea, body aches, sweating",Malaria
+"itchy blister rash, headache",Chickenpox
+"headache, weakness and fatigue",Typhoid
+"headache, itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"nausea, sensitivity to light, visual disturbances, throbbing headache",Migraine
+"itchy skin with redness, burning sensation, rash, flaky patches",Fungal Infection
+"skin hives, sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"itchy skin with redness, burning sensation, flaky patches, rash",Fungal Infection
+"lower abdominal pain, cloudy urine, painful urination, frequent urge to urinate",UTI
+"weakness and fatigue, headache, fever for 4 days, loss of appetite",Typhoid
+"itchy skin with redness, flaky patches, burning sensation, rash",Fungal Infection
+"vomiting, diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"high fever with chills, nausea, body aches",Malaria
+"heartburn after meals, acid reflux, difficulty swallowing, chest pain",GERD
+"nausea, sweating, high fever with chills, body aches",Malaria
+"itchy skin with redness, burning sensation",Fungal Infection
+"diarrhea, dehydration",Gastroenteritis
+"difficulty swallowing, heartburn after meals, chest pain, acid reflux",GERD
+"headache, fever and tiredness",Chickenpox
+"itchy blister rash, loss of appetite, fever and tiredness, headache",Chickenpox
+"nasal congestion, skin hives, sneezing and itchy eyes, runny nose",Allergy
+"nasal congestion, skin hives",Allergy
+"fever for 1 days, loss of appetite, weakness and fatigue, headache",Typhoid
+"cloudy urine, frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"frequent urge to urinate, lower abdominal pain, painful urination, cloudy urine",UTI
+"loss of appetite, headache, fever for 1 days, weakness and fatigue",Typhoid
+"difficulty swallowing, acid reflux, chest pain, heartburn after meals",GERD
+"nausea, body aches",Malaria
+"loss of appetite, fever for 1 days, headache",Typhoid
+"difficulty swallowing, chest pain, heartburn after meals",GERD
+"visual disturbances, nausea",Migraine
+"sensitivity to light, visual disturbances",Migraine
+"lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"diarrhea, dehydration, vomiting",Gastroenteritis
+"headache, fever and tiredness, itchy blister rash",Chickenpox
+"sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"lower abdominal pain, cloudy urine, painful urination, frequent urge to urinate",UTI
+"fever for 4 days, loss of appetite",Typhoid
+"nausea, body aches, high fever with chills, sweating",Malaria
+"dehydration, vomiting, abdominal cramps, diarrhea",Gastroenteritis
+"runny nose, sneezing and itchy eyes",Allergy
+"fever and tiredness, headache",Chickenpox
+"visual disturbances, nausea",Migraine
+"runny nose, sneezing and itchy eyes, nasal congestion, skin hives",Allergy
+"difficulty swallowing, heartburn after meals, chest pain, acid reflux",GERD
+"skin hives, sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"burning sensation, flaky patches, itchy skin with redness, rash",Fungal Infection
+"cough, sneezing and runny nose",Common Cold
+"throbbing headache, visual disturbances, sensitivity to light, nausea",Migraine
+"chest pain, difficulty swallowing, acid reflux, heartburn after meals",GERD
+"nausea, visual disturbances, sensitivity to light, throbbing headache",Migraine
+"high fever with chills, body aches, nausea",Malaria
+"loss of appetite, fever and tiredness, itchy blister rash, headache",Chickenpox
+"dehydration, diarrhea",Gastroenteritis
+"difficulty swallowing, chest pain",GERD
+"weakness and fatigue, headache, loss of appetite",Typhoid
+"diarrhea, vomiting, dehydration",Gastroenteritis
+"sore throat, nasal congestion, cough",Common Cold
+"visual disturbances, throbbing headache",Migraine
+"sensitivity to light, nausea",Migraine
+"itchy skin with redness, burning sensation, rash",Fungal Infection
+"difficulty swallowing, acid reflux",GERD
+"heartburn after meals, difficulty swallowing, chest pain, acid reflux",GERD
+"flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"nasal congestion, cough, sneezing and runny nose",Common Cold
+"nausea, visual disturbances, sensitivity to light, throbbing headache",Migraine
+"dehydration, abdominal cramps, vomiting, diarrhea",Gastroenteritis
+"burning sensation, itchy skin with redness",Fungal Infection
+"nasal congestion, skin hives, runny nose",Allergy
+"headache, loss of appetite, fever and tiredness",Chickenpox
+"skin hives, runny nose, sneezing and itchy eyes, nasal congestion",Allergy
+"loss of appetite, fever and tiredness, itchy blister rash",Chickenpox
+"abdominal cramps, vomiting",Gastroenteritis
+"body aches, sweating",Malaria
+"sensitivity to light, nausea, throbbing headache, visual disturbances",Migraine
+"headache, loss of appetite, weakness and fatigue, fever for 1 days",Typhoid
+"skin hives, runny nose",Allergy
+"dehydration, vomiting, diarrhea, abdominal cramps",Gastroenteritis
+"flaky patches, burning sensation",Fungal Infection
+"visual disturbances, sensitivity to light",Migraine
+"nausea, body aches, high fever with chills, sweating",Malaria
+"dehydration, vomiting, abdominal cramps",Gastroenteritis
+"dehydration, abdominal cramps, vomiting, diarrhea",Gastroenteritis
+"diarrhea, dehydration, vomiting, abdominal cramps",Gastroenteritis
+"fever and tiredness, loss of appetite, headache, itchy blister rash",Chickenpox
+"loss of appetite, weakness and fatigue, headache, fever for 5 days",Typhoid
+"nausea, throbbing headache",Migraine
+"headache, itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"vomiting, diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"nausea, sensitivity to light, visual disturbances, throbbing headache",Migraine
+"fever for 1 days, headache, weakness and fatigue",Typhoid
+"vomiting, diarrhea",Gastroenteritis
+"rash, burning sensation",Fungal Infection
+"abdominal cramps, dehydration",Gastroenteritis
+"body aches, sweating, nausea, high fever with chills",Malaria
+"headache, fever and tiredness, itchy blister rash, loss of appetite",Chickenpox
+"fever and tiredness, itchy blister rash",Chickenpox
+"fever for 4 days, headache, weakness and fatigue",Typhoid
+"rash, itchy skin with redness, burning sensation, flaky patches",Fungal Infection
+"headache, weakness and fatigue, fever for 3 days, loss of appetite",Typhoid
+"nausea, visual disturbances, sensitivity to light",Migraine
+"loss of appetite, headache",Chickenpox
+"fever and tiredness, itchy blister rash, loss of appetite",Chickenpox
+"sore throat, nasal congestion, cough, sneezing and runny nose",Common Cold
+"fever and tiredness, itchy blister rash, loss of appetite, headache",Chickenpox
+"lower abdominal pain, painful urination",UTI
+"loss of appetite, itchy blister rash, headache, fever and tiredness",Chickenpox
+"lower abdominal pain, frequent urge to urinate",UTI
+"nasal congestion, sneezing and runny nose, sore throat",Common Cold
+"abdominal cramps, vomiting",Gastroenteritis
+"nasal congestion, runny nose, sneezing and itchy eyes, skin hives",Allergy
+"itchy skin with redness, burning sensation, rash",Fungal Infection
+"nasal congestion, sneezing and itchy eyes",Allergy
+"frequent urge to urinate, cloudy urine, painful urination, lower abdominal pain",UTI
+"rash, flaky patches, itchy skin with redness",Fungal Infection
+"burning sensation, rash",Fungal Infection
+"nasal congestion, runny nose, skin hives, sneezing and itchy eyes",Allergy
+"sensitivity to light, visual disturbances, throbbing headache",Migraine
+"loss of appetite, weakness and fatigue, headache, fever for 1 days",Typhoid
+"weakness and fatigue, fever for 1 days",Typhoid
+"fever and tiredness, itchy blister rash, headache, loss of appetite",Chickenpox
+"frequent urge to urinate, cloudy urine, lower abdominal pain, painful urination",UTI
+"headache, itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"sensitivity to light, visual disturbances",Migraine
+"itchy skin with redness, rash",Fungal Infection
+"skin hives, runny nose, nasal congestion, sneezing and itchy eyes",Allergy
+"fever and tiredness, headache",Chickenpox
+"visual disturbances, throbbing headache",Migraine
+"sweating, nausea, high fever with chills, body aches",Malaria
+"visual disturbances, sensitivity to light",Migraine
+"abdominal cramps, dehydration, diarrhea",Gastroenteritis
+"visual disturbances, nausea, throbbing headache",Migraine
+"sneezing and runny nose, sore throat, nasal congestion, cough",Common Cold
+"sore throat, sneezing and runny nose, nasal congestion, cough",Common Cold
+"heartburn after meals, chest pain, difficulty swallowing, acid reflux",GERD
+"flaky patches, burning sensation, rash",Fungal Infection
+"sweating, nausea, body aches, high fever with chills",Malaria
+"lower abdominal pain, frequent urge to urinate",UTI
+"visual disturbances, sensitivity to light, nausea, throbbing headache",Migraine
+"nasal congestion, skin hives",Allergy
+"nasal congestion, sneezing and itchy eyes",Allergy
+"headache, itchy blister rash",Chickenpox
+"chest pain, difficulty swallowing",GERD
+"visual disturbances, sensitivity to light, nausea",Migraine
+"itchy blister rash, headache",Chickenpox
+"itchy blister rash, headache, fever and tiredness",Chickenpox
+"acid reflux, chest pain, heartburn after meals, difficulty swallowing",GERD
+"sneezing and runny nose, nasal congestion, sore throat, cough",Common Cold
+"sweating, nausea",Malaria
+"lower abdominal pain, painful urination",UTI
+"sensitivity to light, throbbing headache, nausea",Migraine
+"visual disturbances, nausea, sensitivity to light, throbbing headache",Migraine
+"skin hives, nasal congestion, sneezing and itchy eyes",Allergy
+"sore throat, cough, nasal congestion, sneezing and runny nose",Common Cold
+"nausea, sweating",Malaria
+"diarrhea, abdominal cramps, vomiting, dehydration",Gastroenteritis
+"sweating, high fever with chills, nausea",Malaria
+"flaky patches, itchy skin with redness, burning sensation",Fungal Infection
+"loss of appetite, headache, itchy blister rash",Chickenpox
+"frequent urge to urinate, cloudy urine, lower abdominal pain, painful urination",UTI
+"weakness and fatigue, loss of appetite",Typhoid
+"nasal congestion, runny nose",Allergy
+"sweating, nausea, body aches, high fever with chills",Malaria
+"cough, sore throat, nasal congestion",Common Cold
+"frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"itchy blister rash, loss of appetite, fever and tiredness, headache",Chickenpox
+"sensitivity to light, nausea, visual disturbances",Migraine
+"loss of appetite, itchy blister rash, headache",Chickenpox
+"sweating, body aches, nausea, high fever with chills",Malaria
+"fever and tiredness, headache, itchy blister rash",Chickenpox
+"sore throat, nasal congestion, cough, sneezing and runny nose",Common Cold
+"visual disturbances, throbbing headache, nausea",Migraine
+"runny nose, sneezing and itchy eyes, nasal congestion",Allergy
+"sweating, nausea, body aches",Malaria
+"flaky patches, itchy skin with redness, burning sensation, rash",Fungal Infection
+"lower abdominal pain, frequent urge to urinate, cloudy urine, painful urination",UTI
+"sneezing and itchy eyes, nasal congestion",Allergy
+"acid reflux, heartburn after meals, chest pain",GERD
+"sweating, body aches, nausea, high fever with chills",Malaria
+"itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"heartburn after meals, acid reflux",GERD
+"visual disturbances, nausea",Migraine
+"lower abdominal pain, frequent urge to urinate",UTI
+"runny nose, nasal congestion",Allergy
+"rash, itchy skin with redness, flaky patches, burning sensation",Fungal Infection
+"loss of appetite, itchy blister rash",Chickenpox
+"chest pain, acid reflux, difficulty swallowing",GERD
+"body aches, high fever with chills, sweating, nausea",Malaria
+"sweating, high fever with chills, body aches, nausea",Malaria
+"weakness and fatigue, fever for 2 days",Typhoid
+"high fever with chills, body aches, sweating, nausea",Malaria
+"body aches, nausea",Malaria
+"heartburn after meals, difficulty swallowing, chest pain, acid reflux",GERD
+"sneezing and runny nose, nasal congestion, cough",Common Cold
+"lower abdominal pain, frequent urge to urinate, painful urination, cloudy urine",UTI
+"difficulty swallowing, heartburn after meals",GERD
+"fever for 3 days, weakness and fatigue",Typhoid
+"nausea, sweating, body aches, high fever with chills",Malaria
+"sore throat, cough, nasal congestion",Common Cold
+"nausea, throbbing headache, visual disturbances, sensitivity to light",Migraine
+"loss of appetite, fever and tiredness, headache, itchy blister rash",Chickenpox
+"fever and tiredness, headache, itchy blister rash, loss of appetite",Chickenpox
+"dehydration, diarrhea",Gastroenteritis
+"throbbing headache, nausea, visual disturbances",Migraine
+"loss of appetite, itchy blister rash, headache",Chickenpox
+"rash, flaky patches",Fungal Infection
+"flaky patches, burning sensation",Fungal Infection
+"lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"flaky patches, itchy skin with redness",Fungal Infection
+"lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"painful urination, lower abdominal pain",UTI
+"abdominal cramps, dehydration",Gastroenteritis
+"nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"burning sensation, itchy skin with redness, flaky patches, rash",Fungal Infection
+"difficulty swallowing, acid reflux, chest pain, heartburn after meals",GERD
+"body aches, nausea",Malaria
+"sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"sensitivity to light, visual disturbances, nausea, throbbing headache",Migraine
+"nasal congestion, cough, sneezing and runny nose, sore throat",Common Cold
+"nasal congestion, sneezing and runny nose, cough",Common Cold
+"heartburn after meals, chest pain, acid reflux",GERD
+"vomiting, abdominal cramps",Gastroenteritis
+"nausea, sensitivity to light",Migraine
+"itchy skin with redness, flaky patches, rash, burning sensation",Fungal Infection
+"burning sensation, rash, itchy skin with redness",Fungal Infection
+"weakness and fatigue, loss of appetite, fever for 1 days, headache",Typhoid
+"nasal congestion, runny nose",Allergy
+"acid reflux, chest pain",GERD
+"burning sensation, itchy skin with redness, flaky patches, rash",Fungal Infection
+"rash, flaky patches, burning sensation",Fungal Infection
+"abdominal cramps, vomiting, dehydration, diarrhea",Gastroenteritis
+"loss of appetite, itchy blister rash, headache",Chickenpox
+"fever for 5 days, weakness and fatigue",Typhoid
+"dehydration, vomiting, diarrhea, abdominal cramps",Gastroenteritis
+"loss of appetite, fever for 3 days",Typhoid
+"nausea, visual disturbances, throbbing headache, sensitivity to light",Migraine
+"nasal congestion, skin hives, runny nose, sneezing and itchy eyes",Allergy
+"weakness and fatigue, fever for 4 days, headache, loss of appetite",Typhoid
+"sneezing and runny nose, nasal congestion, cough, sore throat",Common Cold
+"throbbing headache, nausea",Migraine
+"loss of appetite, headache",Typhoid
+"rash, burning sensation",Fungal Infection
+"runny nose, sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"nausea, visual disturbances, sensitivity to light, throbbing headache",Migraine
+"sneezing and runny nose, cough",Common Cold
+"cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"runny nose, nasal congestion, skin hives",Allergy
+"burning sensation, flaky patches",Fungal Infection
+"skin hives, sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"loss of appetite, headache, itchy blister rash",Chickenpox
+"itchy skin with redness, flaky patches",Fungal Infection
+"cloudy urine, lower abdominal pain, painful urination",UTI
+"vomiting, abdominal cramps, dehydration",Gastroenteritis
+"dehydration, vomiting",Gastroenteritis
+"burning sensation, rash, itchy skin with redness",Fungal Infection
+"abdominal cramps, dehydration, vomiting",Gastroenteritis
+"acid reflux, chest pain, heartburn after meals, difficulty swallowing",GERD
+"throbbing headache, nausea, visual disturbances",Migraine
+"fever for 5 days, headache, loss of appetite, weakness and fatigue",Typhoid
+"frequent urge to urinate, cloudy urine, painful urination, lower abdominal pain",UTI
+"nausea, body aches, high fever with chills, sweating",Malaria
+"flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"fever for 3 days, headache, loss of appetite",Typhoid
+"acid reflux, chest pain",GERD
+"weakness and fatigue, loss of appetite",Typhoid
+"loss of appetite, itchy blister rash",Chickenpox
+"diarrhea, vomiting",Gastroenteritis
+"high fever with chills, body aches, nausea, sweating",Malaria
+"nasal congestion, cough",Common Cold
+"lower abdominal pain, painful urination, cloudy urine, frequent urge to urinate",UTI
+"burning sensation, rash",Fungal Infection
+"weakness and fatigue, fever for 5 days, loss of appetite, headache",Typhoid
+"cloudy urine, painful urination",UTI
+"nausea, body aches, sweating, high fever with chills",Malaria
+"headache, weakness and fatigue",Typhoid
+"acid reflux, difficulty swallowing",GERD
+"loss of appetite, headache",Typhoid
+"flaky patches, burning sensation",Fungal Infection
+"headache, fever for 1 days, loss of appetite, weakness and fatigue",Typhoid
+"headache, itchy blister rash",Chickenpox
+"chest pain, difficulty swallowing, acid reflux",GERD
+"headache, itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"itchy blister rash, headache, loss of appetite, fever and tiredness",Chickenpox
+"high fever with chills, body aches",Malaria
+"abdominal cramps, diarrhea, dehydration, vomiting",Gastroenteritis
+"frequent urge to urinate, painful urination, cloudy urine",UTI
+"loss of appetite, weakness and fatigue, fever for 5 days",Typhoid
+"visual disturbances, throbbing headache, nausea",Migraine
+"dehydration, vomiting",Gastroenteritis
+"burning sensation, rash, flaky patches",Fungal Infection
+"high fever with chills, sweating, nausea",Malaria
+"headache, fever for 1 days, weakness and fatigue",Typhoid
+"body aches, sweating, nausea",Malaria
+"frequent urge to urinate, painful urination, lower abdominal pain, cloudy urine",UTI
+"runny nose, skin hives",Allergy
+"sore throat, cough, sneezing and runny nose, nasal congestion",Common Cold
+"acid reflux, difficulty swallowing, heartburn after meals",GERD
+"nasal congestion, cough",Common Cold
+"burning sensation, itchy skin with redness, flaky patches, rash",Fungal Infection
+"acid reflux, difficulty swallowing, chest pain",GERD
+"difficulty swallowing, acid reflux, chest pain, heartburn after meals",GERD
+"diarrhea, abdominal cramps",Gastroenteritis
+"headache, fever and tiredness",Chickenpox
+"nausea, sweating",Malaria
+"weakness and fatigue, headache, loss of appetite",Typhoid
+"sensitivity to light, visual disturbances",Migraine
+"frequent urge to urinate, cloudy urine, painful urination",UTI
+"acid reflux, chest pain",GERD
+"sneezing and itchy eyes, skin hives",Allergy
+"sore throat, cough, nasal congestion",Common Cold
+"body aches, nausea",Malaria
+"loss of appetite, fever and tiredness, headache",Chickenpox
+"cloudy urine, painful urination",UTI
+"rash, burning sensation, itchy skin with redness",Fungal Infection
+"flaky patches, rash, itchy skin with redness, burning sensation",Fungal Infection
+"nasal congestion, sore throat, sneezing and runny nose, cough",Common Cold
+"burning sensation, flaky patches",Fungal Infection
+"throbbing headache, visual disturbances",Migraine
+"sneezing and itchy eyes, skin hives",Allergy
+"cough, nasal congestion",Common Cold
+"sweating, nausea, high fever with chills",Malaria
+"runny nose, skin hives",Allergy
+"painful urination, cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"vomiting, abdominal cramps, dehydration",Gastroenteritis
+"throbbing headache, nausea, visual disturbances",Migraine
+"high fever with chills, sweating, body aches, nausea",Malaria
+"painful urination, frequent urge to urinate, cloudy urine",UTI
+"nasal congestion, sore throat, cough",Common Cold
+"frequent urge to urinate, cloudy urine",UTI
+"heartburn after meals, acid reflux, chest pain, difficulty swallowing",GERD
+"frequent urge to urinate, lower abdominal pain",UTI
+"runny nose, skin hives",Allergy
+"painful urination, cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"diarrhea, vomiting",Gastroenteritis
+"sensitivity to light, throbbing headache, nausea",Migraine
+"frequent urge to urinate, cloudy urine, lower abdominal pain",UTI
+"rash, flaky patches, burning sensation",Fungal Infection
+"dehydration, abdominal cramps, diarrhea",Gastroenteritis
+"itchy skin with redness, rash",Fungal Infection
+"burning sensation, flaky patches",Fungal Infection
+"difficulty swallowing, acid reflux",GERD
+"throbbing headache, nausea",Migraine
+"weakness and fatigue, loss of appetite, fever for 1 days, headache",Typhoid
+"throbbing headache, visual disturbances",Migraine
+"itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"weakness and fatigue, loss of appetite, fever for 4 days",Typhoid
+"fever for 1 days, headache, weakness and fatigue",Typhoid
+"loss of appetite, headache, fever for 4 days",Typhoid
+"sweating, nausea",Malaria
+"sweating, high fever with chills, nausea, body aches",Malaria
+"itchy blister rash, fever and tiredness",Chickenpox
+"headache, loss of appetite, weakness and fatigue",Typhoid
+"loss of appetite, headache",Typhoid
+"loss of appetite, fever and tiredness",Chickenpox
+"sneezing and runny nose, sore throat",Common Cold
+"sneezing and runny nose, nasal congestion, sore throat, cough",Common Cold
+"nausea, sweating, body aches",Malaria
+"cloudy urine, frequent urge to urinate, painful urination, lower abdominal pain",UTI
+"skin hives, nasal congestion, runny nose",Allergy
+"runny nose, skin hives, sneezing and itchy eyes",Allergy
+"runny nose, skin hives, sneezing and itchy eyes, nasal congestion",Allergy
+"painful urination, frequent urge to urinate",UTI
+"lower abdominal pain, cloudy urine",UTI
+"sneezing and itchy eyes, runny nose, skin hives",Allergy
+"diarrhea, dehydration, abdominal cramps, vomiting",Gastroenteritis
+"burning sensation, itchy skin with redness, rash, flaky patches",Fungal Infection
+"abdominal cramps, dehydration, vomiting, diarrhea",Gastroenteritis
+"fever and tiredness, headache, itchy blister rash, loss of appetite",Chickenpox
+"acid reflux, chest pain",GERD
+"abdominal cramps, vomiting, diarrhea, dehydration",Gastroenteritis
+"nausea, high fever with chills",Malaria
+"acid reflux, heartburn after meals, chest pain",GERD
+"itchy blister rash, loss of appetite, fever and tiredness, headache",Chickenpox
+"nasal congestion, skin hives, runny nose",Allergy
+"throbbing headache, visual disturbances",Migraine
+"heartburn after meals, acid reflux, chest pain",GERD
+"sore throat, sneezing and runny nose, nasal congestion, cough",Common Cold
+"rash, itchy skin with redness, flaky patches",Fungal Infection
+"headache, itchy blister rash, loss of appetite",Chickenpox
+"itchy blister rash, fever and tiredness, loss of appetite, headache",Chickenpox
+"flaky patches, itchy skin with redness",Fungal Infection
+"acid reflux, heartburn after meals, chest pain, difficulty swallowing",GERD
+"sore throat, cough, nasal congestion, sneezing and runny nose",Common Cold
+"loss of appetite, fever and tiredness",Chickenpox
+"sneezing and runny nose, nasal congestion, cough",Common Cold
+"sweating, high fever with chills, body aches, nausea",Malaria
+"chest pain, heartburn after meals",GERD
+"flaky patches, rash",Fungal Infection
+"runny nose, nasal congestion",Allergy
+"diarrhea, abdominal cramps",Gastroenteritis
+"itchy blister rash, headache",Chickenpox
+"sneezing and runny nose, cough",Common Cold
+"sneezing and runny nose, nasal congestion, cough",Common Cold
+"dehydration, diarrhea, vomiting, abdominal cramps",Gastroenteritis
+"nasal congestion, sneezing and itchy eyes",Allergy
+"difficulty swallowing, chest pain, heartburn after meals",GERD
+"headache, weakness and fatigue, loss of appetite",Typhoid
+"headache, loss of appetite",Chickenpox
+"skin hives, nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"itchy blister rash, fever and tiredness",Chickenpox
+"fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"chest pain, difficulty swallowing, heartburn after meals, acid reflux",GERD
+"nausea, throbbing headache",Migraine
+"nausea, sensitivity to light, visual disturbances",Migraine
+"sneezing and itchy eyes, skin hives, nasal congestion, runny nose",Allergy
+"headache, loss of appetite",Chickenpox
+"fever and tiredness, headache, itchy blister rash",Chickenpox
+"loss of appetite, fever and tiredness, headache",Chickenpox
+"painful urination, cloudy urine",UTI
+"fever and tiredness, headache",Chickenpox
+"sneezing and itchy eyes, skin hives, nasal congestion, runny nose",Allergy
+"nausea, sensitivity to light, throbbing headache, visual disturbances",Migraine
+"sneezing and runny nose, cough, nasal congestion",Common Cold
+"sneezing and itchy eyes, skin hives",Allergy
+"visual disturbances, throbbing headache, nausea",Migraine
+"visual disturbances, throbbing headache",Migraine
+"runny nose, sneezing and itchy eyes, nasal congestion, skin hives",Allergy
+"visual disturbances, sensitivity to light, nausea, throbbing headache",Migraine
+"headache, weakness and fatigue",Typhoid
+"abdominal cramps, diarrhea",Gastroenteritis
+"flaky patches, itchy skin with redness, rash",Fungal Infection
+"chest pain, heartburn after meals, difficulty swallowing",GERD
+"sensitivity to light, nausea, visual disturbances, throbbing headache",Migraine
+"cloudy urine, painful urination",UTI
+"fever and tiredness, itchy blister rash",Chickenpox
+"nausea, throbbing headache, visual disturbances",Migraine
+"nausea, body aches, high fever with chills, sweating",Malaria
+"visual disturbances, nausea, throbbing headache, sensitivity to light",Migraine
+"runny nose, skin hives, nasal congestion, sneezing and itchy eyes",Allergy
+"acid reflux, heartburn after meals",GERD
+"sneezing and runny nose, sore throat, cough, nasal congestion",Common Cold
+"sneezing and runny nose, sore throat",Common Cold
+"itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"fever and tiredness, headache",Chickenpox
+"nausea, throbbing headache",Migraine
+"throbbing headache, sensitivity to light",Migraine
+"loss of appetite, weakness and fatigue, headache",Typhoid
+"throbbing headache, visual disturbances, sensitivity to light",Migraine
+"loss of appetite, weakness and fatigue, fever for 4 days, headache",Typhoid
+"visual disturbances, throbbing headache, nausea",Migraine
+"headache, itchy blister rash",Chickenpox
+"body aches, high fever with chills, sweating, nausea",Malaria
+"throbbing headache, nausea, visual disturbances",Migraine
+"frequent urge to urinate, lower abdominal pain",UTI
+"lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"sore throat, nasal congestion",Common Cold
+"nasal congestion, sneezing and itchy eyes",Allergy
+"nasal congestion, sore throat, sneezing and runny nose, cough",Common Cold
+"loss of appetite, weakness and fatigue, fever for 2 days, headache",Typhoid
+"loss of appetite, itchy blister rash",Chickenpox
+"acid reflux, chest pain, difficulty swallowing, heartburn after meals",GERD
+"nasal congestion, sneezing and runny nose, sore throat, cough",Common Cold
+"rash, flaky patches, burning sensation",Fungal Infection
+"difficulty swallowing, heartburn after meals",GERD
+"fever for 2 days, weakness and fatigue, headache, loss of appetite",Typhoid
+"difficulty swallowing, heartburn after meals",GERD
+"nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"nasal congestion, runny nose, skin hives",Allergy
+"headache, weakness and fatigue, loss of appetite",Typhoid
+"headache, itchy blister rash",Chickenpox
+"burning sensation, flaky patches",Fungal Infection
+"nausea, high fever with chills",Malaria
+"runny nose, nasal congestion, sneezing and itchy eyes",Allergy
+"nausea, sensitivity to light, throbbing headache",Migraine
+"headache, fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"fever and tiredness, loss of appetite",Chickenpox
+"body aches, high fever with chills",Malaria
+"diarrhea, vomiting, dehydration",Gastroenteritis
+"nasal congestion, sore throat, sneezing and runny nose",Common Cold
+"loss of appetite, itchy blister rash",Chickenpox
+"chest pain, heartburn after meals, acid reflux",GERD
+"runny nose, skin hives, sneezing and itchy eyes",Allergy
+"throbbing headache, sensitivity to light, visual disturbances",Migraine
+"burning sensation, rash, itchy skin with redness, flaky patches",Fungal Infection
+"burning sensation, rash, flaky patches",Fungal Infection
+"abdominal cramps, vomiting",Gastroenteritis
+"nausea, high fever with chills, sweating",Malaria
+"chest pain, difficulty swallowing",GERD
+"abdominal cramps, diarrhea, dehydration, vomiting",Gastroenteritis
+"nausea, body aches, high fever with chills, sweating",Malaria
+"painful urination, frequent urge to urinate, cloudy urine",UTI
+"nasal congestion, cough, sore throat",Common Cold
+"nausea, sweating, body aches",Malaria
+"sweating, body aches, nausea",Malaria
+"weakness and fatigue, fever for 5 days",Typhoid
+"skin hives, nasal congestion",Allergy
+"nausea, high fever with chills, body aches",Malaria
+"lower abdominal pain, frequent urge to urinate, painful urination, cloudy urine",UTI
+"vomiting, dehydration, abdominal cramps",Gastroenteritis
+"frequent urge to urinate, cloudy urine",UTI
+"difficulty swallowing, chest pain, heartburn after meals",GERD
+"skin hives, nasal congestion, runny nose",Allergy
+"visual disturbances, throbbing headache, nausea",Migraine
+"headache, weakness and fatigue",Typhoid
+"nausea, sensitivity to light",Migraine
+"flaky patches, rash, burning sensation, itchy skin with redness",Fungal Infection
+"cloudy urine, painful urination, lower abdominal pain, frequent urge to urinate",UTI
+"loss of appetite, headache, weakness and fatigue",Typhoid
+"nausea, high fever with chills, body aches, sweating",Malaria
+"frequent urge to urinate, painful urination, lower abdominal pain",UTI
+"heartburn after meals, chest pain",GERD
+"vomiting, diarrhea",Gastroenteritis
+"cloudy urine, painful urination, frequent urge to urinate, lower abdominal pain",UTI
+"nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"high fever with chills, nausea, sweating",Malaria
+"sneezing and itchy eyes, skin hives",Allergy
+"difficulty swallowing, heartburn after meals",GERD
+"painful urination, cloudy urine, frequent urge to urinate",UTI
+"visual disturbances, sensitivity to light, nausea",Migraine
+"fever for 5 days, weakness and fatigue, loss of appetite",Typhoid
+"high fever with chills, nausea, body aches, sweating",Malaria
+"sore throat, sneezing and runny nose, nasal congestion",Common Cold
+"painful urination, lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"cough, sneezing and runny nose, nasal congestion",Common Cold
+"throbbing headache, nausea",Migraine
+"sneezing and itchy eyes, skin hives, runny nose",Allergy
+"heartburn after meals, difficulty swallowing",GERD
+"lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"acid reflux, heartburn after meals, difficulty swallowing, chest pain",GERD
+"painful urination, frequent urge to urinate, lower abdominal pain, cloudy urine",UTI
+"flaky patches, rash, itchy skin with redness",Fungal Infection
+"abdominal cramps, dehydration",Gastroenteritis
+"sore throat, sneezing and runny nose",Common Cold
+"fever and tiredness, itchy blister rash",Chickenpox
+"chest pain, acid reflux",GERD
+"nausea, throbbing headache",Migraine
+"diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"chest pain, acid reflux",GERD
+"frequent urge to urinate, painful urination, lower abdominal pain, cloudy urine",UTI
+"flaky patches, rash",Fungal Infection
+"diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"fever and tiredness, headache, itchy blister rash, loss of appetite",Chickenpox
+"nasal congestion, sneezing and itchy eyes, skin hives, runny nose",Allergy
+"sweating, high fever with chills, nausea",Malaria
+"lower abdominal pain, painful urination, cloudy urine, frequent urge to urinate",UTI
+"headache, fever for 5 days",Typhoid
+"difficulty swallowing, chest pain",GERD
+"sneezing and itchy eyes, nasal congestion",Allergy
+"visual disturbances, nausea, throbbing headache, sensitivity to light",Migraine
+"acid reflux, heartburn after meals, difficulty swallowing",GERD
+"fever and tiredness, headache, loss of appetite, itchy blister rash",Chickenpox
+"diarrhea, vomiting, dehydration",Gastroenteritis
+"flaky patches, burning sensation",Fungal Infection
+"sweating, body aches",Malaria
+"lower abdominal pain, cloudy urine",UTI
+"headache, weakness and fatigue, loss of appetite, fever for 3 days",Typhoid
+"sneezing and runny nose, cough, sore throat, nasal congestion",Common Cold
+"dehydration, abdominal cramps, vomiting, diarrhea",Gastroenteritis
+"headache, fever and tiredness, loss of appetite",Chickenpox
+"vomiting, dehydration, abdominal cramps",Gastroenteritis
+"body aches, high fever with chills, nausea",Malaria
+"itchy blister rash, loss of appetite, headache, fever and tiredness",Chickenpox
+"nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"acid reflux, difficulty swallowing, heartburn after meals, chest pain",GERD
+"headache, loss of appetite",Chickenpox
+"flaky patches, burning sensation",Fungal Infection
+"loss of appetite, fever and tiredness, headache, itchy blister rash",Chickenpox
+"sensitivity to light, nausea, visual disturbances",Migraine
+"loss of appetite, headache",Typhoid
+"nasal congestion, skin hives",Allergy
+"heartburn after meals, acid reflux, chest pain, difficulty swallowing",GERD
+"rash, burning sensation",Fungal Infection
+"loss of appetite, fever for 2 days",Typhoid
+"lower abdominal pain, cloudy urine, painful urination, frequent urge to urinate",UTI
+"itchy blister rash, headache",Chickenpox
+"sensitivity to light, nausea, visual disturbances, throbbing headache",Migraine
+"nasal congestion, sore throat",Common Cold
+"difficulty swallowing, chest pain, heartburn after meals",GERD
+"sore throat, sneezing and runny nose, nasal congestion",Common Cold
+"visual disturbances, nausea, sensitivity to light, throbbing headache",Migraine
+"headache, fever for 5 days, weakness and fatigue, loss of appetite",Typhoid
+"sneezing and itchy eyes, skin hives, nasal congestion, runny nose",Allergy
+"flaky patches, itchy skin with redness, rash, burning sensation",Fungal Infection
+"sensitivity to light, throbbing headache, visual disturbances, nausea",Migraine
+"sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"chest pain, heartburn after meals, difficulty swallowing",GERD
+"abdominal cramps, dehydration, vomiting, diarrhea",Gastroenteritis
+"difficulty swallowing, chest pain",GERD
+"sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"sensitivity to light, nausea, visual disturbances, throbbing headache",Migraine
+"sore throat, cough, sneezing and runny nose, nasal congestion",Common Cold
+"headache, weakness and fatigue, fever for 1 days",Typhoid
+"abdominal cramps, diarrhea",Gastroenteritis
+"itchy blister rash, fever and tiredness, headache, loss of appetite",Chickenpox
+"frequent urge to urinate, lower abdominal pain, cloudy urine",UTI
+"heartburn after meals, acid reflux, chest pain",GERD
+"dehydration, diarrhea",Gastroenteritis
+"loss of appetite, headache, fever for 1 days, weakness and fatigue",Typhoid
+"throbbing headache, nausea, sensitivity to light",Migraine
+"throbbing headache, visual disturbances, sensitivity to light, nausea",Migraine
+"nausea, sensitivity to light, visual disturbances, throbbing headache",Migraine
+"abdominal cramps, dehydration",Gastroenteritis
+"throbbing headache, sensitivity to light",Migraine
+"weakness and fatigue, fever for 2 days, loss of appetite, headache",Typhoid
+"body aches, high fever with chills",Malaria
+"painful urination, frequent urge to urinate",UTI
+"nausea, high fever with chills",Malaria
+"frequent urge to urinate, cloudy urine",UTI
+"burning sensation, flaky patches, itchy skin with redness",Fungal Infection
+"sneezing and runny nose, cough, nasal congestion, sore throat",Common Cold
+"dehydration, abdominal cramps, vomiting",Gastroenteritis
+"frequent urge to urinate, painful urination, lower abdominal pain, cloudy urine",UTI
+"loss of appetite, fever for 2 days, headache, weakness and fatigue",Typhoid
+"flaky patches, burning sensation, rash",Fungal Infection
+"sneezing and itchy eyes, skin hives, runny nose",Allergy
+"diarrhea, dehydration",Gastroenteritis
+"abdominal cramps, diarrhea, vomiting",Gastroenteritis
+"dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"loss of appetite, weakness and fatigue, headache, fever for 4 days",Typhoid
+"cough, nasal congestion, sore throat",Common Cold
+"sore throat, sneezing and runny nose, cough",Common Cold
+"nasal congestion, sneezing and itchy eyes, runny nose, skin hives",Allergy
+"painful urination, cloudy urine",UTI
+"heartburn after meals, acid reflux, difficulty swallowing",GERD
+"weakness and fatigue, loss of appetite, fever for 1 days, headache",Typhoid
+"nausea, throbbing headache, visual disturbances",Migraine
+"painful urination, frequent urge to urinate, lower abdominal pain, cloudy urine",UTI
+"acid reflux, chest pain, difficulty swallowing",GERD
+"chest pain, heartburn after meals, acid reflux",GERD
+"sneezing and runny nose, sore throat",Common Cold
+"body aches, sweating, nausea",Malaria
+"rash, burning sensation, itchy skin with redness, flaky patches",Fungal Infection
+"throbbing headache, nausea",Migraine
+"itchy skin with redness, burning sensation",Fungal Infection
+"fever and tiredness, loss of appetite, headache, itchy blister rash",Chickenpox
+"cloudy urine, lower abdominal pain",UTI
+"body aches, high fever with chills, nausea",Malaria
+"fever for 2 days, weakness and fatigue, loss of appetite",Typhoid
+"painful urination, lower abdominal pain, cloudy urine",UTI
+"cloudy urine, lower abdominal pain, painful urination",UTI
+"itchy blister rash, loss of appetite",Chickenpox
+"flaky patches, rash, itchy skin with redness, burning sensation",Fungal Infection
+"flaky patches, itchy skin with redness, burning sensation, rash",Fungal Infection
+"difficulty swallowing, acid reflux, heartburn after meals",GERD
+"nausea, body aches, sweating",Malaria
+"painful urination, cloudy urine, frequent urge to urinate",UTI
+"fever and tiredness, headache, loss of appetite",Chickenpox
+"chest pain, difficulty swallowing",GERD
+"fever and tiredness, loss of appetite, headache, itchy blister rash",Chickenpox
+"fever for 3 days, loss of appetite, weakness and fatigue",Typhoid
+"flaky patches, rash, itchy skin with redness, burning sensation",Fungal Infection
+"high fever with chills, nausea, body aches",Malaria
+"itchy blister rash, fever and tiredness, loss of appetite, headache",Chickenpox
+"sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"headache, weakness and fatigue",Typhoid
+"weakness and fatigue, loss of appetite, fever for 1 days",Typhoid
+"weakness and fatigue, headache",Typhoid
+"high fever with chills, sweating, nausea, body aches",Malaria
+"sore throat, nasal congestion",Common Cold
+"loss of appetite, headache",Chickenpox
+"abdominal cramps, vomiting, dehydration, diarrhea",Gastroenteritis
+"chest pain, difficulty swallowing, acid reflux",GERD
+"sweating, body aches, nausea, high fever with chills",Malaria
+"cough, sore throat, sneezing and runny nose",Common Cold
+"nausea, throbbing headache, sensitivity to light, visual disturbances",Migraine
+"painful urination, lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"sore throat, nasal congestion",Common Cold
+"dehydration, abdominal cramps, vomiting",Gastroenteritis
+"difficulty swallowing, heartburn after meals, acid reflux, chest pain",GERD
+"skin hives, runny nose",Allergy
+"cough, nasal congestion, sneezing and runny nose",Common Cold
+"diarrhea, dehydration, vomiting, abdominal cramps",Gastroenteritis
+"nausea, visual disturbances",Migraine
+"chest pain, heartburn after meals",GERD
+"high fever with chills, sweating",Malaria
+"frequent urge to urinate, painful urination, cloudy urine, lower abdominal pain",UTI
+"nausea, body aches, sweating, high fever with chills",Malaria
+"sneezing and itchy eyes, nasal congestion, skin hives, runny nose",Allergy
+"headache, fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"high fever with chills, sweating",Malaria
+"flaky patches, itchy skin with redness, burning sensation, rash",Fungal Infection
+"loss of appetite, headache, itchy blister rash",Chickenpox
+"burning sensation, flaky patches, rash, itchy skin with redness",Fungal Infection
+"sneezing and itchy eyes, runny nose",Allergy
+"fever and tiredness, headache",Chickenpox
+"heartburn after meals, acid reflux, chest pain",GERD
+"burning sensation, itchy skin with redness, rash",Fungal Infection
+"lower abdominal pain, frequent urge to urinate",UTI
+"rash, burning sensation, flaky patches, itchy skin with redness",Fungal Infection
+"chest pain, heartburn after meals",GERD
+"loss of appetite, weakness and fatigue",Typhoid
+"nausea, sweating, high fever with chills",Malaria
+"sensitivity to light, nausea, throbbing headache",Migraine
+"headache, fever and tiredness",Chickenpox
+"visual disturbances, sensitivity to light, throbbing headache",Migraine
+"difficulty swallowing, chest pain, acid reflux",GERD
+"high fever with chills, nausea, body aches",Malaria
+"runny nose, sneezing and itchy eyes, skin hives",Allergy
+"flaky patches, burning sensation",Fungal Infection
+"rash, burning sensation, itchy skin with redness",Fungal Infection
+"headache, loss of appetite, itchy blister rash",Chickenpox
+"dehydration, diarrhea",Gastroenteritis
+"vomiting, abdominal cramps, diarrhea, dehydration",Gastroenteritis
+"burning sensation, itchy skin with redness, flaky patches",Fungal Infection
+"high fever with chills, nausea",Malaria
+"sweating, high fever with chills",Malaria
+"nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"vomiting, diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"heartburn after meals, acid reflux, chest pain",GERD
+"itchy skin with redness, burning sensation",Fungal Infection
+"frequent urge to urinate, painful urination",UTI
+"frequent urge to urinate, cloudy urine, lower abdominal pain, painful urination",UTI
+"cloudy urine, frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"heartburn after meals, difficulty swallowing",GERD
+"chest pain, difficulty swallowing, acid reflux",GERD
+"nausea, throbbing headache, visual disturbances",Migraine
+"itchy skin with redness, burning sensation",Fungal Infection
+"painful urination, lower abdominal pain",UTI
+"sore throat, sneezing and runny nose",Common Cold
+"rash, burning sensation, flaky patches",Fungal Infection
+"vomiting, diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"high fever with chills, sweating, nausea, body aches",Malaria
+"skin hives, nasal congestion",Allergy
+"cloudy urine, lower abdominal pain, painful urination",UTI
+"throbbing headache, sensitivity to light, visual disturbances",Migraine
+"weakness and fatigue, fever for 3 days, loss of appetite",Typhoid
+"flaky patches, rash, itchy skin with redness",Fungal Infection
+"abdominal cramps, diarrhea, dehydration, vomiting",Gastroenteritis
+"body aches, nausea, sweating, high fever with chills",Malaria
+"painful urination, lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"acid reflux, heartburn after meals, chest pain, difficulty swallowing",GERD
+"nasal congestion, cough, sneezing and runny nose, sore throat",Common Cold
+"frequent urge to urinate, lower abdominal pain",UTI
+"abdominal cramps, diarrhea, vomiting, dehydration",Gastroenteritis
+"sore throat, nasal congestion",Common Cold
+"fever for 1 days, headache, weakness and fatigue",Typhoid
+"loss of appetite, weakness and fatigue, headache, fever for 1 days",Typhoid
+"visual disturbances, nausea",Migraine
+"burning sensation, rash, flaky patches",Fungal Infection
+"vomiting, dehydration",Gastroenteritis
+"sneezing and runny nose, sore throat",Common Cold
+"headache, weakness and fatigue",Typhoid
+"acid reflux, heartburn after meals, chest pain",GERD
+"vomiting, abdominal cramps, diarrhea, dehydration",Gastroenteritis
+"loss of appetite, headache, itchy blister rash",Chickenpox
+"diarrhea, abdominal cramps, dehydration, vomiting",Gastroenteritis
+"sensitivity to light, visual disturbances, throbbing headache",Migraine
+"painful urination, cloudy urine",UTI
+"skin hives, runny nose, sneezing and itchy eyes",Allergy
+"nasal congestion, runny nose, skin hives",Allergy
+"chest pain, heartburn after meals, acid reflux, difficulty swallowing",GERD
+"dehydration, vomiting, diarrhea",Gastroenteritis
+"abdominal cramps, vomiting, diarrhea, dehydration",Gastroenteritis
+"heartburn after meals, chest pain",GERD
+"flaky patches, rash",Fungal Infection
+"rash, burning sensation",Fungal Infection
+"headache, fever and tiredness",Chickenpox
+"skin hives, runny nose",Allergy
+"abdominal cramps, vomiting",Gastroenteritis
+"burning sensation, rash, flaky patches",Fungal Infection
+"fever for 1 days, loss of appetite, weakness and fatigue",Typhoid
+"nausea, body aches",Malaria
+"itchy skin with redness, burning sensation",Fungal Infection
+"heartburn after meals, chest pain",GERD
+"painful urination, lower abdominal pain",UTI
+"diarrhea, dehydration, vomiting",Gastroenteritis
+"abdominal cramps, diarrhea",Gastroenteritis
+"frequent urge to urinate, painful urination, cloudy urine, lower abdominal pain",UTI
+"skin hives, nasal congestion",Allergy
+"cough, sore throat, nasal congestion",Common Cold
+"difficulty swallowing, acid reflux, chest pain",GERD
+"abdominal cramps, diarrhea, vomiting, dehydration",Gastroenteritis
+"skin hives, runny nose, nasal congestion",Allergy
+"headache, itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"nausea, throbbing headache",Migraine
+"itchy skin with redness, rash",Fungal Infection
+"chest pain, heartburn after meals, difficulty swallowing",GERD
+"fever and tiredness, itchy blister rash",Chickenpox
+"diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"nausea, sweating, body aches",Malaria
+"sweating, body aches",Malaria
+"chest pain, heartburn after meals, difficulty swallowing, acid reflux",GERD
+"dehydration, vomiting, diarrhea",Gastroenteritis
+"high fever with chills, nausea",Malaria
+"frequent urge to urinate, lower abdominal pain, painful urination, cloudy urine",UTI
+"acid reflux, chest pain, difficulty swallowing, heartburn after meals",GERD
+"fever for 2 days, weakness and fatigue, loss of appetite, headache",Typhoid
+"runny nose, nasal congestion, sneezing and itchy eyes",Allergy
+"nausea, body aches",Malaria
+"body aches, nausea, high fever with chills",Malaria
+"throbbing headache, nausea, visual disturbances",Migraine
+"skin hives, runny nose",Allergy
+"cough, sore throat",Common Cold
+"nasal congestion, skin hives, sneezing and itchy eyes, runny nose",Allergy
+"throbbing headache, nausea, sensitivity to light, visual disturbances",Migraine
+"itchy blister rash, headache",Chickenpox
+"heartburn after meals, acid reflux, difficulty swallowing",GERD
+"heartburn after meals, difficulty swallowing, chest pain",GERD
+"sneezing and runny nose, sore throat",Common Cold
+"cloudy urine, painful urination, lower abdominal pain",UTI
+"lower abdominal pain, painful urination",UTI
+"nasal congestion, sneezing and runny nose",Common Cold
+"headache, fever and tiredness, loss of appetite",Chickenpox
+"acid reflux, heartburn after meals, chest pain, difficulty swallowing",GERD
+"cough, sneezing and runny nose, sore throat",Common Cold
+"painful urination, cloudy urine, lower abdominal pain",UTI
+"weakness and fatigue, loss of appetite, headache, fever for 2 days",Typhoid
+"sore throat, nasal congestion, sneezing and runny nose",Common Cold
+"loss of appetite, headache, fever and tiredness",Chickenpox
+"acid reflux, heartburn after meals, difficulty swallowing, chest pain",GERD
+"flaky patches, rash, burning sensation",Fungal Infection
+"loss of appetite, itchy blister rash, fever and tiredness, headache",Chickenpox
+"runny nose, sneezing and itchy eyes",Allergy
+"sweating, nausea, body aches, high fever with chills",Malaria
+"cough, sneezing and runny nose, nasal congestion, sore throat",Common Cold
+"fever and tiredness, headache",Chickenpox
+"frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"difficulty swallowing, heartburn after meals, acid reflux",GERD
+"sensitivity to light, nausea",Migraine
+"sweating, nausea, body aches",Malaria
+"sneezing and runny nose, sore throat, cough",Common Cold
+"fever for 1 days, weakness and fatigue, loss of appetite",Typhoid
+"painful urination, lower abdominal pain",UTI
+"heartburn after meals, difficulty swallowing, acid reflux",GERD
+"itchy blister rash, headache, fever and tiredness, loss of appetite",Chickenpox
+"fever and tiredness, loss of appetite, headache, itchy blister rash",Chickenpox
+"sneezing and itchy eyes, skin hives, nasal congestion, runny nose",Allergy
+"cloudy urine, frequent urge to urinate, painful urination, lower abdominal pain",UTI
+"chest pain, heartburn after meals",GERD
+"cough, sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"itchy blister rash, headache",Chickenpox
+"burning sensation, itchy skin with redness",Fungal Infection
+"itchy skin with redness, rash, flaky patches, burning sensation",Fungal Infection
+"abdominal cramps, diarrhea, dehydration, vomiting",Gastroenteritis
+"loss of appetite, fever for 3 days, weakness and fatigue, headache",Typhoid
+"runny nose, skin hives, sneezing and itchy eyes, nasal congestion",Allergy
+"fever for 4 days, loss of appetite, weakness and fatigue",Typhoid
+"cloudy urine, frequent urge to urinate",UTI
+"lower abdominal pain, painful urination, cloudy urine, frequent urge to urinate",UTI
+"burning sensation, itchy skin with redness, flaky patches",Fungal Infection
+"skin hives, sneezing and itchy eyes, runny nose, nasal congestion",Allergy
+"high fever with chills, sweating",Malaria
+"cough, sore throat, nasal congestion",Common Cold
+"cloudy urine, lower abdominal pain",UTI
+"frequent urge to urinate, cloudy urine, lower abdominal pain, painful urination",UTI
+"loss of appetite, itchy blister rash, fever and tiredness, headache",Chickenpox
+"difficulty swallowing, chest pain, heartburn after meals, acid reflux",GERD
+"acid reflux, heartburn after meals",GERD
+"sneezing and itchy eyes, nasal congestion, runny nose, skin hives",Allergy
+"sweating, nausea, high fever with chills, body aches",Malaria
+"heartburn after meals, difficulty swallowing, acid reflux, chest pain",GERD
+"sore throat, sneezing and runny nose",Common Cold
+"abdominal cramps, vomiting, diarrhea, dehydration",Gastroenteritis
+"frequent urge to urinate, painful urination, cloudy urine, lower abdominal pain",UTI
+"frequent urge to urinate, lower abdominal pain",UTI
+"painful urination, cloudy urine",UTI
+"loss of appetite, headache",Chickenpox
+"dehydration, diarrhea, vomiting, abdominal cramps",Gastroenteritis
+"headache, fever for 4 days",Typhoid
+"sneezing and runny nose, sore throat",Common Cold
+"fever for 3 days, weakness and fatigue, loss of appetite, headache",Typhoid
+"rash, flaky patches",Fungal Infection
+"high fever with chills, nausea, body aches",Malaria
+"nausea, sensitivity to light, throbbing headache",Migraine
+"loss of appetite, fever for 5 days, weakness and fatigue",Typhoid
+"nausea, sweating, high fever with chills",Malaria
+"throbbing headache, nausea",Migraine
+"fever for 3 days, headache",Typhoid
+"cough, sore throat, nasal congestion",Common Cold
+"vomiting, diarrhea",Gastroenteritis
+"painful urination, lower abdominal pain",UTI
+"difficulty swallowing, chest pain, heartburn after meals, acid reflux",GERD
+"headache, fever and tiredness, loss of appetite",Chickenpox
+"abdominal cramps, dehydration, diarrhea",Gastroenteritis
+"rash, flaky patches, itchy skin with redness",Fungal Infection
+"burning sensation, rash, flaky patches",Fungal Infection
+"itchy skin with redness, burning sensation, flaky patches",Fungal Infection
+"acid reflux, heartburn after meals",GERD
+"rash, itchy skin with redness, burning sensation, flaky patches",Fungal Infection
+"sneezing and itchy eyes, nasal congestion, runny nose",Allergy
+"sensitivity to light, nausea, visual disturbances, throbbing headache",Migraine
+"itchy blister rash, fever and tiredness",Chickenpox
+"cough, sneezing and runny nose, sore throat",Common Cold
+"throbbing headache, sensitivity to light, visual disturbances",Migraine
+"nausea, visual disturbances, throbbing headache",Migraine
+"skin hives, sneezing and itchy eyes, nasal congestion",Allergy
+"diarrhea, dehydration",Gastroenteritis
+"throbbing headache, visual disturbances, nausea, sensitivity to light",Migraine
+"headache, loss of appetite, fever and tiredness",Chickenpox
+"nasal congestion, skin hives, runny nose, sneezing and itchy eyes",Allergy
+"loss of appetite, itchy blister rash, fever and tiredness, headache",Chickenpox
+"fever for 1 days, loss of appetite",Typhoid
+"sneezing and runny nose, sore throat, cough, nasal congestion",Common Cold
+"sneezing and runny nose, cough, nasal congestion, sore throat",Common Cold
+"sore throat, sneezing and runny nose, cough, nasal congestion",Common Cold
+"itchy blister rash, loss of appetite, headache",Chickenpox
+"lower abdominal pain, painful urination, cloudy urine, frequent urge to urinate",UTI
+"abdominal cramps, dehydration, vomiting, diarrhea",Gastroenteritis
+"sweating, high fever with chills, body aches, nausea",Malaria
+"skin hives, nasal congestion",Allergy
+"abdominal cramps, diarrhea, dehydration, vomiting",Gastroenteritis
+"painful urination, lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"acid reflux, heartburn after meals, difficulty swallowing, chest pain",GERD
+"vomiting, dehydration, abdominal cramps, diarrhea",Gastroenteritis
+"difficulty swallowing, chest pain, acid reflux, heartburn after meals",GERD
+"burning sensation, itchy skin with redness",Fungal Infection
+"sensitivity to light, throbbing headache",Migraine
+"throbbing headache, nausea, sensitivity to light, visual disturbances",Migraine
+"visual disturbances, nausea, sensitivity to light, throbbing headache",Migraine
+"nasal congestion, cough, sore throat, sneezing and runny nose",Common Cold
+"abdominal cramps, dehydration, vomiting",Gastroenteritis
+"difficulty swallowing, chest pain, acid reflux",GERD
+"visual disturbances, nausea",Migraine
+"visual disturbances, throbbing headache, sensitivity to light",Migraine
+"heartburn after meals, chest pain, acid reflux, difficulty swallowing",GERD
+"nausea, body aches",Malaria
+"fever for 1 days, weakness and fatigue, headache, loss of appetite",Typhoid
+"body aches, sweating",Malaria
+"throbbing headache, visual disturbances, sensitivity to light",Migraine
+"fever for 5 days, weakness and fatigue",Typhoid
+"fever and tiredness, headache, itchy blister rash",Chickenpox
+"sweating, nausea",Malaria
+"difficulty swallowing, heartburn after meals",GERD
+"headache, loss of appetite, fever for 4 days, weakness and fatigue",Typhoid
+"burning sensation, flaky patches, itchy skin with redness, rash",Fungal Infection
+"lower abdominal pain, frequent urge to urinate",UTI
+"fever and tiredness, itchy blister rash",Chickenpox
+"sore throat, sneezing and runny nose",Common Cold
+"frequent urge to urinate, lower abdominal pain, painful urination, cloudy urine",UTI
+"difficulty swallowing, acid reflux",GERD
+"sneezing and runny nose, cough, nasal congestion, sore throat",Common Cold
+"chest pain, acid reflux, heartburn after meals, difficulty swallowing",GERD
+"rash, flaky patches, itchy skin with redness",Fungal Infection
+"high fever with chills, body aches",Malaria
+"loss of appetite, headache",Chickenpox
+"acid reflux, difficulty swallowing, chest pain, heartburn after meals",GERD
+"itchy skin with redness, flaky patches, burning sensation, rash",Fungal Infection
+"dehydration, diarrhea",Gastroenteritis
+"dehydration, abdominal cramps, diarrhea, vomiting",Gastroenteritis
+"nasal congestion, runny nose",Allergy
+"sweating, body aches",Malaria
+"body aches, nausea, sweating, high fever with chills",Malaria
+"itchy blister rash, loss of appetite, headache, fever and tiredness",Chickenpox
+"flaky patches, burning sensation, rash",Fungal Infection
+"nausea, sweating",Malaria
+"sore throat, nasal congestion, sneezing and runny nose",Common Cold
+"fever for 5 days, weakness and fatigue, headache, loss of appetite",Typhoid
+"fever for 1 days, loss of appetite, weakness and fatigue",Typhoid
+"throbbing headache, nausea, visual disturbances",Migraine
+"nausea, body aches, sweating, high fever with chills",Malaria
+"throbbing headache, nausea, visual disturbances, sensitivity to light",Migraine
+"heartburn after meals, chest pain, acid reflux, difficulty swallowing",GERD
+"sneezing and runny nose, cough",Common Cold
+"acid reflux, heartburn after meals",GERD
+"sore throat, cough",Common Cold
+"diarrhea, vomiting, dehydration, abdominal cramps",Gastroenteritis
+"cough, sneezing and runny nose, sore throat",Common Cold
+"sneezing and itchy eyes, nasal congestion, runny nose",Allergy
+"flaky patches, burning sensation, rash",Fungal Infection
+"loss of appetite, weakness and fatigue, headache",Typhoid
+"visual disturbances, sensitivity to light, nausea, throbbing headache",Migraine
+"difficulty swallowing, heartburn after meals, acid reflux, chest pain",GERD
+"dehydration, abdominal cramps, diarrhea",Gastroenteritis
+"frequent urge to urinate, lower abdominal pain, cloudy urine",UTI
+"abdominal cramps, vomiting",Gastroenteritis
+"nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"loss of appetite, headache, fever and tiredness, itchy blister rash",Chickenpox
+"headache, weakness and fatigue",Typhoid
+"visual disturbances, sensitivity to light, throbbing headache",Migraine
+"difficulty swallowing, acid reflux, chest pain, heartburn after meals",GERD
+"skin hives, sneezing and itchy eyes, runny nose",Allergy
+"body aches, nausea",Malaria
+"heartburn after meals, chest pain, difficulty swallowing",GERD
+"itchy blister rash, headache, fever and tiredness, loss of appetite",Chickenpox
+"high fever with chills, nausea, sweating, body aches",Malaria
+"skin hives, sneezing and itchy eyes, runny nose",Allergy
+"headache, fever for 1 days, loss of appetite",Typhoid
+"diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"nausea, throbbing headache, visual disturbances, sensitivity to light",Migraine
+"abdominal cramps, dehydration",Gastroenteritis
+"heartburn after meals, chest pain, difficulty swallowing, acid reflux",GERD
+"runny nose, sneezing and itchy eyes",Allergy
+"headache, fever for 1 days",Typhoid
+"itchy skin with redness, flaky patches",Fungal Infection
+"skin hives, sneezing and itchy eyes",Allergy
+"runny nose, nasal congestion, sneezing and itchy eyes",Allergy
+"throbbing headache, sensitivity to light, nausea",Migraine
+"sensitivity to light, visual disturbances, nausea, throbbing headache",Migraine
+"acid reflux, heartburn after meals, chest pain, difficulty swallowing",GERD
+"vomiting, diarrhea",Gastroenteritis
+"nausea, body aches, high fever with chills, sweating",Malaria
+"sweating, nausea",Malaria
+"headache, weakness and fatigue",Typhoid
+"runny nose, sneezing and itchy eyes, skin hives",Allergy
+"vomiting, abdominal cramps, dehydration",Gastroenteritis
+"nausea, high fever with chills, body aches, sweating",Malaria
+"loss of appetite, weakness and fatigue",Typhoid
+"painful urination, cloudy urine",UTI
+"itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"headache, loss of appetite, fever and tiredness, itchy blister rash",Chickenpox
+"runny nose, sneezing and itchy eyes, nasal congestion",Allergy
+"dehydration, diarrhea, abdominal cramps, vomiting",Gastroenteritis
+"nasal congestion, cough",Common Cold
+"sore throat, cough, nasal congestion",Common Cold
+"diarrhea, vomiting, abdominal cramps",Gastroenteritis
+"skin hives, sneezing and itchy eyes, nasal congestion, runny nose",Allergy
+"nasal congestion, skin hives, sneezing and itchy eyes",Allergy
+"weakness and fatigue, headache, fever for 3 days, loss of appetite",Typhoid
+"visual disturbances, throbbing headache, sensitivity to light",Migraine
+"acid reflux, chest pain",GERD
+"diarrhea, vomiting, abdominal cramps",Gastroenteritis
+"burning sensation, flaky patches",Fungal Infection
+"cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"heartburn after meals, acid reflux, difficulty swallowing, chest pain",GERD
+"visual disturbances, nausea",Migraine
+"diarrhea, vomiting",Gastroenteritis
+"visual disturbances, nausea",Migraine
+"nasal congestion, sore throat, cough",Common Cold
+"flaky patches, burning sensation",Fungal Infection
+"throbbing headache, sensitivity to light",Migraine
+"acid reflux, chest pain",GERD
+"nasal congestion, cough",Common Cold
+"diarrhea, dehydration, vomiting",Gastroenteritis
+"high fever with chills, body aches, nausea",Malaria
+"headache, itchy blister rash, fever and tiredness",Chickenpox
+"sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"runny nose, nasal congestion, skin hives, sneezing and itchy eyes",Allergy
+"high fever with chills, body aches, nausea, sweating",Malaria
+"vomiting, abdominal cramps, dehydration, diarrhea",Gastroenteritis
+"fever and tiredness, itchy blister rash, loss of appetite",Chickenpox
+"heartburn after meals, chest pain, difficulty swallowing",GERD
+"dehydration, abdominal cramps, vomiting",Gastroenteritis
+"difficulty swallowing, heartburn after meals, chest pain, acid reflux",GERD
+"abdominal cramps, vomiting, diarrhea, dehydration",Gastroenteritis
+"visual disturbances, sensitivity to light",Migraine
+"headache, loss of appetite, fever and tiredness, itchy blister rash",Chickenpox
+"sneezing and runny nose, nasal congestion, cough, sore throat",Common Cold
+"lower abdominal pain, painful urination",UTI
+"painful urination, frequent urge to urinate, cloudy urine",UTI
+"diarrhea, dehydration, vomiting",Gastroenteritis
+"fever and tiredness, headache, loss of appetite",Chickenpox
+"sensitivity to light, visual disturbances, nausea, throbbing headache",Migraine
+"loss of appetite, weakness and fatigue, fever for 2 days, headache",Typhoid
+"sneezing and runny nose, sore throat, cough",Common Cold
+"sneezing and itchy eyes, skin hives",Allergy
+"nausea, visual disturbances, throbbing headache",Migraine
+"throbbing headache, visual disturbances, nausea, sensitivity to light",Migraine
+"runny nose, nasal congestion, skin hives",Allergy
+"painful urination, frequent urge to urinate, lower abdominal pain, cloudy urine",UTI
+"itchy skin with redness, flaky patches, rash, burning sensation",Fungal Infection
+"nasal congestion, sore throat, sneezing and runny nose",Common Cold
+"heartburn after meals, chest pain, difficulty swallowing",GERD
+"diarrhea, dehydration",Gastroenteritis
+"high fever with chills, sweating, body aches",Malaria
+"frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"rash, itchy skin with redness, flaky patches",Fungal Infection
+"itchy blister rash, loss of appetite, headache",Chickenpox
+"vomiting, diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"headache, loss of appetite, fever for 3 days",Typhoid
+"dehydration, abdominal cramps, vomiting, diarrhea",Gastroenteritis
+"cloudy urine, frequent urge to urinate",UTI
+"high fever with chills, body aches, sweating, nausea",Malaria
+"body aches, nausea, sweating, high fever with chills",Malaria
+"frequent urge to urinate, lower abdominal pain",UTI
+"visual disturbances, throbbing headache, nausea, sensitivity to light",Migraine
+"runny nose, sneezing and itchy eyes",Allergy
+"loss of appetite, headache, weakness and fatigue, fever for 2 days",Typhoid
+"flaky patches, rash, burning sensation",Fungal Infection
+"diarrhea, vomiting, dehydration",Gastroenteritis
+"skin hives, sneezing and itchy eyes",Allergy
+"nausea, throbbing headache, sensitivity to light, visual disturbances",Migraine
+"flaky patches, rash",Fungal Infection
+"loss of appetite, itchy blister rash",Chickenpox
+"itchy skin with redness, rash",Fungal Infection
+"rash, burning sensation, flaky patches, itchy skin with redness",Fungal Infection
+"sweating, nausea, body aches, high fever with chills",Malaria
+"fever and tiredness, itchy blister rash",Chickenpox
+"dehydration, diarrhea",Gastroenteritis
+"nausea, visual disturbances",Migraine
+"flaky patches, burning sensation, rash, itchy skin with redness",Fungal Infection
+"sneezing and itchy eyes, skin hives",Allergy
+"sneezing and itchy eyes, skin hives, runny nose",Allergy
+"itchy blister rash, headache, loss of appetite",Chickenpox
+"cough, nasal congestion, sneezing and runny nose",Common Cold
+"sneezing and runny nose, nasal congestion, sore throat, cough",Common Cold
+"painful urination, frequent urge to urinate, lower abdominal pain",UTI
+"heartburn after meals, difficulty swallowing",GERD
+"runny nose, nasal congestion",Allergy
+"vomiting, diarrhea",Gastroenteritis
+"loss of appetite, headache, fever for 5 days",Typhoid
+"sore throat, sneezing and runny nose, cough",Common Cold
+"throbbing headache, nausea, visual disturbances",Migraine
+"visual disturbances, sensitivity to light, nausea, throbbing headache",Migraine
+"abdominal cramps, vomiting",Gastroenteritis
+"frequent urge to urinate, cloudy urine, painful urination, lower abdominal pain",UTI
+"cough, sneezing and runny nose",Common Cold
+"cough, sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"rash, burning sensation, flaky patches, itchy skin with redness",Fungal Infection
+"acid reflux, difficulty swallowing, chest pain, heartburn after meals",GERD
+"loss of appetite, itchy blister rash, fever and tiredness, headache",Chickenpox
+"loss of appetite, fever and tiredness, headache",Chickenpox
+"visual disturbances, nausea, throbbing headache, sensitivity to light",Migraine
+"headache, weakness and fatigue",Typhoid
+"rash, flaky patches, burning sensation",Fungal Infection
+"headache, loss of appetite",Typhoid
+"throbbing headache, visual disturbances, sensitivity to light",Migraine
+"burning sensation, flaky patches",Fungal Infection
+"headache, itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"cough, nasal congestion, sore throat, sneezing and runny nose",Common Cold
+"heartburn after meals, acid reflux",GERD
+"high fever with chills, sweating, nausea, body aches",Malaria
+"chest pain, difficulty swallowing",GERD
+"body aches, sweating, high fever with chills, nausea",Malaria
+"flaky patches, rash, itchy skin with redness",Fungal Infection
+"sensitivity to light, nausea",Migraine
+"lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"itchy blister rash, loss of appetite, headache, fever and tiredness",Chickenpox
+"body aches, high fever with chills",Malaria
+"itchy blister rash, fever and tiredness, headache",Chickenpox
+"throbbing headache, nausea, visual disturbances, sensitivity to light",Migraine
+"high fever with chills, body aches, sweating",Malaria
+"loss of appetite, fever and tiredness",Chickenpox
+"loss of appetite, weakness and fatigue",Typhoid
+"flaky patches, itchy skin with redness",Fungal Infection
+"sweating, body aches",Malaria
+"skin hives, runny nose, nasal congestion",Allergy
+"cloudy urine, painful urination, lower abdominal pain, frequent urge to urinate",UTI
+"chest pain, acid reflux, difficulty swallowing",GERD
+"heartburn after meals, acid reflux",GERD
+"rash, flaky patches, burning sensation",Fungal Infection
+"visual disturbances, sensitivity to light",Migraine
+"itchy skin with redness, flaky patches, rash, burning sensation",Fungal Infection
+"visual disturbances, throbbing headache",Migraine
+"loss of appetite, itchy blister rash, headache",Chickenpox
+"frequent urge to urinate, cloudy urine, lower abdominal pain",UTI
+"cough, sore throat, sneezing and runny nose, nasal congestion",Common Cold
+"frequent urge to urinate, painful urination, cloudy urine",UTI
+"nausea, sweating",Malaria
+"sore throat, cough, nasal congestion, sneezing and runny nose",Common Cold
+"nasal congestion, sore throat, cough",Common Cold
+"dehydration, diarrhea",Gastroenteritis
+"sensitivity to light, throbbing headache, visual disturbances, nausea",Migraine
+"weakness and fatigue, headache",Typhoid
+"acid reflux, chest pain, heartburn after meals, difficulty swallowing",GERD
+"lower abdominal pain, painful urination, cloudy urine, frequent urge to urinate",UTI
+"loss of appetite, fever for 1 days",Typhoid
+"lower abdominal pain, cloudy urine",UTI
+"sweating, body aches, high fever with chills",Malaria
+"lower abdominal pain, cloudy urine",UTI
+"chest pain, heartburn after meals",GERD
+"throbbing headache, nausea",Migraine
+"headache, fever and tiredness",Chickenpox
+"sneezing and runny nose, sore throat, cough, nasal congestion",Common Cold
+"nasal congestion, cough, sneezing and runny nose",Common Cold
+"high fever with chills, nausea, sweating",Malaria
+"nausea, throbbing headache",Migraine
+"sweating, nausea, body aches",Malaria
+"painful urination, cloudy urine, lower abdominal pain",UTI
+"runny nose, nasal congestion, skin hives",Allergy
+"sneezing and runny nose, cough, sore throat",Common Cold
+"painful urination, cloudy urine",UTI
+"skin hives, nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"skin hives, nasal congestion, runny nose",Allergy
+"runny nose, skin hives",Allergy
+"sensitivity to light, nausea, visual disturbances",Migraine
+"nausea, sensitivity to light, visual disturbances, throbbing headache",Migraine
+"difficulty swallowing, acid reflux, chest pain",GERD
+"cloudy urine, frequent urge to urinate",UTI
+"vomiting, dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"visual disturbances, nausea, sensitivity to light",Migraine
+"visual disturbances, throbbing headache, nausea",Migraine
+"difficulty swallowing, heartburn after meals",GERD
+"abdominal cramps, diarrhea, dehydration",Gastroenteritis
+"frequent urge to urinate, painful urination, cloudy urine, lower abdominal pain",UTI
+"heartburn after meals, chest pain, acid reflux",GERD
+"burning sensation, itchy skin with redness, rash, flaky patches",Fungal Infection
+"nasal congestion, sneezing and runny nose, cough, sore throat",Common Cold
+"painful urination, lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"vomiting, diarrhea, abdominal cramps",Gastroenteritis
+"sore throat, nasal congestion, cough",Common Cold
+"sweating, nausea",Malaria
+"sensitivity to light, throbbing headache, nausea",Migraine
+"itchy blister rash, headache, fever and tiredness",Chickenpox
+"diarrhea, dehydration, abdominal cramps, vomiting",Gastroenteritis
+"skin hives, nasal congestion, runny nose, sneezing and itchy eyes",Allergy
+"itchy skin with redness, burning sensation, rash",Fungal Infection
+"nausea, body aches, high fever with chills",Malaria
+"nasal congestion, runny nose, sneezing and itchy eyes",Allergy
+"fever and tiredness, itchy blister rash, loss of appetite",Chickenpox
+"loss of appetite, itchy blister rash, fever and tiredness, headache",Chickenpox
+"throbbing headache, nausea, sensitivity to light",Migraine
+"itchy skin with redness, rash",Fungal Infection
+"sweating, nausea, high fever with chills, body aches",Malaria
+"chest pain, heartburn after meals",GERD
+"sneezing and itchy eyes, nasal congestion",Allergy
+"painful urination, frequent urge to urinate, cloudy urine, lower abdominal pain",UTI
+"dehydration, abdominal cramps, vomiting, diarrhea",Gastroenteritis
+"cough, nasal congestion, sore throat",Common Cold
+"itchy blister rash, fever and tiredness, headache, loss of appetite",Chickenpox
+"nasal congestion, sneezing and runny nose, cough, sore throat",Common Cold
+"fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"chest pain, difficulty swallowing, heartburn after meals",GERD
+"sneezing and itchy eyes, runny nose, skin hives, nasal congestion",Allergy
+"diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"chest pain, heartburn after meals, acid reflux",GERD
+"lower abdominal pain, frequent urge to urinate, painful urination, cloudy urine",UTI
+"body aches, high fever with chills",Malaria
+"cloudy urine, painful urination, lower abdominal pain, frequent urge to urinate",UTI
+"chest pain, heartburn after meals",GERD
+"runny nose, nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"acid reflux, chest pain",GERD
+"chest pain, heartburn after meals",GERD
+"sore throat, cough",Common Cold
+"sore throat, sneezing and runny nose",Common Cold
+"nasal congestion, runny nose",Allergy
+"fever for 3 days, weakness and fatigue, headache",Typhoid
+"abdominal cramps, dehydration",Gastroenteritis
+"flaky patches, burning sensation",Fungal Infection
+"heartburn after meals, difficulty swallowing, acid reflux, chest pain",GERD
+"loss of appetite, headache, fever for 2 days, weakness and fatigue",Typhoid
+"cough, sore throat",Common Cold
+"difficulty swallowing, acid reflux",GERD
+"heartburn after meals, difficulty swallowing, chest pain",GERD
+"cloudy urine, painful urination, lower abdominal pain",UTI
+"acid reflux, heartburn after meals",GERD
+"skin hives, runny nose",Allergy
+"sore throat, nasal congestion, cough, sneezing and runny nose",Common Cold
+"chest pain, acid reflux",GERD
+"rash, flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"cough, sneezing and runny nose, sore throat",Common Cold
+"heartburn after meals, difficulty swallowing, chest pain, acid reflux",GERD
+"headache, loss of appetite, fever and tiredness",Chickenpox
+"frequent urge to urinate, painful urination, lower abdominal pain, cloudy urine",UTI
+"burning sensation, itchy skin with redness, rash",Fungal Infection
+"heartburn after meals, acid reflux",GERD
+"throbbing headache, visual disturbances, nausea",Migraine
+"sensitivity to light, visual disturbances",Migraine
+"loss of appetite, itchy blister rash",Chickenpox
+"abdominal cramps, vomiting, dehydration, diarrhea",Gastroenteritis
+"lower abdominal pain, cloudy urine",UTI
+"lower abdominal pain, frequent urge to urinate, painful urination, cloudy urine",UTI
+"painful urination, lower abdominal pain",UTI
+"acid reflux, heartburn after meals, chest pain, difficulty swallowing",GERD
+"diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"headache, loss of appetite",Chickenpox
+"rash, flaky patches, itchy skin with redness, burning sensation",Fungal Infection
+"loss of appetite, headache, weakness and fatigue, fever for 1 days",Typhoid
+"flaky patches, rash",Fungal Infection
+"frequent urge to urinate, painful urination, lower abdominal pain, cloudy urine",UTI
+"fever for 4 days, headache, weakness and fatigue",Typhoid
+"rash, burning sensation, itchy skin with redness",Fungal Infection
+"cough, nasal congestion, sore throat",Common Cold
+"vomiting, diarrhea",Gastroenteritis
+"diarrhea, dehydration, vomiting",Gastroenteritis
+"burning sensation, itchy skin with redness",Fungal Infection
+"nausea, body aches, high fever with chills, sweating",Malaria
+"headache, weakness and fatigue",Typhoid
+"runny nose, sneezing and itchy eyes, skin hives",Allergy
+"fever for 2 days, weakness and fatigue",Typhoid
+"rash, itchy skin with redness, burning sensation",Fungal Infection
+"lower abdominal pain, frequent urge to urinate, painful urination",UTI
+"itchy blister rash, fever and tiredness",Chickenpox
+"burning sensation, itchy skin with redness, rash, flaky patches",Fungal Infection
+"throbbing headache, visual disturbances",Migraine
+"headache, loss of appetite",Chickenpox
+"throbbing headache, nausea, visual disturbances, sensitivity to light",Migraine
+"chest pain, heartburn after meals, difficulty swallowing, acid reflux",GERD
+"frequent urge to urinate, cloudy urine, painful urination",UTI
+"loss of appetite, headache, fever for 4 days",Typhoid
+"frequent urge to urinate, lower abdominal pain, painful urination, cloudy urine",UTI
+"sweating, body aches, nausea",Malaria
+"itchy skin with redness, flaky patches",Fungal Infection
+"high fever with chills, body aches, nausea, sweating",Malaria
+"headache, loss of appetite, fever for 2 days",Typhoid
+"lower abdominal pain, painful urination, cloudy urine, frequent urge to urinate",UTI
+"cloudy urine, frequent urge to urinate",UTI
+"nasal congestion, sneezing and runny nose",Common Cold
+"nasal congestion, sneezing and itchy eyes",Allergy
+"difficulty swallowing, chest pain, acid reflux",GERD
+"heartburn after meals, chest pain, acid reflux",GERD
+"nausea, body aches",Malaria
+"loss of appetite, fever and tiredness",Chickenpox
+"nasal congestion, skin hives",Allergy
+"body aches, nausea, sweating, high fever with chills",Malaria
+"skin hives, nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"headache, loss of appetite, weakness and fatigue",Typhoid
+"nasal congestion, sore throat, sneezing and runny nose, cough",Common Cold
+"weakness and fatigue, headache",Typhoid
+"lower abdominal pain, frequent urge to urinate, painful urination, cloudy urine",UTI
+"fever and tiredness, itchy blister rash",Chickenpox
+"dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"acid reflux, chest pain, difficulty swallowing",GERD
+"acid reflux, chest pain",GERD
+"cloudy urine, painful urination, frequent urge to urinate",UTI
+"body aches, high fever with chills",Malaria
+"loss of appetite, fever and tiredness, itchy blister rash",Chickenpox
+"vomiting, diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"headache, itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"fever and tiredness, loss of appetite",Chickenpox
+"burning sensation, rash, flaky patches, itchy skin with redness",Fungal Infection
+"itchy skin with redness, flaky patches",Fungal Infection
+"sweating, nausea, body aches, high fever with chills",Malaria
+"sensitivity to light, throbbing headache",Migraine
+"difficulty swallowing, acid reflux, chest pain, heartburn after meals",GERD
+"abdominal cramps, dehydration, vomiting",Gastroenteritis
+"flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"vomiting, diarrhea",Gastroenteritis
+"loss of appetite, itchy blister rash, headache, fever and tiredness",Chickenpox
+"burning sensation, itchy skin with redness, flaky patches, rash",Fungal Infection
+"nausea, sweating",Malaria
+"headache, fever for 3 days, weakness and fatigue",Typhoid
+"fever and tiredness, loss of appetite",Chickenpox
+"nasal congestion, sneezing and itchy eyes, skin hives, runny nose",Allergy
+"cloudy urine, lower abdominal pain, frequent urge to urinate",UTI
+"sweating, high fever with chills",Malaria
+"itchy blister rash, headache, fever and tiredness, loss of appetite",Chickenpox
+"nasal congestion, sneezing and runny nose, sore throat, cough",Common Cold
+"visual disturbances, sensitivity to light",Migraine
+"headache, loss of appetite, weakness and fatigue, fever for 4 days",Typhoid
+"rash, flaky patches, itchy skin with redness",Fungal Infection
+"runny nose, sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"abdominal cramps, vomiting, dehydration",Gastroenteritis
+"heartburn after meals, chest pain, difficulty swallowing",GERD
+"diarrhea, vomiting",Gastroenteritis
+"rash, itchy skin with redness",Fungal Infection
+"weakness and fatigue, headache",Typhoid
+"loss of appetite, headache, weakness and fatigue",Typhoid
+"headache, fever for 1 days",Typhoid
+"chest pain, acid reflux, difficulty swallowing",GERD
+"lower abdominal pain, frequent urge to urinate",UTI
+"sensitivity to light, visual disturbances, throbbing headache, nausea",Migraine
+"body aches, sweating, high fever with chills, nausea",Malaria
+"flaky patches, rash, burning sensation",Fungal Infection
+"abdominal cramps, diarrhea, vomiting",Gastroenteritis
+"sensitivity to light, visual disturbances, nausea",Migraine
+"fever for 4 days, headache, loss of appetite, weakness and fatigue",Typhoid
+"lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"skin hives, sneezing and itchy eyes, runny nose",Allergy
+"sneezing and runny nose, nasal congestion",Common Cold
+"nausea, high fever with chills",Malaria
+"throbbing headache, nausea",Migraine
+"painful urination, frequent urge to urinate, lower abdominal pain",UTI
+"itchy skin with redness, rash",Fungal Infection
+"cloudy urine, painful urination, lower abdominal pain, frequent urge to urinate",UTI
+"visual disturbances, throbbing headache, nausea, sensitivity to light",Migraine
+"nausea, sweating, body aches",Malaria
+"loss of appetite, headache, weakness and fatigue, fever for 2 days",Typhoid
+"nausea, sensitivity to light, throbbing headache, visual disturbances",Migraine
+"headache, fever and tiredness, loss of appetite",Chickenpox
+"weakness and fatigue, headache, fever for 1 days",Typhoid
+"headache, weakness and fatigue",Typhoid
+"headache, loss of appetite, fever and tiredness, itchy blister rash",Chickenpox
+"high fever with chills, nausea, body aches",Malaria
+"throbbing headache, visual disturbances, sensitivity to light",Migraine
+"heartburn after meals, chest pain, difficulty swallowing, acid reflux",GERD
+"weakness and fatigue, headache",Typhoid
+"cough, sneezing and runny nose",Common Cold
+"dehydration, vomiting",Gastroenteritis
+"frequent urge to urinate, painful urination, cloudy urine",UTI
+"fever and tiredness, loss of appetite, headache, itchy blister rash",Chickenpox
+"cloudy urine, lower abdominal pain, painful urination",UTI
+"nasal congestion, sneezing and itchy eyes",Allergy
+"diarrhea, abdominal cramps, vomiting",Gastroenteritis
+"burning sensation, itchy skin with redness, flaky patches, rash",Fungal Infection
+"nasal congestion, sore throat",Common Cold
+"sweating, high fever with chills, nausea, body aches",Malaria
+"runny nose, skin hives, nasal congestion, sneezing and itchy eyes",Allergy
+"cloudy urine, painful urination, lower abdominal pain",UTI
+"diarrhea, abdominal cramps, vomiting, dehydration",Gastroenteritis
+"cough, sore throat, sneezing and runny nose",Common Cold
+"visual disturbances, sensitivity to light, throbbing headache, nausea",Migraine
+"headache, itchy blister rash",Chickenpox
+"dehydration, vomiting, abdominal cramps",Gastroenteritis
+"rash, burning sensation, flaky patches",Fungal Infection
+"acid reflux, heartburn after meals",GERD
+"sneezing and runny nose, cough",Common Cold
+"nausea, body aches, high fever with chills",Malaria
+"headache, itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"burning sensation, rash, flaky patches, itchy skin with redness",Fungal Infection
+"frequent urge to urinate, painful urination",UTI
+"abdominal cramps, diarrhea, vomiting, dehydration",Gastroenteritis
+"nausea, throbbing headache, sensitivity to light",Migraine
+"sore throat, nasal congestion, sneezing and runny nose",Common Cold
+"nasal congestion, sore throat, sneezing and runny nose",Common Cold
+"nausea, throbbing headache, sensitivity to light",Migraine
+"sneezing and runny nose, sore throat",Common Cold
+"throbbing headache, nausea",Migraine
+"itchy skin with redness, rash, burning sensation",Fungal Infection
+"nausea, visual disturbances, sensitivity to light, throbbing headache",Migraine
+"burning sensation, itchy skin with redness, rash, flaky patches",Fungal Infection
+"abdominal cramps, diarrhea, dehydration",Gastroenteritis
+"body aches, sweating, high fever with chills",Malaria
+"heartburn after meals, chest pain",GERD
+"nasal congestion, runny nose",Allergy
+"visual disturbances, sensitivity to light",Migraine
+"headache, weakness and fatigue",Typhoid
+"itchy blister rash, fever and tiredness",Chickenpox
+"acid reflux, heartburn after meals, chest pain",GERD
+"body aches, sweating, high fever with chills, nausea",Malaria
+"rash, itchy skin with redness",Fungal Infection
+"runny nose, nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"cough, sore throat, nasal congestion, sneezing and runny nose",Common Cold
+"body aches, high fever with chills, sweating",Malaria
+"weakness and fatigue, loss of appetite",Typhoid
+"rash, burning sensation",Fungal Infection
+"sore throat, nasal congestion, cough",Common Cold
+"cough, nasal congestion",Common Cold
+"nasal congestion, skin hives, sneezing and itchy eyes, runny nose",Allergy
+"runny nose, skin hives",Allergy
+"lower abdominal pain, painful urination, cloudy urine",UTI
+"loss of appetite, fever for 3 days, weakness and fatigue, headache",Typhoid
+"sore throat, cough, sneezing and runny nose",Common Cold
+"sensitivity to light, throbbing headache, nausea, visual disturbances",Migraine
+"visual disturbances, throbbing headache",Migraine
+"burning sensation, itchy skin with redness, flaky patches",Fungal Infection
+"loss of appetite, fever and tiredness",Chickenpox
+"body aches, nausea, high fever with chills, sweating",Malaria
+"cough, sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"visual disturbances, sensitivity to light, nausea, throbbing headache",Migraine
+"skin hives, runny nose",Allergy
+"throbbing headache, sensitivity to light",Migraine
+"abdominal cramps, dehydration, diarrhea",Gastroenteritis
+"nausea, high fever with chills, sweating, body aches",Malaria
+"chest pain, difficulty swallowing, heartburn after meals, acid reflux",GERD
+"cloudy urine, painful urination, lower abdominal pain, frequent urge to urinate",UTI
+"diarrhea, vomiting, dehydration",Gastroenteritis
+"nausea, body aches",Malaria
+"frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"nasal congestion, runny nose, sneezing and itchy eyes",Allergy
+"difficulty swallowing, acid reflux, chest pain",GERD
+"sore throat, sneezing and runny nose, cough, nasal congestion",Common Cold
+"throbbing headache, sensitivity to light, visual disturbances, nausea",Migraine
+"painful urination, lower abdominal pain, frequent urge to urinate",UTI
+"diarrhea, vomiting, dehydration, abdominal cramps",Gastroenteritis
+"frequent urge to urinate, cloudy urine, lower abdominal pain, painful urination",UTI
+"burning sensation, flaky patches",Fungal Infection
+"sore throat, nasal congestion, sneezing and runny nose, cough",Common Cold
+"nausea, body aches, sweating, high fever with chills",Malaria
+"acid reflux, heartburn after meals, difficulty swallowing, chest pain",GERD
+"chest pain, difficulty swallowing",GERD
+"sensitivity to light, nausea",Migraine
+"throbbing headache, nausea, visual disturbances",Migraine
+"heartburn after meals, chest pain, acid reflux",GERD
+"high fever with chills, sweating, body aches",Malaria
+"sneezing and runny nose, sore throat, nasal congestion, cough",Common Cold
+"nausea, body aches, sweating, high fever with chills",Malaria
+"runny nose, sneezing and itchy eyes",Allergy
+"runny nose, skin hives",Allergy
+"acid reflux, chest pain, heartburn after meals, difficulty swallowing",GERD
+"headache, itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"nausea, body aches",Malaria
+"fever and tiredness, loss of appetite",Chickenpox
+"headache, fever for 2 days, weakness and fatigue, loss of appetite",Typhoid
+"acid reflux, difficulty swallowing",GERD
+"loss of appetite, fever and tiredness, headache",Chickenpox
+"chest pain, acid reflux, heartburn after meals",GERD
+"body aches, high fever with chills, sweating, nausea",Malaria
+"fever and tiredness, loss of appetite, headache, itchy blister rash",Chickenpox
+"runny nose, nasal congestion, skin hives, sneezing and itchy eyes",Allergy
+"burning sensation, itchy skin with redness, flaky patches",Fungal Infection
+"lower abdominal pain, painful urination",UTI
+"vomiting, diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"painful urination, lower abdominal pain, cloudy urine",UTI
+"vomiting, dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"abdominal cramps, dehydration, diarrhea, vomiting",Gastroenteritis
+"loss of appetite, headache, weakness and fatigue",Typhoid
+"high fever with chills, body aches",Malaria
+"cloudy urine, lower abdominal pain, frequent urge to urinate, painful urination",UTI
+"visual disturbances, nausea, throbbing headache",Migraine
+"nausea, sweating",Malaria
+"headache, loss of appetite, fever for 3 days",Typhoid
+"diarrhea, abdominal cramps",Gastroenteritis
+"lower abdominal pain, painful urination",UTI
+"heartburn after meals, difficulty swallowing, chest pain, acid reflux",GERD
+"lower abdominal pain, frequent urge to urinate",UTI
+"headache, itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"loss of appetite, weakness and fatigue, headache",Typhoid
+"cloudy urine, lower abdominal pain, painful urination",UTI
+"sensitivity to light, visual disturbances",Migraine
+"diarrhea, dehydration",Gastroenteritis
+"frequent urge to urinate, painful urination",UTI
+"nasal congestion, sneezing and itchy eyes, runny nose, skin hives",Allergy
+"visual disturbances, sensitivity to light",Migraine
+"flaky patches, burning sensation, rash, itchy skin with redness",Fungal Infection
+"frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"sore throat, cough, nasal congestion",Common Cold
+"sneezing and itchy eyes, skin hives",Allergy
+"nasal congestion, cough, sore throat, sneezing and runny nose",Common Cold
+"heartburn after meals, acid reflux, difficulty swallowing",GERD
+"body aches, sweating",Malaria
+"nasal congestion, sneezing and runny nose, cough",Common Cold
+"cloudy urine, lower abdominal pain, painful urination, frequent urge to urinate",UTI
+"abdominal cramps, vomiting, diarrhea, dehydration",Gastroenteritis
+"visual disturbances, sensitivity to light, throbbing headache",Migraine
+"sneezing and itchy eyes, nasal congestion",Allergy
+"nausea, body aches, high fever with chills, sweating",Malaria
+"sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"sweating, high fever with chills, body aches, nausea",Malaria
+"high fever with chills, body aches, sweating",Malaria
+"lower abdominal pain, painful urination, frequent urge to urinate",UTI
+"vomiting, abdominal cramps",Gastroenteritis
+"frequent urge to urinate, cloudy urine, lower abdominal pain, painful urination",UTI
+"sensitivity to light, visual disturbances, nausea",Migraine
+"loss of appetite, itchy blister rash",Chickenpox
+"sweating, body aches",Malaria
+"skin hives, nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"nausea, sweating, high fever with chills",Malaria
+"headache, fever for 5 days, weakness and fatigue, loss of appetite",Typhoid
+"vomiting, dehydration",Gastroenteritis
+"sore throat, nasal congestion",Common Cold
+"dehydration, diarrhea, vomiting, abdominal cramps",Gastroenteritis
+"flaky patches, itchy skin with redness, burning sensation",Fungal Infection
+"rash, flaky patches, itchy skin with redness, burning sensation",Fungal Infection
+"fever for 2 days, weakness and fatigue, loss of appetite, headache",Typhoid
+"visual disturbances, sensitivity to light, nausea",Migraine
+"difficulty swallowing, acid reflux, chest pain, heartburn after meals",GERD
+"body aches, high fever with chills",Malaria
+"heartburn after meals, difficulty swallowing, acid reflux",GERD
+"heartburn after meals, difficulty swallowing",GERD
+"abdominal cramps, diarrhea, dehydration, vomiting",Gastroenteritis
+"loss of appetite, fever and tiredness, headache",Chickenpox
+"difficulty swallowing, acid reflux",GERD
+"lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"vomiting, diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"sneezing and runny nose, cough, sore throat, nasal congestion",Common Cold
+"headache, fever and tiredness, itchy blister rash, loss of appetite",Chickenpox
+"difficulty swallowing, acid reflux, heartburn after meals, chest pain",GERD
+"diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"painful urination, frequent urge to urinate",UTI
+"visual disturbances, nausea",Migraine
+"high fever with chills, body aches, nausea, sweating",Malaria
+"headache, weakness and fatigue, fever for 5 days",Typhoid
+"skin hives, nasal congestion, sneezing and itchy eyes",Allergy
+"loss of appetite, fever for 2 days, weakness and fatigue, headache",Typhoid
+"chest pain, acid reflux, difficulty swallowing",GERD
+"burning sensation, rash, itchy skin with redness, flaky patches",Fungal Infection
+"nausea, body aches, high fever with chills",Malaria
+"sweating, nausea, high fever with chills",Malaria
+"flaky patches, rash, burning sensation",Fungal Infection
+"cloudy urine, painful urination, lower abdominal pain",UTI
+"skin hives, runny nose, sneezing and itchy eyes, nasal congestion",Allergy
+"dehydration, vomiting",Gastroenteritis
+"flaky patches, itchy skin with redness, burning sensation, rash",Fungal Infection
+"loss of appetite, fever and tiredness, itchy blister rash",Chickenpox
+"skin hives, sneezing and itchy eyes, nasal congestion",Allergy
+"acid reflux, heartburn after meals, chest pain, difficulty swallowing",GERD
+"abdominal cramps, diarrhea, dehydration, vomiting",Gastroenteritis
+"vomiting, diarrhea",Gastroenteritis
+"flaky patches, rash",Fungal Infection
+"nausea, sweating",Malaria
+"frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"burning sensation, itchy skin with redness, flaky patches, rash",Fungal Infection
+"sneezing and runny nose, nasal congestion",Common Cold
+"acid reflux, heartburn after meals, difficulty swallowing",GERD
+"headache, fever for 3 days, loss of appetite",Typhoid
+"loss of appetite, fever for 3 days, weakness and fatigue",Typhoid
+"cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"lower abdominal pain, frequent urge to urinate",UTI
+"loss of appetite, weakness and fatigue",Typhoid
+"chest pain, heartburn after meals, difficulty swallowing, acid reflux",GERD
+"loss of appetite, weakness and fatigue",Typhoid
+"dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"visual disturbances, nausea, throbbing headache, sensitivity to light",Migraine
+"headache, fever for 2 days, loss of appetite, weakness and fatigue",Typhoid
+"acid reflux, chest pain, heartburn after meals, difficulty swallowing",GERD
+"painful urination, cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"dehydration, diarrhea",Gastroenteritis
+"burning sensation, flaky patches, rash, itchy skin with redness",Fungal Infection
+"acid reflux, chest pain, heartburn after meals",GERD
+"throbbing headache, sensitivity to light, visual disturbances, nausea",Migraine
+"acid reflux, difficulty swallowing, heartburn after meals, chest pain",GERD
+"diarrhea, dehydration, abdominal cramps, vomiting",Gastroenteritis
+"chest pain, acid reflux, difficulty swallowing",GERD
+"sneezing and runny nose, cough, nasal congestion",Common Cold
+"diarrhea, vomiting",Gastroenteritis
+"rash, burning sensation",Fungal Infection
+"heartburn after meals, chest pain, acid reflux, difficulty swallowing",GERD
+"skin hives, runny nose, nasal congestion, sneezing and itchy eyes",Allergy
+"headache, fever for 5 days",Typhoid
+"sneezing and runny nose, sore throat",Common Cold
+"weakness and fatigue, headache, loss of appetite, fever for 1 days",Typhoid
+"loss of appetite, weakness and fatigue",Typhoid
+"nausea, high fever with chills, sweating, body aches",Malaria
+"body aches, sweating, nausea",Malaria
+"heartburn after meals, chest pain, acid reflux, difficulty swallowing",GERD
+"skin hives, runny nose",Allergy
+"nausea, body aches, sweating, high fever with chills",Malaria
+"flaky patches, itchy skin with redness, rash, burning sensation",Fungal Infection
+"frequent urge to urinate, lower abdominal pain",UTI
+"lower abdominal pain, cloudy urine, painful urination",UTI
+"cough, sneezing and runny nose, nasal congestion",Common Cold
+"painful urination, lower abdominal pain",UTI
+"itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"loss of appetite, fever for 5 days, headache",Typhoid
+"sore throat, cough",Common Cold
+"sweating, high fever with chills",Malaria
+"headache, loss of appetite",Chickenpox
+"acid reflux, difficulty swallowing, heartburn after meals",GERD
+"sneezing and itchy eyes, nasal congestion, runny nose, skin hives",Allergy
+"loss of appetite, headache, itchy blister rash, fever and tiredness",Chickenpox
+"cloudy urine, frequent urge to urinate",UTI
+"runny nose, nasal congestion",Allergy
+"loss of appetite, headache",Chickenpox
+"sneezing and runny nose, cough, sore throat, nasal congestion",Common Cold
+"cough, sore throat",Common Cold
+"heartburn after meals, difficulty swallowing, chest pain",GERD
+"loss of appetite, fever and tiredness, headache, itchy blister rash",Chickenpox
+"throbbing headache, visual disturbances",Migraine
+"painful urination, cloudy urine",UTI
+"painful urination, cloudy urine",UTI
+"nasal congestion, cough, sore throat",Common Cold
+"weakness and fatigue, fever for 2 days",Typhoid
+"loss of appetite, headache, fever and tiredness, itchy blister rash",Chickenpox
+"rash, burning sensation, flaky patches, itchy skin with redness",Fungal Infection
+"loss of appetite, fever and tiredness, headache",Chickenpox
+"nausea, high fever with chills, sweating",Malaria
+"nausea, visual disturbances",Migraine
+"sweating, nausea, high fever with chills, body aches",Malaria
+"sneezing and runny nose, cough, nasal congestion, sore throat",Common Cold
+"nausea, high fever with chills",Malaria
+"nausea, high fever with chills, body aches, sweating",Malaria
+"loss of appetite, headache",Chickenpox
+"sneezing and itchy eyes, skin hives, runny nose",Allergy
+"lower abdominal pain, frequent urge to urinate, cloudy urine, painful urination",UTI
+"loss of appetite, itchy blister rash",Chickenpox
+"heartburn after meals, difficulty swallowing, acid reflux, chest pain",GERD
+"loss of appetite, fever for 2 days, headache, weakness and fatigue",Typhoid
+"cloudy urine, lower abdominal pain",UTI
+"itchy skin with redness, flaky patches, burning sensation",Fungal Infection
+"headache, loss of appetite, fever for 2 days",Typhoid
+"nasal congestion, sneezing and itchy eyes",Allergy
+"burning sensation, flaky patches, itchy skin with redness",Fungal Infection
+"cough, sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"fever for 4 days, loss of appetite, headache",Typhoid
+"heartburn after meals, chest pain, acid reflux, difficulty swallowing",GERD
+"chest pain, acid reflux, difficulty swallowing",GERD
+"painful urination, cloudy urine, frequent urge to urinate, lower abdominal pain",UTI
+"high fever with chills, body aches, nausea, sweating",Malaria
+"nausea, body aches",Malaria
+"painful urination, cloudy urine",UTI
+"runny nose, nasal congestion, skin hives",Allergy
+"chest pain, difficulty swallowing, acid reflux, heartburn after meals",GERD
+"lower abdominal pain, painful urination, frequent urge to urinate",UTI
+"dehydration, diarrhea, vomiting",Gastroenteritis
+"painful urination, lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"loss of appetite, headache, fever for 5 days, weakness and fatigue",Typhoid
+"cough, nasal congestion, sore throat",Common Cold
+"runny nose, nasal congestion",Allergy
+"lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"abdominal cramps, diarrhea, dehydration, vomiting",Gastroenteritis
+"abdominal cramps, diarrhea",Gastroenteritis
+"throbbing headache, nausea, visual disturbances, sensitivity to light",Migraine
+"runny nose, sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"acid reflux, chest pain, heartburn after meals, difficulty swallowing",GERD
+"burning sensation, rash, itchy skin with redness, flaky patches",Fungal Infection
+"sneezing and itchy eyes, nasal congestion",Allergy
+"flaky patches, rash, burning sensation",Fungal Infection
+"diarrhea, dehydration",Gastroenteritis
+"cough, sneezing and runny nose",Common Cold
+"nasal congestion, runny nose",Allergy
+"nasal congestion, sneezing and runny nose, cough",Common Cold
+"itchy skin with redness, flaky patches",Fungal Infection
+"sweating, body aches, nausea, high fever with chills",Malaria
+"abdominal cramps, diarrhea, vomiting",Gastroenteritis
+"itchy skin with redness, rash, burning sensation, flaky patches",Fungal Infection
+"throbbing headache, nausea, sensitivity to light",Migraine
+"body aches, nausea, high fever with chills",Malaria
+"rash, flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"sweating, nausea, body aches, high fever with chills",Malaria
+"loss of appetite, headache",Chickenpox
+"dehydration, diarrhea, vomiting, abdominal cramps",Gastroenteritis
+"headache, weakness and fatigue, loss of appetite",Typhoid
+"burning sensation, flaky patches",Fungal Infection
+"nasal congestion, runny nose",Allergy
+"itchy skin with redness, rash",Fungal Infection
+"body aches, sweating",Malaria
+"body aches, nausea, sweating",Malaria
+"frequent urge to urinate, cloudy urine, painful urination, lower abdominal pain",UTI
+"throbbing headache, sensitivity to light, nausea, visual disturbances",Migraine
+"sore throat, cough, sneezing and runny nose, nasal congestion",Common Cold
+"acid reflux, chest pain, difficulty swallowing, heartburn after meals",GERD
+"sneezing and itchy eyes, nasal congestion, runny nose, skin hives",Allergy
+"diarrhea, abdominal cramps, dehydration, vomiting",Gastroenteritis
+"sweating, high fever with chills, body aches, nausea",Malaria
+"nasal congestion, skin hives, runny nose",Allergy
+"nausea, visual disturbances, throbbing headache, sensitivity to light",Migraine
+"vomiting, diarrhea, dehydration",Gastroenteritis
+"nasal congestion, runny nose, skin hives, sneezing and itchy eyes",Allergy
+"runny nose, nasal congestion",Allergy
+"chest pain, acid reflux",GERD
+"runny nose, skin hives, nasal congestion, sneezing and itchy eyes",Allergy
+"sneezing and itchy eyes, runny nose",Allergy
+"sweating, high fever with chills, body aches",Malaria
+"dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"itchy skin with redness, burning sensation, rash",Fungal Infection
+"runny nose, skin hives, nasal congestion",Allergy
+"cloudy urine, painful urination, frequent urge to urinate",UTI
+"itchy skin with redness, rash, flaky patches, burning sensation",Fungal Infection
+"sweating, nausea, body aches, high fever with chills",Malaria
+"runny nose, sneezing and itchy eyes",Allergy
+"nausea, visual disturbances",Migraine
+"cough, sore throat, nasal congestion, sneezing and runny nose",Common Cold
+"loss of appetite, itchy blister rash, headache, fever and tiredness",Chickenpox
+"body aches, high fever with chills, sweating, nausea",Malaria
+"weakness and fatigue, loss of appetite, headache, fever for 3 days",Typhoid
+"abdominal cramps, dehydration, diarrhea, vomiting",Gastroenteritis
+"nasal congestion, sneezing and runny nose, cough",Common Cold
+"cough, sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"loss of appetite, headache",Chickenpox
+"sweating, body aches",Malaria
+"throbbing headache, nausea, visual disturbances, sensitivity to light",Migraine
+"loss of appetite, fever and tiredness, headache",Chickenpox
+"cloudy urine, lower abdominal pain",UTI
+"acid reflux, difficulty swallowing",GERD
+"high fever with chills, nausea, body aches",Malaria
+"heartburn after meals, difficulty swallowing, chest pain",GERD
+"sweating, nausea, high fever with chills",Malaria
+"rash, itchy skin with redness, burning sensation",Fungal Infection
+"nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"loss of appetite, fever and tiredness, itchy blister rash",Chickenpox
+"body aches, sweating, high fever with chills",Malaria
+"high fever with chills, sweating, nausea",Malaria
+"flaky patches, rash",Fungal Infection
+"painful urination, cloudy urine",UTI
+"weakness and fatigue, loss of appetite, headache, fever for 4 days",Typhoid
+"painful urination, cloudy urine",UTI
+"difficulty swallowing, acid reflux, heartburn after meals, chest pain",GERD
+"nasal congestion, sneezing and runny nose",Common Cold
+"nausea, throbbing headache, visual disturbances",Migraine
+"headache, loss of appetite, weakness and fatigue, fever for 2 days",Typhoid
+"sensitivity to light, visual disturbances, nausea",Migraine
+"sweating, nausea",Malaria
+"headache, itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"difficulty swallowing, chest pain, acid reflux, heartburn after meals",GERD
+"fever and tiredness, loss of appetite, headache, itchy blister rash",Chickenpox
+"cough, sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"nasal congestion, skin hives, sneezing and itchy eyes, runny nose",Allergy
+"headache, fever and tiredness",Chickenpox
+"sensitivity to light, throbbing headache",Migraine
+"diarrhea, vomiting",Gastroenteritis
+"cloudy urine, painful urination",UTI
+"skin hives, runny nose, nasal congestion, sneezing and itchy eyes",Allergy
+"fever and tiredness, itchy blister rash",Chickenpox
+"loss of appetite, headache",Chickenpox
+"nausea, body aches",Malaria
+"flaky patches, itchy skin with redness",Fungal Infection
+"nausea, body aches",Malaria
+"body aches, sweating",Malaria
+"flaky patches, rash, itchy skin with redness",Fungal Infection
+"sweating, body aches, high fever with chills",Malaria
+"fever for 3 days, headache, loss of appetite, weakness and fatigue",Typhoid
+"fever and tiredness, itchy blister rash",Chickenpox
+"difficulty swallowing, heartburn after meals",GERD
+"nausea, sensitivity to light, throbbing headache, visual disturbances",Migraine
+"abdominal cramps, diarrhea, dehydration",Gastroenteritis
+"flaky patches, itchy skin with redness",Fungal Infection
+"rash, itchy skin with redness",Fungal Infection
+"fever and tiredness, itchy blister rash, loss of appetite",Chickenpox
+"fever for 5 days, loss of appetite, headache",Typhoid
+"fever for 4 days, loss of appetite, weakness and fatigue",Typhoid
+"loss of appetite, weakness and fatigue, headache, fever for 5 days",Typhoid
+"lower abdominal pain, painful urination",UTI
+"runny nose, sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"sore throat, sneezing and runny nose, nasal congestion, cough",Common Cold
+"nasal congestion, skin hives",Allergy
+"frequent urge to urinate, painful urination",UTI
+"throbbing headache, sensitivity to light, nausea, visual disturbances",Migraine
+"fever for 2 days, weakness and fatigue, loss of appetite",Typhoid
+"frequent urge to urinate, painful urination, cloudy urine",UTI
+"itchy blister rash, fever and tiredness",Chickenpox
+"difficulty swallowing, chest pain",GERD
+"lower abdominal pain, frequent urge to urinate, painful urination, cloudy urine",UTI
+"flaky patches, itchy skin with redness, rash",Fungal Infection
+"sweating, body aches",Malaria
+"frequent urge to urinate, painful urination, lower abdominal pain, cloudy urine",UTI
+"dehydration, diarrhea",Gastroenteritis
+"chest pain, acid reflux, difficulty swallowing",GERD
+"runny nose, skin hives, nasal congestion",Allergy
+"dehydration, vomiting, abdominal cramps",Gastroenteritis
+"vomiting, dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"nausea, body aches, high fever with chills",Malaria
+"sweating, nausea",Malaria
+"loss of appetite, weakness and fatigue",Typhoid
+"vomiting, diarrhea, abdominal cramps",Gastroenteritis
+"difficulty swallowing, chest pain",GERD
+"runny nose, sneezing and itchy eyes, nasal congestion",Allergy
+"vomiting, abdominal cramps, diarrhea",Gastroenteritis
+"runny nose, nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"painful urination, cloudy urine, lower abdominal pain, frequent urge to urinate",UTI
+"nausea, visual disturbances",Migraine
+"itchy blister rash, fever and tiredness, headache, loss of appetite",Chickenpox
+"itchy blister rash, loss of appetite, fever and tiredness, headache",Chickenpox
+"runny nose, nasal congestion",Allergy
+"sweating, body aches, nausea",Malaria
+"fever and tiredness, loss of appetite",Chickenpox
+"fever for 3 days, loss of appetite",Typhoid
+"body aches, high fever with chills",Malaria
+"skin hives, sneezing and itchy eyes, nasal congestion, runny nose",Allergy
+"nasal congestion, skin hives",Allergy
+"sensitivity to light, visual disturbances, throbbing headache",Migraine
+"burning sensation, flaky patches",Fungal Infection
+"cough, sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"acid reflux, heartburn after meals, difficulty swallowing",GERD
+"loss of appetite, fever for 2 days, weakness and fatigue",Typhoid
+"painful urination, frequent urge to urinate",UTI
+"acid reflux, difficulty swallowing",GERD
+"abdominal cramps, vomiting, diarrhea",Gastroenteritis
+"loss of appetite, headache, weakness and fatigue, fever for 5 days",Typhoid
+"sneezing and runny nose, sore throat, cough, nasal congestion",Common Cold
+"runny nose, nasal congestion",Allergy
+"rash, itchy skin with redness",Fungal Infection
+"loss of appetite, headache, weakness and fatigue, fever for 1 days",Typhoid
+"heartburn after meals, acid reflux, difficulty swallowing",GERD
+"fever and tiredness, loss of appetite",Chickenpox
+"burning sensation, flaky patches, rash",Fungal Infection
+"acid reflux, chest pain, heartburn after meals",GERD
+"visual disturbances, nausea, throbbing headache",Migraine
+"cough, nasal congestion, sore throat",Common Cold
+"nausea, body aches, sweating",Malaria
+"body aches, sweating, high fever with chills",Malaria
+"high fever with chills, sweating, body aches",Malaria
+"vomiting, dehydration, abdominal cramps",Gastroenteritis
+"chest pain, difficulty swallowing, acid reflux, heartburn after meals",GERD
+"rash, flaky patches, burning sensation",Fungal Infection
+"heartburn after meals, difficulty swallowing",GERD
+"runny nose, skin hives, sneezing and itchy eyes, nasal congestion",Allergy
+"nausea, sweating",Malaria
+"vomiting, diarrhea, abdominal cramps, dehydration",Gastroenteritis
+"painful urination, frequent urge to urinate, lower abdominal pain",UTI
+"skin hives, nasal congestion, runny nose",Allergy
+"headache, itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"itchy blister rash, headache, fever and tiredness, loss of appetite",Chickenpox
+"vomiting, abdominal cramps, diarrhea, dehydration",Gastroenteritis
+"headache, fever for 4 days, loss of appetite",Typhoid
+"sweating, body aches",Malaria
+"nasal congestion, cough",Common Cold
+"headache, itchy blister rash, fever and tiredness",Chickenpox
+"headache, itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"dehydration, abdominal cramps, vomiting",Gastroenteritis
+"itchy blister rash, headache",Chickenpox
+"burning sensation, rash, itchy skin with redness",Fungal Infection
+"sneezing and itchy eyes, nasal congestion",Allergy
+"lower abdominal pain, frequent urge to urinate, painful urination, cloudy urine",UTI
+"frequent urge to urinate, lower abdominal pain",UTI
+"sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"acid reflux, chest pain, difficulty swallowing, heartburn after meals",GERD
+"visual disturbances, nausea, sensitivity to light, throbbing headache",Migraine
+"chest pain, acid reflux, difficulty swallowing",GERD
+"nasal congestion, sneezing and runny nose",Common Cold
+"nasal congestion, runny nose",Allergy
+"dehydration, abdominal cramps, vomiting",Gastroenteritis
+"cloudy urine, frequent urge to urinate, painful urination",UTI
+"sweating, high fever with chills, nausea",Malaria
+"sweating, nausea, high fever with chills, body aches",Malaria
+"abdominal cramps, vomiting",Gastroenteritis
+"burning sensation, rash, flaky patches",Fungal Infection
+"heartburn after meals, difficulty swallowing, acid reflux",GERD
+"visual disturbances, throbbing headache, nausea, sensitivity to light",Migraine
+"chest pain, acid reflux, difficulty swallowing",GERD
+"sore throat, sneezing and runny nose, cough, nasal congestion",Common Cold
+"painful urination, lower abdominal pain, frequent urge to urinate",UTI
+"heartburn after meals, difficulty swallowing",GERD
+"body aches, high fever with chills, sweating, nausea",Malaria
+"sensitivity to light, throbbing headache",Migraine
+"body aches, sweating, high fever with chills",Malaria
+"itchy skin with redness, flaky patches, burning sensation, rash",Fungal Infection
+"sensitivity to light, visual disturbances, throbbing headache, nausea",Migraine
+"sneezing and itchy eyes, runny nose, skin hives",Allergy
+"vomiting, dehydration, abdominal cramps, diarrhea",Gastroenteritis
+"lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"sensitivity to light, nausea",Migraine
+"loss of appetite, weakness and fatigue",Typhoid
+"diarrhea, vomiting, dehydration",Gastroenteritis
+"high fever with chills, sweating, nausea",Malaria
+"itchy blister rash, headache, loss of appetite, fever and tiredness",Chickenpox
+"throbbing headache, sensitivity to light, nausea, visual disturbances",Migraine
+"vomiting, diarrhea, dehydration, abdominal cramps",Gastroenteritis
+"diarrhea, abdominal cramps",Gastroenteritis
+"heartburn after meals, acid reflux, difficulty swallowing",GERD
+"loss of appetite, fever for 2 days",Typhoid
+"throbbing headache, nausea, visual disturbances",Migraine
+"runny nose, skin hives",Allergy
+"chest pain, difficulty swallowing, acid reflux",GERD
+"throbbing headache, visual disturbances, nausea",Migraine
+"sensitivity to light, visual disturbances",Migraine
+"diarrhea, vomiting, abdominal cramps",Gastroenteritis
+"nausea, sweating",Malaria
+"heartburn after meals, acid reflux",GERD
+"skin hives, nasal congestion, runny nose, sneezing and itchy eyes",Allergy
+"chest pain, heartburn after meals, difficulty swallowing",GERD
+"nasal congestion, cough, sore throat",Common Cold
+"dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"itchy blister rash, headache, loss of appetite, fever and tiredness",Chickenpox
+"weakness and fatigue, loss of appetite, fever for 1 days, headache",Typhoid
+"headache, itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"runny nose, sneezing and itchy eyes, nasal congestion, skin hives",Allergy
+"cloudy urine, lower abdominal pain, painful urination",UTI
+"loss of appetite, headache",Typhoid
+"diarrhea, abdominal cramps, vomiting",Gastroenteritis
+"headache, fever and tiredness, loss of appetite",Chickenpox
+"chest pain, acid reflux",GERD
+"skin hives, sneezing and itchy eyes, runny nose",Allergy
+"fever and tiredness, headache, loss of appetite, itchy blister rash",Chickenpox
+"sweating, nausea",Malaria
+"nausea, visual disturbances, throbbing headache",Migraine
+"nasal congestion, runny nose, sneezing and itchy eyes",Allergy
+"sensitivity to light, nausea, throbbing headache",Migraine
+"body aches, nausea",Malaria
+"painful urination, lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"abdominal cramps, vomiting, diarrhea, dehydration",Gastroenteritis
+"runny nose, skin hives",Allergy
+"headache, weakness and fatigue, fever for 4 days, loss of appetite",Typhoid
+"headache, loss of appetite",Typhoid
+"flaky patches, rash, itchy skin with redness",Fungal Infection
+"itchy skin with redness, flaky patches, rash",Fungal Infection
+"loss of appetite, fever for 1 days",Typhoid
+"rash, itchy skin with redness, flaky patches",Fungal Infection
+"nausea, sensitivity to light, visual disturbances",Migraine
+"visual disturbances, sensitivity to light, throbbing headache",Migraine
+"body aches, sweating, nausea",Malaria
+"sensitivity to light, nausea",Migraine
+"fever for 4 days, loss of appetite, headache",Typhoid
+"acid reflux, difficulty swallowing",GERD
+"flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"flaky patches, rash",Fungal Infection
+"frequent urge to urinate, painful urination, lower abdominal pain",UTI
+"flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"body aches, sweating, nausea, high fever with chills",Malaria
+"nausea, visual disturbances, throbbing headache",Migraine
+"frequent urge to urinate, painful urination",UTI
+"fever for 5 days, weakness and fatigue, loss of appetite",Typhoid
+"rash, burning sensation, itchy skin with redness, flaky patches",Fungal Infection
+"vomiting, dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"rash, itchy skin with redness, flaky patches",Fungal Infection
+"rash, flaky patches, burning sensation",Fungal Infection
+"sore throat, nasal congestion, sneezing and runny nose, cough",Common Cold
+"body aches, sweating",Malaria
+"dehydration, vomiting, abdominal cramps, diarrhea",Gastroenteritis
+"loss of appetite, headache, weakness and fatigue",Typhoid
+"high fever with chills, body aches, sweating, nausea",Malaria
+"flaky patches, rash, burning sensation, itchy skin with redness",Fungal Infection
+"acid reflux, difficulty swallowing, chest pain, heartburn after meals",GERD
+"body aches, sweating, nausea, high fever with chills",Malaria
+"skin hives, runny nose, nasal congestion",Allergy
+"nausea, body aches, sweating",Malaria
+"rash, flaky patches, burning sensation, itchy skin with redness",Fungal Infection
+"chest pain, acid reflux",GERD
+"sweating, nausea, high fever with chills, body aches",Malaria
+"chest pain, difficulty swallowing",GERD
+"abdominal cramps, vomiting, dehydration",Gastroenteritis
+"sore throat, cough",Common Cold
+"vomiting, dehydration, abdominal cramps",Gastroenteritis
+"abdominal cramps, dehydration, diarrhea, vomiting",Gastroenteritis
+"loss of appetite, fever for 5 days, headache, weakness and fatigue",Typhoid
+"sore throat, nasal congestion",Common Cold
+"frequent urge to urinate, cloudy urine",UTI
+"nausea, visual disturbances",Migraine
+"visual disturbances, sensitivity to light",Migraine
+"abdominal cramps, dehydration",Gastroenteritis
+"frequent urge to urinate, painful urination, cloudy urine, lower abdominal pain",UTI
+"nasal congestion, sneezing and itchy eyes, runny nose, skin hives",Allergy
+"fever for 5 days, weakness and fatigue, headache, loss of appetite",Typhoid
+"loss of appetite, headache, fever for 2 days, weakness and fatigue",Typhoid
+"headache, fever for 3 days",Typhoid
+"headache, fever for 5 days, weakness and fatigue",Typhoid
+"chest pain, acid reflux, difficulty swallowing",GERD
+"loss of appetite, weakness and fatigue",Typhoid
+"runny nose, skin hives",Allergy
+"chest pain, heartburn after meals, acid reflux",GERD
+"nausea, throbbing headache",Migraine
+"heartburn after meals, difficulty swallowing, chest pain, acid reflux",GERD
+"sore throat, nasal congestion, cough, sneezing and runny nose",Common Cold
+"weakness and fatigue, loss of appetite, headache, fever for 3 days",Typhoid
+"weakness and fatigue, fever for 1 days",Typhoid
+"cough, sore throat, sneezing and runny nose, nasal congestion",Common Cold
+"runny nose, skin hives, nasal congestion",Allergy
+"fever for 5 days, headache",Typhoid
+"acid reflux, heartburn after meals, chest pain, difficulty swallowing",GERD
+"itchy blister rash, headache, loss of appetite",Chickenpox
+"high fever with chills, sweating, body aches, nausea",Malaria
+"cough, nasal congestion, sore throat",Common Cold
+"sneezing and itchy eyes, skin hives, nasal congestion",Allergy
+"itchy skin with redness, burning sensation",Fungal Infection
+"nausea, sweating, high fever with chills, body aches",Malaria
+"fever and tiredness, itchy blister rash",Chickenpox
+"throbbing headache, visual disturbances, sensitivity to light",Migraine
+"nasal congestion, runny nose, sneezing and itchy eyes",Allergy
+"vomiting, abdominal cramps, dehydration",Gastroenteritis
+"nasal congestion, sneezing and runny nose",Common Cold
+"lower abdominal pain, cloudy urine, painful urination",UTI
+"flaky patches, itchy skin with redness",Fungal Infection
+"cloudy urine, frequent urge to urinate",UTI
+"loss of appetite, headache",Chickenpox
+"itchy skin with redness, burning sensation",Fungal Infection
+"fever and tiredness, loss of appetite",Chickenpox
+"rash, itchy skin with redness, flaky patches, burning sensation",Fungal Infection
+"dehydration, vomiting, abdominal cramps, diarrhea",Gastroenteritis
+"cough, sore throat",Common Cold
+"vomiting, dehydration, diarrhea",Gastroenteritis
+"visual disturbances, sensitivity to light",Migraine
+"sneezing and runny nose, sore throat, nasal congestion",Common Cold
+"visual disturbances, sensitivity to light, nausea",Migraine
+"cloudy urine, painful urination",UTI
+"fever and tiredness, loss of appetite, headache",Chickenpox
+"chest pain, difficulty swallowing",GERD
+"itchy blister rash, fever and tiredness, loss of appetite",Chickenpox
+"cough, nasal congestion",Common Cold
+"skin hives, nasal congestion, sneezing and itchy eyes",Allergy
+"skin hives, runny nose",Allergy
+"sore throat, nasal congestion, sneezing and runny nose",Common Cold
+"nausea, visual disturbances, sensitivity to light",Migraine
+"fever for 5 days, headache, loss of appetite, weakness and fatigue",Typhoid
+"skin hives, nasal congestion, sneezing and itchy eyes",Allergy
+"visual disturbances, sensitivity to light, throbbing headache, nausea",Migraine
+"nausea, sweating, high fever with chills",Malaria
+"sneezing and runny nose, nasal congestion, cough",Common Cold
+"flaky patches, rash, burning sensation",Fungal Infection
+"sneezing and runny nose, cough",Common Cold
+"lower abdominal pain, cloudy urine, painful urination",UTI
+"dehydration, diarrhea, vomiting",Gastroenteritis
+"loss of appetite, headache, itchy blister rash",Chickenpox
+"chest pain, acid reflux",GERD
+"difficulty swallowing, acid reflux, chest pain",GERD
+"frequent urge to urinate, cloudy urine, lower abdominal pain",UTI
+"nasal congestion, skin hives, runny nose, sneezing and itchy eyes",Allergy
+"visual disturbances, throbbing headache",Migraine
+"fever for 2 days, headache, loss of appetite, weakness and fatigue",Typhoid
+"headache, weakness and fatigue, fever for 5 days",Typhoid
+"sneezing and runny nose, cough, sore throat",Common Cold
+"diarrhea, vomiting",Gastroenteritis
+"throbbing headache, visual disturbances, nausea",Migraine
+"fever for 3 days, weakness and fatigue",Typhoid
+"diarrhea, vomiting, dehydration",Gastroenteritis
+"frequent urge to urinate, painful urination, cloudy urine",UTI
+"burning sensation, flaky patches, rash, itchy skin with redness",Fungal Infection
+"chest pain, acid reflux, difficulty swallowing, heartburn after meals",GERD
+"vomiting, abdominal cramps, diarrhea, dehydration",Gastroenteritis
+"weakness and fatigue, headache, fever for 4 days, loss of appetite",Typhoid
+"difficulty swallowing, acid reflux, heartburn after meals",GERD
+"abdominal cramps, dehydration, diarrhea, vomiting",Gastroenteritis
+"painful urination, lower abdominal pain, frequent urge to urinate, cloudy urine",UTI
+"nausea, high fever with chills",Malaria
+"dehydration, abdominal cramps, vomiting",Gastroenteritis
+"itchy blister rash, loss of appetite, fever and tiredness, headache",Chickenpox
+"weakness and fatigue, loss of appetite, fever for 2 days",Typhoid
+"heartburn after meals, acid reflux, difficulty swallowing",GERD
+"sneezing and runny nose, sore throat, cough, nasal congestion",Common Cold
+"burning sensation, rash",Fungal Infection
+"acid reflux, difficulty swallowing",GERD
+"flaky patches, burning sensation, rash",Fungal Infection
+"rash, burning sensation, flaky patches",Fungal Infection
+"chest pain, heartburn after meals, acid reflux",GERD
+"loss of appetite, itchy blister rash, headache, fever and tiredness",Chickenpox
+"skin hives, nasal congestion",Allergy
+"sweating, high fever with chills, body aches, nausea",Malaria
+"headache, weakness and fatigue, fever for 4 days",Typhoid
+"loss of appetite, headache",Chickenpox
+"sensitivity to light, nausea",Migraine
+"skin hives, sneezing and itchy eyes",Allergy
+"painful urination, frequent urge to urinate, cloudy urine",UTI
+"skin hives, sneezing and itchy eyes, nasal congestion, runny nose",Allergy
+"nausea, body aches, sweating, high fever with chills",Malaria
+"loss of appetite, itchy blister rash, fever and tiredness",Chickenpox
+"sneezing and itchy eyes, runny nose, nasal congestion, skin hives",Allergy
+"lower abdominal pain, cloudy urine, frequent urge to urinate, painful urination",UTI
+"visual disturbances, throbbing headache, sensitivity to light, nausea",Migraine
+"difficulty swallowing, chest pain",GERD
+"difficulty swallowing, chest pain, heartburn after meals, acid reflux",GERD
+"frequent urge to urinate, lower abdominal pain, painful urination",UTI
+"sensitivity to light, visual disturbances, throbbing headache, nausea",Migraine
+"cloudy urine, frequent urge to urinate",UTI
+"body aches, high fever with chills, sweating, nausea",Malaria
+"frequent urge to urinate, cloudy urine",UTI
+"cloudy urine, painful urination",UTI
+"cloudy urine, frequent urge to urinate, painful urination",UTI
+"difficulty swallowing, chest pain, heartburn after meals",GERD
+"sweating, body aches, high fever with chills, nausea",Malaria
+"painful urination, cloudy urine",UTI
+"nasal congestion, runny nose, skin hives, sneezing and itchy eyes",Allergy
+"loss of appetite, headache",Chickenpox
+"heartburn after meals, acid reflux, difficulty swallowing",GERD
+"painful urination, frequent urge to urinate, lower abdominal pain",UTI
+"headache, weakness and fatigue",Typhoid
+"cough, sore throat, sneezing and runny nose, nasal congestion",Common Cold
+"nausea, body aches, sweating, high fever with chills",Malaria
+"dehydration, diarrhea, abdominal cramps, vomiting",Gastroenteritis
+"nasal congestion, sore throat, sneezing and runny nose, cough",Common Cold
+"weakness and fatigue, headache, fever for 2 days, loss of appetite",Typhoid
+"body aches, high fever with chills, nausea, sweating",Malaria
+"difficulty swallowing, chest pain, acid reflux",GERD
+"chest pain, acid reflux, heartburn after meals",GERD
+"nausea, throbbing headache, sensitivity to light",Migraine
+"lower abdominal pain, frequent urge to urinate",UTI
+"body aches, sweating, high fever with chills, nausea",Malaria
+"loss of appetite, headache",Chickenpox
+"rash, itchy skin with redness, burning sensation",Fungal Infection
+"itchy blister rash, headache, loss of appetite",Chickenpox
+"diarrhea, dehydration",Gastroenteritis
+"dehydration, abdominal cramps, diarrhea",Gastroenteritis
+"cough, sore throat",Common Cold
+"loss of appetite, headache, fever for 5 days",Typhoid
+"cloudy urine, frequent urge to urinate, painful urination, lower abdominal pain",UTI
+"rash, itchy skin with redness, burning sensation",Fungal Infection
+"itchy skin with redness, rash, flaky patches, burning sensation",Fungal Infection
+"acid reflux, heartburn after meals",GERD
+"acid reflux, chest pain, difficulty swallowing",GERD
+"itchy blister rash, loss of appetite",Chickenpox
+"heartburn after meals, difficulty swallowing",GERD
+"headache, itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"diarrhea, vomiting",Gastroenteritis
+"cloudy urine, frequent urge to urinate",UTI
+"cough, sneezing and runny nose",Common Cold
+"sweating, body aches, nausea, high fever with chills",Malaria
+"high fever with chills, nausea, body aches",Malaria
+"runny nose, sneezing and itchy eyes, nasal congestion",Allergy
+"nasal congestion, sneezing and itchy eyes, skin hives",Allergy
+"nasal congestion, sore throat, sneezing and runny nose, cough",Common Cold
+"acid reflux, difficulty swallowing",GERD
+"cough, sore throat",Common Cold
+"difficulty swallowing, heartburn after meals",GERD
+"itchy skin with redness, flaky patches, burning sensation, rash",Fungal Infection
+"acid reflux, chest pain",GERD
+"itchy skin with redness, rash, flaky patches, burning sensation",Fungal Infection
+"itchy blister rash, fever and tiredness",Chickenpox
+"difficulty swallowing, acid reflux, chest pain, heartburn after meals",GERD
+"cough, nasal congestion, sore throat",Common Cold
+"burning sensation, flaky patches, itchy skin with redness, rash",Fungal Infection
+"throbbing headache, nausea",Migraine
+"visual disturbances, sensitivity to light",Migraine
+"diarrhea, abdominal cramps, vomiting",Gastroenteritis
+"nausea, throbbing headache",Migraine
+"weakness and fatigue, fever for 1 days",Typhoid
+"cloudy urine, painful urination",UTI
+"painful urination, lower abdominal pain, cloudy urine, frequent urge to urinate",UTI
+"visual disturbances, throbbing headache",Migraine
+"sweating, high fever with chills",Malaria
+"acid reflux, chest pain, heartburn after meals, difficulty swallowing",GERD
+"sweating, body aches, nausea",Malaria
+"chest pain, acid reflux",GERD
+"heartburn after meals, difficulty swallowing",GERD
+"fever for 3 days, weakness and fatigue",Typhoid
+"runny nose, sneezing and itchy eyes, nasal congestion, skin hives",Allergy
+"nausea, visual disturbances, throbbing headache, sensitivity to light",Migraine
+"fever for 1 days, loss of appetite, weakness and fatigue, headache",Typhoid
+"fever and tiredness, itchy blister rash",Chickenpox
+"sensitivity to light, visual disturbances, nausea, throbbing headache",Migraine
+"acid reflux, heartburn after meals",GERD
+"sweating, nausea, high fever with chills",Malaria
+"sneezing and itchy eyes, runny nose",Allergy
+"nausea, sweating",Malaria
+"nasal congestion, cough, sore throat",Common Cold
+"skin hives, runny nose",Allergy
+"sneezing and itchy eyes, skin hives, runny nose, nasal congestion",Allergy
+"heartburn after meals, acid reflux, difficulty swallowing",GERD
+"sneezing and itchy eyes, nasal congestion",Allergy
+"weakness and fatigue, loss of appetite, fever for 1 days, headache",Typhoid
+"flaky patches, itchy skin with redness",Fungal Infection
+"fever for 5 days, headache, weakness and fatigue",Typhoid
+"vomiting, dehydration, diarrhea, abdominal cramps",Gastroenteritis
+"nasal congestion, sneezing and runny nose, cough",Common Cold
+"rash, burning sensation, flaky patches, itchy skin with redness",Fungal Infection
+"chest pain, acid reflux",GERD
+"sore throat, nasal congestion",Common Cold
+"burning sensation, flaky patches",Fungal Infection
+"cough, sore throat",Common Cold
+"dehydration, vomiting",Gastroenteritis
+"difficulty swallowing, chest pain",GERD
+"itchy skin with redness, burning sensation, rash",Fungal Infection
+"sneezing and itchy eyes, runny nose, skin hives",Allergy
+"diarrhea, abdominal cramps, dehydration, vomiting",Gastroenteritis
+"cough, sneezing and runny nose, nasal congestion",Common Cold
+"headache, loss of appetite, fever for 1 days, weakness and fatigue",Typhoid
+"difficulty swallowing, acid reflux",GERD
+"dehydration, vomiting",Gastroenteritis
+"loss of appetite, fever and tiredness, headache, itchy blister rash",Chickenpox
+"frequent urge to urinate, lower abdominal pain, painful urination, cloudy urine",UTI
+"painful urination, lower abdominal pain",UTI
+"sneezing and itchy eyes, runny nose",Allergy
+"sore throat, sneezing and runny nose, cough, nasal congestion",Common Cold
+"cough, sneezing and runny nose, nasal congestion",Common Cold
+"acid reflux, chest pain, heartburn after meals",GERD
+"cloudy urine, painful urination, lower abdominal pain",UTI
+"fever and tiredness, loss of appetite",Chickenpox
+"loss of appetite, fever and tiredness, headache",Chickenpox
+"headache, fever and tiredness, loss of appetite, itchy blister rash",Chickenpox
+"cloudy urine, lower abdominal pain, painful urination, frequent urge to urinate",UTI
+"painful urination, frequent urge to urinate, cloudy urine, lower abdominal pain",UTI
+"sweating, high fever with chills",Malaria
+"visual disturbances, sensitivity to light, throbbing headache",Migraine
+"itchy skin with redness, rash, flaky patches",Fungal Infection
+"sweating, body aches, high fever with chills",Malaria
+"difficulty swallowing, chest pain, acid reflux",GERD
+"fever for 4 days, headache",Typhoid
+"painful urination, lower abdominal pain, cloudy urine",UTI
+"itchy blister rash, headache",Chickenpox
+"headache, fever for 4 days",Typhoid
+"itchy blister rash, loss of appetite, fever and tiredness",Chickenpox
+"itchy blister rash, headache, loss of appetite, fever and tiredness",Chickenpox
+"visual disturbances, throbbing headache, sensitivity to light",Migraine
+"itchy blister rash, headache",Chickenpox
+"high fever with chills, nausea, body aches, sweating",Malaria
+"nasal congestion, sneezing and itchy eyes, runny nose",Allergy
+"high fever with chills, body aches, nausea, sweating",Malaria
+"fever and tiredness, itchy blister rash",Chickenpox
+"dehydration, vomiting, abdominal cramps, diarrhea",Gastroenteritis
+"sensitivity to light, visual disturbances, throbbing headache, nausea",Migraine
+"sweating, body aches, high fever with chills",Malaria
+"nausea, visual disturbances, sensitivity to light, throbbing headache",Migraine
+"difficulty swallowing, acid reflux",GERD
+"sensitivity to light, throbbing headache",Migraine
+"runny nose, nasal congestion, sneezing and itchy eyes",Allergy
+"sneezing and runny nose, cough",Common Cold
+"sore throat, cough, sneezing and runny nose, nasal congestion",Common Cold
+"frequent urge to urinate, cloudy urine",UTI
+"weakness and fatigue, loss of appetite, fever for 2 days",Typhoid
+"chest pain, acid reflux, difficulty swallowing, heartburn after meals",GERD
+"sensitivity to light, nausea, visual disturbances, throbbing headache",Migraine

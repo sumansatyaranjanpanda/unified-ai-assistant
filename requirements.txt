@@ -1,0 +1,55 @@
+# Core
+python-dotenv
+streamlit
+pydantic
+tqdm
+
+# ML/DL/NLP
+scikit-learn
+pandas
+numpy
+matplotlib
+nltk
+spacy
+torch
+transformers
+sentence-transformers
+tensorflow==2.15.0
+
+# GenAI / OpenAI
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchainhub
+
+# Vector Stores / RAG
+faiss-cpu
+chromadb
+tiktoken
+
+# File Parsing
+PyPDF2
+unstructured
+python-docx
+pdfminer.six
+
+# Agentic AI
+duckduckgo-search
+beautifulsoup4
+html2text
+requests
+
+# Logging and Utility
+loguru
+termcolor
+rich
+
+# Deployment (Optional but helpful)
+gunicorn
+uvicorn
+
+SpeechRecognition
+pyaudio
+openai-whisper
