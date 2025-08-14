@@ -9,7 +9,7 @@ from utils.dl_predictor import predict_disease_dl
 from rag.healthcare_qa import ask_healthcare
 
 from dotenv import load_dotenv
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 

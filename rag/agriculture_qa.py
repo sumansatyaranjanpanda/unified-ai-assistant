@@ -1,9 +1,9 @@
-import os
 from langchain.chains import RetrievalQA
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import FAISS
+from langchain_openai import ChatOpenAI
+from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
+import os
 from dotenv import load_dotenv
-from langchain.chat_models import ChatOpenAI
 
 load_dotenv()
 ##os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
