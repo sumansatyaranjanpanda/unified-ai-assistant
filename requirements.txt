@@ -1,55 +1,55 @@
 # Core
-python-dotenv
-streamlit
-pydantic
-tqdm
+python-dotenv==1.0.1
+streamlit==1.35.0
+pydantic==2.6.4
+tqdm==4.66.4
 
 # ML/DL/NLP
-scikit-learn
-pandas
-numpy
-matplotlib
-nltk
-spacy
-torch
-transformers
-sentence-transformers
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+nltk==3.8.1
+spacy==3.7.4
+torch==2.2.2
+transformers==4.39.3
+sentence-transformers==2.5.1
 tensorflow==2.15.0
 
 # GenAI / OpenAI
-openai
-langchain
-langchain-community
-langchain-openai
-langchain-core
-langchainhub
+openai==1.25.0
+langchain==0.1.14
+langchain-community==0.0.33
+langchain-openai==0.0.8
+langchain-core==0.1.42
+langchainhub==0.1.15
 
 # Vector Stores / RAG
-faiss-cpu
-chromadb
-tiktoken
+faiss-cpu==1.8.0
+chromadb==0.4.24
+tiktoken==0.6.0
 
 # File Parsing
-PyPDF2
-unstructured
-python-docx
-pdfminer.six
+PyPDF2==3.0.1
+unstructured==0.14.2
+python-docx==1.1.0
+pdfminer.six==20231228
 
 # Agentic AI
-duckduckgo-search
-beautifulsoup4
-html2text
-requests
+duckduckgo-search==5.1.0
+beautifulsoup4==4.12.3
+html2text==2024.2.26
+requests==2.32.3
 
 # Logging and Utility
-loguru
-termcolor
-rich
+loguru==0.7.2
+termcolor==2.4.0
+rich==13.7.1
 
 # Deployment (Optional but helpful)
-gunicorn
-uvicorn
+gunicorn==22.0.0
+uvicorn==0.29.0
 
-SpeechRecognition
-pyaudio
-openai-whisper
+SpeechRecognition==3.10.4
+pyaudio==0.2.14
+openai-whisper==20231117
