@@ -189,7 +189,6 @@ python rag/agriculture_rag.py
 streamlit run streamlit_app.py
 ```
 
-Visit `http://localhost:8501` to access the application! 🎉
 
 ---
 
